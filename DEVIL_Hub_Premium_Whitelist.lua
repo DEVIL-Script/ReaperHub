@@ -1,4 +1,8 @@
-[ "Eh0ZEhsZGB4dGA==", "931823254195294228", true ]
-[ "GB4cHxoaGBwYHw==", "931823254195294228", true ]
-[ "GRwcEh8d", "931823254195294228", true ]
-[ "Gx0THBIdGA==", "931823254195294228", true ]
+local DiscordWhitelist = {
+          ["Eh0ZEhsZGB4dGA=="] = {discordId = "931823254195294228", active = true},
+  ["GB4cHxoaGBwYHw=="] = {discordId = "931823254195294228", active = true},
+  ["GRwcEh8d"] = {discordId = "931823254195294228", active = true},
+  ["Gx0THBIdGA=="] = {discordId = "931823254195294228", active = true},
+    }
+
+    return Whitelist
