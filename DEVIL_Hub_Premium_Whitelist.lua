@@ -51,6 +51,8 @@ local DiscordWhitelist = {
     ["Ex0SGRwcEx4T"] = {discordId = "1259964597604188253", active = true},
     ["GB0TGxMfGxsSGA=="] = {discordId = "1300900057737859084", active = true},
     ["GR0dGBoSHRgc"] = {discordId = "597511070537744404", active = true},
+    ["GRkeHh0cEhsbEg=="] = {discordId = "389602367827476480", active = true},
+    ["GB8ZGRMbGxgcGQ=="] = {discordId = "987141913650016336", active = true},
     ["GxMeHxMYGx0fHA=="] = {discordId = "931823254195294228", active = true},
     ["Eh0ZEhsZGB4dGA=="] = {discordId = "931823254195294228", active = true},
     ["GB4cHxoaGBwYHw=="] = {discordId = "931823254195294228", active = true},
@@ -62,8 +64,6 @@ local DiscordWhitelist = {
     ["Eh0cHxIeGhsdHA=="] = {discordId = "931823254195294228", active = true},
     ["EhwYExsYGxIbHQ=="] = {discordId = "931823254195294228", active = true},
     ["GR4fGBMcHx8TEg=="] = {discordId = "931823254195294228", active = true},
-    ["GRkeHh0cEhsbEg=="] = {discordId = "389602367827476480", active = true},
-    ["EhIZGhoTHBkYHw=="] = {discordId = "931823254195294228", active = false},
-    ["GB8ZGRMbGxgcGQ=="] = {discordId = "987141913650016336", active = true},
+    ["EhIZGhoTHBkYHw=="] = {discordId = "931823254195294228", active = true},
 }
 return DiscordWhitelist
