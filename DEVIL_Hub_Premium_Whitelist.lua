@@ -36,7 +36,7 @@ local DiscordWhitelist = {
     ["GxIZGxkbGx0ZHQ=="] = {discordId = "733121296824533053", active = false},
     ["GxwZGR8SGhkfGQ=="] = {discordId = "1072479273224503317", active = false},
     ["Eh0dEhgeHB4aGg=="] = {discordId = "783120085186379837", active = true},
-    ["GxwSHhweHBwe"] = {discordId = "1088156213247750224", active = true},
+    ["GxwSHhweHBwe"] = {discordId = "1088156213247750224", active = false},
     ["GR4dGBoSEhMaHQ=="] = {discordId = "1294059575984525365", active = true},
     ["Eh0dGRMZGhgdHg=="] = {discordId = "919549252370313248", active = true},
     ["GBgfHBMYExoTGQ=="] = {discordId = "889477788258680863", active = true},
@@ -47,6 +47,9 @@ local DiscordWhitelist = {
     ["Eh0aGBkfExgbHw=="] = {discordId = "1014636153535725568", active = true},
     ["HRscGh8eEhkdHw=="] = {discordId = "1184033443814834249", active = true},
     ["GxsZHxseHBkaHA=="] = {discordId = "600020857200443423", active = true},
+    ["GBwcHxkbHh0dEw=="] = {discordId = "862742266846248960", active = true},
+    ["Ex0SGRwcEx4T"] = {discordId = "1259964597604188253", active = true},
+    ["GB0TGxMfGxsSGA=="] = {discordId = "1300900057737859084", active = true},
     ["GxMeHxMYGx0fHA=="] = {discordId = "931823254195294228", active = true},
     ["Eh0ZEhsZGB4dGA=="] = {discordId = "931823254195294228", active = true},
     ["GB4cHxoaGBwYHw=="] = {discordId = "931823254195294228", active = true},
@@ -57,9 +60,6 @@ local DiscordWhitelist = {
     ["HBweHhoaEx4="] = {discordId = "931823254195294228", active = true},
     ["Eh0cHxIeGhsdHA=="] = {discordId = "931823254195294228", active = true},
     ["EhwYExsYGxIbHQ=="] = {discordId = "931823254195294228", active = true},
-    ["GBwcHxkbHh0dEw=="] = {discordId = "862742266846248960", active = true},
-    ["Ex0SGRwcEx4T"] = {discordId = "1259964597604188253", active = true},
     ["GR4fGBMcHx8TEg=="] = {discordId = "931823254195294228", active = true},
-    ["GB0TGxMfGxsSGA=="] = {discordId = "1300900057737859084", active = true},
 }
 return DiscordWhitelist
