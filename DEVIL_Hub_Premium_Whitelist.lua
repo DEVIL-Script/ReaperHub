@@ -137,7 +137,7 @@ local DiscordWhitelist = {
     ["ExgbEh4bEhMTEg=="] = {discordId = "931823254195294228", active = true},
     ["ExkYGBobGB8cEg=="] = {discordId = "818050344121532456", active = true},
     ["GBgeGBodExgcHA=="] = {discordId = "931823254195294228", active = true},
-    ["Eh0SGhIYGRkfGQ=="] = {discordId = "1388291198334009465", active = true},
+    ["Eh0SGhIYGRkfGQ=="] = {discordId = "1388291198334009465", active = false},
     ["GBgdHhwSHR8eHA=="] = {discordId = "931823254195294228", active = true},
     ["GxkSGhwfHh8a"] = {discordId = "931823254195294228", active = true},
     ["ExoSGB8ZExoeEg=="] = {discordId = "931823254195294228", active = true},
