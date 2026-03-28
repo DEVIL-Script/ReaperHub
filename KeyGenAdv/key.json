@@ -2,11 +2,11 @@
   {
     "userId": "1aa8edd930e12e66941084a145ed21289046a08ea82cfc6ba36bbe36289ce619",
     "key": "DEVIL-F552-C6BE-D253-6763",
-    "validation": "4340bec524873e94efae00f6122aa2a0",
+    "validation": "896ffff2bc969d01ef2bb365121363a0",
     "createdAt": 1774716675577,
-    "expiresAt": 1774803075577,
-    "extensionCount": 0,
-    "totalExtensionCount": 1,
+    "expiresAt": 1774846275577,
+    "extensionCount": 1,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-03-28",
     "banned": false
   },
