@@ -1,1 +1,13 @@
-
+{
+  "lastUpdated": "2026-03-28T00:00:00.000Z",
+  "lastUpdatedReadable": "Initial Setup",
+  "statistics": {
+    "totalKeys": 0,
+    "activeKeys": 0,
+    "expiredKeys": 0,
+    "bannedKeys": 0,
+    "activeSessions": 0
+  },
+  "keys": {},
+  "sessions": {}
+}
