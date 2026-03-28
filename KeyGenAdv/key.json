@@ -1,14 +1,13 @@
-{
-  "keys": {
-    "DEVIL-F97E-B6EE-103B-9130": {
-      "userId": "0bcb3bbfecf6a4c6614dbdfdee0b4544b5f26118b6a39e5f5adb92c85c44e1c1",
-      "validation": "896ffff2bc969d01ef2bb365121363a0",
-      "createdAt": "2026-03-28T10:57:57.594Z",
-      "expiresAt": "2026-03-30T10:57:57.594Z",
-      "extensionCount": 3,
-      "lastExtensionDate": "2026-03-28",
-      "banned": false,
-      "status": "ACTIVE"
-    }
+[
+  {
+    "userId": "0bcb3bbfecf6a4c6614dbdfdee0b4544b5f26118b6a39e5f5adb92c85c44e1c1",
+    "key": "DEVIL-F97E-B6EE-103B-9130",
+    "validation": "896ffff2bc969d01ef2bb365121363a0",
+    "createdAt": 1774695477594,
+    "expiresAt": 1774911477594,
+    "extensionCount": 4,
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-03-28",
+    "banned": false
   }
-}
+]
