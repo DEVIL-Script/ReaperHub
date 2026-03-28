@@ -1,5 +1,24 @@
 {
-  "test": true,
-  "timestamp": "2026-03-28T10:30:58.862Z",
-  "message": "Test upload from Discord bot"
+  "lastUpdated": "2026-03-28T10:33:25.335Z",
+  "lastUpdatedReadable": "3/28/2026, 4:18:25 PM",
+  "statistics": {
+    "totalKeys": 1,
+    "activeKeys": 1,
+    "expiredKeys": 0,
+    "bannedKeys": 0,
+    "activeSessions": 0
+  },
+  "keys": {
+    "DEVIL-797B-1B50-7658-D944": {
+      "discordId": "931823254195294228",
+      "ip": "103.190.41.251",
+      "createdAt": "2026-03-28T10:20:31.152Z",
+      "expiresAt": "2026-03-30T22:20:31.153Z",
+      "extensionCount": 4,
+      "lastExtensionDate": "2026-03-28",
+      "banned": false,
+      "status": "ACTIVE"
+    }
+  },
+  "sessions": {}
 }
