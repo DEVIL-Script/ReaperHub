@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T10:37:36.625Z",
-  "lastUpdatedReadable": "3/28/2026, 4:22:36 PM",
+  "lastUpdated": "2026-03-28T10:47:10.046Z",
+  "lastUpdatedReadable": "3/28/2026, 4:32:10 PM",
   "statistics": {
     "totalKeys": 1,
     "activeKeys": 1,
@@ -10,10 +10,10 @@
   },
   "keys": {
     "DEVIL-797B-1B50-7658-D944": {
-      "discordId": "0bcb3bbfecf6a4c6614dbdfdee0b4544b5f26118b6a39e5f5adb92c85c44e1c1",
+      "userId": "0bcb3bbfecf6a4c6614dbdfdee0b4544b5f26118b6a39e5f5adb92c85c44e1c1",
       "ip": "896ffff2bc969d01ef2bb365121363a0",
       "createdAt": "2026-03-28T10:20:31.152Z",
-      "expiresAt": "2026-03-31T10:20:31.153Z",
+      "expiresAt": "2026-03-31T22:20:31.153Z",
       "extensionCount": 2,
       "lastExtensionDate": "2026-03-28",
       "banned": false,
