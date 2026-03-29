@@ -174,5 +174,16 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-03-29",
     "banned": false
+  },
+  {
+    "userId": "0e4008633c35d384c7452c89595aaffedae9c565786b62d50cd402f01718ef65",
+    "key": "DEVIL-DC60-CB2E-02B9-3B4F",
+    "validation": "3f20c9460c15242b8c87c9f9ea5cc017",
+    "createdAt": 1774798219221,
+    "expiresAt": 1774841419221,
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-03-29",
+    "banned": false
   }
 ]
