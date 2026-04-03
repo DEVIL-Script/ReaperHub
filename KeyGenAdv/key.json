@@ -189,11 +189,11 @@
   {
     "userId": "770000be9660914f213aef5f5c12f12a4f9a6d74813ea8322174ffbed9c0dc4e",
     "key": "DEVIL-966B-77E8-38C4-A914",
-    "validation": "d96ab1cd00b3c34947d8268ecc660703",
+    "validation": "f6ffd9d3d7250096a2f37f8babfcb2fe",
     "createdAt": 1774798495190,
-    "expiresAt": 1775283203239,
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "expiresAt": 1775326403239,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-04-03",
     "banned": false
   },
