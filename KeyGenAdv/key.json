@@ -651,12 +651,12 @@
   {
     "userId": "9b92e0a6902d7ece20a67e98ae524f35524da10d116e0d62e2efe6c6a42e1e70",
     "key": "DEVIL-3A7F-0E10-B9A7-36E8",
-    "validation": "b8206d460266fbb0523dc5038fcd5a37",
+    "validation": "bae9b5747174d50fbb7431afe047c4a2",
     "createdAt": 1775153672846,
-    "expiresAt": 1775196872846,
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-04-02",
+    "expiresAt": 1775283501106,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-04-03",
     "banned": false
   },
   {
