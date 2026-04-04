@@ -554,9 +554,9 @@
     "key": "DEVIL-1089-BF9C-08B9-FBFA",
     "validation": "7499b79bad75da704ae0e1cc314c8407",
     "createdAt": 1775078403876,
-    "expiresAt": 1775374127808,
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "expiresAt": 1775417327808,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-04-04",
     "banned": false
   },
