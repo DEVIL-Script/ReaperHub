@@ -893,12 +893,12 @@
   {
     "userId": "33d04e4c8239ac71c8f255f718ce1d4412fa22ecdba813596f44f9ad2b8077b0",
     "key": "DEVIL-7D3B-2A7A-3070-FCD3",
-    "validation": "e3e6bc2adb01cf5fdf9a19a0190a021b",
+    "validation": "5e8a28123610cda1c96c2ba1bcf2f5bb",
     "createdAt": 1775428907426,
-    "expiresAt": 1775472107426,
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-04-05",
+    "expiresAt": 1775515307426,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-04-06",
     "banned": false
   }
 ]
