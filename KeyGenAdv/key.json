@@ -123,12 +123,12 @@
   {
     "userId": "35cb56dc0beafe8a80c8ab6162a205ef8e0d4011aa9886e776267229b920ab26",
     "key": "DEVIL-D751-FAB3-D3A0-0F71",
-    "validation": "a02fef19e4e9195051e0ff386cd501ce",
+    "validation": "d52a113118eb993133c09fbc3e682b18",
     "createdAt": 1774789396197,
-    "expiresAt": 1775519189780,
+    "expiresAt": 1775565787599,
     "extensionCount": 1,
-    "totalExtensionCount": 11,
-    "lastExtensionDate": "2026-04-06",
+    "totalExtensionCount": 12,
+    "lastExtensionDate": "2026-04-07",
     "banned": false
   },
   {
