@@ -970,12 +970,12 @@
   {
     "userId": "33fa1fe0d106f5afa6c7f4fda9ca30d98f511d138b07fe7f67bcfcc746e56f42",
     "key": "DEVIL-283D-CF82-FD1F-4DE0",
-    "validation": "af2041a0a4999165137cbc0257cb2ca4",
+    "validation": "6ce62c8dd0e305bbc0cdb07c4bc179d0",
     "createdAt": 1775546038603,
-    "expiresAt": 1775796857121,
+    "expiresAt": 1775840057121,
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-04-09",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-04-10",
     "banned": false
   },
   {
