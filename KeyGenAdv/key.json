@@ -849,12 +849,12 @@
   {
     "userId": "eafa9bb44696deefce85ef79f9a4887c077c5d038f91e16b893ac1c90c06b817",
     "key": "DEVIL-BD21-EE7C-4488-5769",
-    "validation": "7ff33502087d78c0e6ad49c6751f4770",
+    "validation": "c49493e30a15d82fb40d5f1dad1b73da",
     "createdAt": 1775380622920,
-    "expiresAt": 1775592574248,
+    "expiresAt": 1775985800053,
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-04-07",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-04-11",
     "banned": false
   },
   {
