@@ -1313,9 +1313,9 @@
     "key": "DEVIL-0A7E-557B-11AD-3983",
     "validation": "bcb98d77c7b7aec05b1f9606d77a1e8f",
     "createdAt": 1776034246700,
-    "expiresAt": 1776077446700,
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "expiresAt": 1776120646700,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-04-12",
     "banned": false
   }
