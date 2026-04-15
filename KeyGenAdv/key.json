@@ -992,12 +992,12 @@
   {
     "userId": "c9287e794634be8cf00ae253166d23db67c0df9799d623b0040f9f4deece66fd",
     "key": "DEVIL-2E8E-55B6-05B3-33F3",
-    "validation": "a9477492956410fb09fe134a4c97e105",
+    "validation": "64afadce5c2221d10270d0e003a245f4",
     "createdAt": 1775574537022,
-    "expiresAt": 1776265737022,
-    "extensionCount": 4,
-    "totalExtensionCount": 15,
-    "lastExtensionDate": "2026-04-13",
+    "expiresAt": 1776308937022,
+    "extensionCount": 1,
+    "totalExtensionCount": 16,
+    "lastExtensionDate": "2026-04-15",
     "banned": false
   },
   {
