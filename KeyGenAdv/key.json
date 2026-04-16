@@ -1245,12 +1245,12 @@
   {
     "userId": "6e0969ad44278bcb44dd331215ef0b5bfd0f641d34de13dd15b846bfce28e9e4",
     "key": "DEVIL-003B-2134-14A3-7AC2",
-    "validation": "2a152d7a7cacb1bc52398cf59a655199",
+    "validation": "12ded246644c33fda32cc19f5ee14bc1",
     "createdAt": 1775995809642,
-    "expiresAt": 1776125409642,
+    "expiresAt": 1776372048912,
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-04-13",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-04-16",
     "banned": false
   },
   {
