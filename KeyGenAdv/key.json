@@ -1146,11 +1146,11 @@
   {
     "userId": "21e8367a8bc02c8ae0371a70fee856eb938f1b18c061e23991a28b8717d1c86e",
     "key": "DEVIL-CAD6-5CBF-3A43-A814",
-    "validation": "e0723e33ac55ad406baf2825f4f28eb9",
+    "validation": "b7e1b59c8af958cb76d908d240240562",
     "createdAt": 1775871718970,
-    "expiresAt": 1776461274997,
-    "extensionCount": 1,
-    "totalExtensionCount": 8,
+    "expiresAt": 1776504474997,
+    "extensionCount": 2,
+    "totalExtensionCount": 9,
     "lastExtensionDate": "2026-04-17",
     "banned": false
   },
