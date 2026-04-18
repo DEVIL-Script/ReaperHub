@@ -1379,10 +1379,10 @@
     "key": "DEVIL-5B4A-1071-54BE-2BB3",
     "validation": "85ccf444f20db31498292f0956fc829e",
     "createdAt": 1776401974712,
-    "expiresAt": 1776488374712,
+    "expiresAt": 1776531574712,
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-04-17",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-04-18",
     "banned": false
   }
 ]
