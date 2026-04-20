@@ -1445,10 +1445,10 @@
     "key": "DEVIL-3852-8EC7-F4DC-E4E4",
     "validation": "364f13ff84ab5b1a5e8b1c853ea48010",
     "createdAt": 1776585409295,
-    "expiresAt": 1776678132981,
+    "expiresAt": 1776724766804,
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-04-19",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-04-20",
     "banned": false
   },
   {
