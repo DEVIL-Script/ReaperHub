@@ -1421,12 +1421,12 @@
   {
     "userId": "50ca84162423f5493c9e798edc3a1c0118d00a1dc7c3814ef5f405e337d79072",
     "key": "DEVIL-BDB1-7FDB-2D43-3F1F",
-    "validation": "3f3b49643cc388e03f7943acc6f40baf",
+    "validation": "290fc1ee8e56aefce02f58a9703b79c5",
     "createdAt": 1776540276660,
-    "expiresAt": 1776628641958,
+    "expiresAt": 1776767246949,
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-04-19",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-04-20",
     "banned": false
   },
   {
