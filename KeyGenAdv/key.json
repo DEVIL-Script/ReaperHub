@@ -1566,9 +1566,9 @@
     "key": "DEVIL-55B1-E651-9CDC-9173",
     "validation": "93721b598835fbbd7978e1b07ac88085",
     "createdAt": 1776782142216,
-    "expiresAt": 1776825342216,
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "expiresAt": 1776868542216,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-04-21",
     "banned": false
   }
