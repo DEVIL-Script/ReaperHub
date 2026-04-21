@@ -213,10 +213,10 @@
     "key": "DEVIL-08E1-7067-389B-0CEC",
     "validation": "1b2ccab1ecb9bfeadb6f0f986b76d65e",
     "createdAt": 1774799982985,
-    "expiresAt": 1776738241324,
+    "expiresAt": 1776782081218,
     "extensionCount": 1,
-    "totalExtensionCount": 27,
-    "lastExtensionDate": "2026-04-20",
+    "totalExtensionCount": 28,
+    "lastExtensionDate": "2026-04-21",
     "banned": false
   },
   {
@@ -607,7 +607,7 @@
   {
     "userId": "7b83424696e7916781d073403948d8543de5b5e162e928c341b0e7ff7a024c5a",
     "key": "DEVIL-8959-9E1B-0ACD-424A",
-    "validation": "cb22b6755cede1db19a612caa1340ac9",
+    "validation": "ba7db3d3cd6a18262b884ff83974a8b4",
     "createdAt": 1775133875414,
     "expiresAt": 1776822293992,
     "extensionCount": 2,
