@@ -1445,9 +1445,9 @@
     "key": "DEVIL-3852-8EC7-F4DC-E4E4",
     "validation": "364f13ff84ab5b1a5e8b1c853ea48010",
     "createdAt": 1776585409295,
-    "expiresAt": 1776925114216,
-    "extensionCount": 2,
-    "totalExtensionCount": 5,
+    "expiresAt": 1776968314216,
+    "extensionCount": 3,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-04-22",
     "banned": false
   },
