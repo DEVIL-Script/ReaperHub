@@ -1137,9 +1137,9 @@
     "key": "DEVIL-0529-DC7F-24DE-1B94",
     "validation": "570ff428c24415cf726777551b1d5fc7",
     "createdAt": 1775862239898,
-    "expiresAt": 1777099664172,
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "expiresAt": 1777142864172,
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-04-24",
     "banned": false
   },
