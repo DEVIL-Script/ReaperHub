@@ -1720,10 +1720,10 @@
     "key": "DEVIL-1138-598C-DBDC-5F2D",
     "validation": "7760b2f285960470bdc8fc6c27db77e5",
     "createdAt": 1777067292343,
-    "expiresAt": 1777110492343,
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-04-24",
+    "expiresAt": 1777161623183,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-04-25",
     "banned": false
   },
   {
