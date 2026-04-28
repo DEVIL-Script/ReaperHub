@@ -1528,10 +1528,10 @@
     "key": "DEVIL-E08E-0DEC-A1F8-6DF1",
     "validation": "d9eac9c31e74547c1b67ab4403d4f3cb",
     "createdAt": 1776528272683,
-    "expiresAt": 1777439056856,
+    "expiresAt": 1777482256856,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 16,
+    "extensionCount": 2,
+    "totalExtensionCount": 17,
     "lastExtensionDate": "2026-04-28",
     "banned": false
   },
