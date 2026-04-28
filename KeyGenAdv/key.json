@@ -1818,7 +1818,7 @@
     "createdAt": 1776880870786,
     "expiresAt": 1777417806402,
     "status": "ACTIVE",
-    "extensionCount": 1,
+    "extensionCount": 0,
     "totalExtensionCount": 3,
     "lastExtensionDate": "2026-04-28",
     "banned": false
