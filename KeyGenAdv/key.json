@@ -2030,12 +2030,12 @@
   {
     "userId": "6c4abcb84320fddd9f45090018e3b7471eb379a978a7771f2017173fea79879b",
     "key": "DEVIL-BBF5-718F-D767-CED9",
-    "validation": "7bdc2c2f2accb44ce65a0d28066a18de",
+    "validation": "830d9b0e747d1c726d3f9e924b3616ea",
     "createdAt": 1777350851188,
-    "expiresAt": 1777394051188,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "expiresAt": 1777442689370,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-04-28",
     "banned": false
   },
