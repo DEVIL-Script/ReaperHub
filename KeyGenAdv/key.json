@@ -2116,10 +2116,10 @@
     "key": "DEVIL-D71F-B888-D417-11CC",
     "validation": "2cd4bf68c53f148157151a266cf9fe18",
     "createdAt": 1777504882814,
-    "expiresAt": 1777548082814,
+    "expiresAt": 1777591282814,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-04-29",
     "banned": false
   }
