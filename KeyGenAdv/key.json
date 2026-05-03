@@ -1814,12 +1814,12 @@
   {
     "userId": "e167f4077b332ff4c9e27143f80e22f12c6ef17f6fc902e33f6bddaafcab1d0e",
     "key": "DEVIL-B0F2-9D37-EB7E-17BF",
-    "validation": "6e8c4cb13f0e2bc6861dd725532c4186",
+    "validation": "f47b492d47f3c1c33b538e4e3e53a5de",
     "createdAt": 1776880870786,
-    "expiresAt": 1777855316421,
+    "expiresAt": 1777898516421,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 12,
+    "extensionCount": 2,
+    "totalExtensionCount": 13,
     "lastExtensionDate": "2026-05-03",
     "banned": false
   },
