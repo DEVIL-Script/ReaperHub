@@ -2224,10 +2224,10 @@
     "key": "DEVIL-CD4B-6912-F1B2-EA43",
     "validation": "a471c60ce1b5b8895d4d8485526766cf",
     "createdAt": 1777721446882,
-    "expiresAt": 1777817659161,
+    "expiresAt": 1777860859161,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-05-03",
     "banned": false
   },
