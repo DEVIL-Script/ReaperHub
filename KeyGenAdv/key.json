@@ -4,10 +4,10 @@
     "key": "DEVIL-9360-E3A2-22E9-1A27",
     "validation": "e2c954a9373a40730c1e445964e89bfe",
     "createdAt": 1774760417554,
-    "expiresAt": 1777940970619,
+    "expiresAt": 1777984170619,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 12,
+    "extensionCount": 2,
+    "totalExtensionCount": 13,
     "lastExtensionDate": "2026-05-04",
     "banned": false
   },
