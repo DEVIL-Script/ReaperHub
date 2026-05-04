@@ -232,11 +232,11 @@
     "key": "DEVIL-08E1-7067-389B-0CEC",
     "validation": "1b2ccab1ecb9bfeadb6f0f986b76d65e",
     "createdAt": 1774799982985,
-    "expiresAt": 1777909272801,
-    "status": "EXPIRED",
-    "extensionCount": 3,
-    "totalExtensionCount": 46,
-    "lastExtensionDate": "2026-05-03",
+    "expiresAt": 1777974503620,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 47,
+    "lastExtensionDate": "2026-05-04",
     "banned": false
   },
   {
