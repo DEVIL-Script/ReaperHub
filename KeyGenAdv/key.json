@@ -1468,10 +1468,10 @@
     "key": "DEVIL-A3D1-952A-0605-FA15",
     "validation": "545c5c429b6720af4e24c61daecb4a16",
     "createdAt": 1776143883251,
-    "expiresAt": 1777912365823,
+    "expiresAt": 1777955565823,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 20,
+    "extensionCount": 2,
+    "totalExtensionCount": 21,
     "lastExtensionDate": "2026-05-04",
     "banned": false
   },
