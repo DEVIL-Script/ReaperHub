@@ -1108,10 +1108,10 @@
     "key": "DEVIL-B776-C352-7566-280E",
     "validation": "69cdda2f2ab2473df4ede07ee6faeebb",
     "createdAt": 1775663822398,
-    "expiresAt": 1777940910137,
+    "expiresAt": 1777984110137,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 10,
+    "extensionCount": 2,
+    "totalExtensionCount": 11,
     "lastExtensionDate": "2026-05-04",
     "banned": false
   },
@@ -2308,11 +2308,11 @@
     "key": "DEVIL-895D-6FCF-6460-0ED9",
     "validation": "7a481a42792372a7d567df23285d5f2a",
     "createdAt": 1777834505679,
-    "expiresAt": 1777877705679,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-05-03",
+    "expiresAt": 1777941267051,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-05-04",
     "banned": false
   }
 ]
