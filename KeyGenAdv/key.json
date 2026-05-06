@@ -1108,10 +1108,10 @@
     "key": "DEVIL-B776-C352-7566-280E",
     "validation": "69cdda2f2ab2473df4ede07ee6faeebb",
     "createdAt": 1775663822398,
-    "expiresAt": 1778114804626,
+    "expiresAt": 1778158004626,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 14,
+    "extensionCount": 2,
+    "totalExtensionCount": 15,
     "lastExtensionDate": "2026-05-06",
     "banned": false
   },
