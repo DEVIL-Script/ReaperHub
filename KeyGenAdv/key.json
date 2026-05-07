@@ -1252,11 +1252,11 @@
     "key": "DEVIL-CAD6-5CBF-3A43-A814",
     "validation": "e0723e33ac55ad406baf2825f4f28eb9",
     "createdAt": 1775871718970,
-    "expiresAt": 1778113286249,
-    "status": "EXPIRED",
+    "expiresAt": 1778184863768,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 28,
-    "lastExtensionDate": "2026-05-06",
+    "totalExtensionCount": 29,
+    "lastExtensionDate": "2026-05-07",
     "banned": false
   },
   {
