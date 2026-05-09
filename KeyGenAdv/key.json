@@ -1816,10 +1816,10 @@
     "key": "DEVIL-B0F2-9D37-EB7E-17BF",
     "validation": "e5d68d910640fbaebf20766527a7c9fa",
     "createdAt": 1776880870786,
-    "expiresAt": 1778363410113,
+    "expiresAt": 1778406610113,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 18,
+    "extensionCount": 2,
+    "totalExtensionCount": 19,
     "lastExtensionDate": "2026-05-09",
     "banned": false
   },
