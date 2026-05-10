@@ -5,11 +5,11 @@
     "validation": "63cff50cca6853badcc1fa93bb3aad80",
     "createdAt": 1778392677052,
     "expiresAt": 4936744677050,
-    "status": "PREMIUM",
+    "status": "OWNER",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-05-10",
-    "banned": true
+    "banned": false
   },
   {
     "userId": "0b9337e4b0f6ee6d51e1a46b6fbcae1c8d737e8332f6acb6a8a3a1311491d4a8",
