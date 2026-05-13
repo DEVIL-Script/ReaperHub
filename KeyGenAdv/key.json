@@ -641,11 +641,11 @@
     "validation": "dda66f2b414c4dc377f74ec92cba1946",
     "createdAt": 1775126334103,
     "expiresAt": 1778519855202,
-    "status": "EXPIRED",
+    "status": "BANNED",
     "extensionCount": 2,
     "totalExtensionCount": 16,
     "lastExtensionDate": "2026-05-10",
-    "banned": false
+    "banned": true
   },
   {
     "userId": "e83ff4bf26b22a1dc1c9492513f10902efdfcce493804bd74339b52f0ed6f382",
