@@ -568,11 +568,11 @@
     "key": "DEVIL-180A-560D-EEF0-B1B8",
     "validation": "940c127c0e6275a89c7fcc6540cda898",
     "createdAt": 1775058058152,
-    "expiresAt": 1778694332470,
-    "status": "EXPIRED",
+    "expiresAt": 1778770164417,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 19,
-    "lastExtensionDate": "2026-05-13",
+    "totalExtensionCount": 20,
+    "lastExtensionDate": "2026-05-14",
     "banned": false
   },
   {
