@@ -2702,12 +2702,12 @@
   {
     "userId": "d12b745b13646a95a68bfb1c9fcf831bb741b179d204be0326c375494b32f45c",
     "key": "DEVIL-6FDD-5AC6-6EA0-89E6",
-    "validation": "50ffd51261252236b1569e97dc290021",
+    "validation": "45cf0785e2d117db4e514c4310824bf6",
     "createdAt": 1778772148281,
-    "expiresAt": 1778815348281,
+    "expiresAt": 1778858548281,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-05-14",
     "banned": false
   }
