@@ -2668,10 +2668,10 @@
     "key": "DEVIL-3CE8-9B83-4B75-4878",
     "validation": "fcdf2cc930bd10a3b0966642795bf877",
     "createdAt": 1778664558316,
-    "expiresAt": 1778951079091,
+    "expiresAt": 1778994279091,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 5,
+    "extensionCount": 3,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-05-15",
     "banned": false
   },
