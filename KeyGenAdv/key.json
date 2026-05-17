@@ -2618,12 +2618,12 @@
   {
     "userId": "41c0879237470734a38fbcfe82b63f012e852ac6b7fc11f6d0facec37599ccb4",
     "key": "DEVIL-0B5D-D9C3-076A-84B2",
-    "validation": "5cc6f90fa4ccb4b696791aaffa2d608b",
+    "validation": "859a697fdaac0af2ac35dfea84ce0d92",
     "createdAt": 1778510508481,
-    "expiresAt": 1779021133546,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 7,
+    "expiresAt": 1779089937980,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-05-17",
     "banned": false
   },
