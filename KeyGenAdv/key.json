@@ -2834,12 +2834,12 @@
   {
     "userId": "5accacca9aac89229e22e5f086872a328a6acc1b7b3e1285e27cf82892cb3eee",
     "key": "DEVIL-75CF-AD98-127F-B055",
-    "validation": "0e536c32af5fccee650abd8dffafa93a",
+    "validation": "556e6c7e4a10a42cc8dad3d2d9a4921e",
     "createdAt": 1779208536338,
-    "expiresAt": 1779382787548,
+    "expiresAt": 1779432024998,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-05-21",
     "banned": false
   },
