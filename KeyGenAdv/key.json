@@ -1948,11 +1948,11 @@
     "key": "DEVIL-6F7C-BDF6-7041-85B6",
     "validation": "fd3f2a586020e46eb43693f0b28aa49a",
     "createdAt": 1777197493058,
-    "expiresAt": 1779544105319,
-    "status": "EXPIRED",
+    "expiresAt": 1779642502970,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 18,
-    "lastExtensionDate": "2026-05-23",
+    "totalExtensionCount": 19,
+    "lastExtensionDate": "2026-05-24",
     "banned": false
   },
   {
