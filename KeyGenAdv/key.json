@@ -2776,11 +2776,11 @@
     "key": "DEVIL-ECA0-CC4B-2894-C4B4",
     "validation": "19bf72b296f9afe0e39e0be5412385c5",
     "createdAt": 1779056970799,
-    "expiresAt": 1779100170799,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-05-17",
+    "expiresAt": 1779775427827,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-05-25",
     "banned": false
   },
   {
