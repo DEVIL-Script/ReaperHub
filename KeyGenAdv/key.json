@@ -232,11 +232,11 @@
     "key": "DEVIL-08E1-7067-389B-0CEC",
     "validation": "1b2ccab1ecb9bfeadb6f0f986b76d65e",
     "createdAt": 1774799982985,
-    "expiresAt": 1779762404563,
+    "expiresAt": 1779805604563,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 74,
-    "lastExtensionDate": "2026-05-25",
+    "totalExtensionCount": 75,
+    "lastExtensionDate": "2026-05-26",
     "banned": false
   },
   {
@@ -2705,7 +2705,7 @@
     "validation": "e225fc2e8ea47b812bebf796f514d3fc",
     "createdAt": 1778772148281,
     "expiresAt": 1779758122452,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 7,
     "lastExtensionDate": "2026-05-25",
