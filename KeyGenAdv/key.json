@@ -3074,12 +3074,12 @@
   {
     "userId": "efd5ab7c0055795b8a0b348324b06971a7e1dd6cd1f9778a12ed04d1dfa1145b",
     "key": "DEVIL-EA65-000C-0064-A007",
-    "validation": "928b154a714a68a640ea9a0b72282300",
+    "validation": "fe3747d70484059f4b70a1bac14358f3",
     "createdAt": 1779806118575,
-    "expiresAt": 1779849318575,
+    "expiresAt": 1779892518575,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-05-26",
     "banned": false
   }
