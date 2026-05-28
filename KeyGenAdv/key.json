@@ -3088,11 +3088,11 @@
     "key": "DEVIL-82E1-27B3-885B-82A1",
     "validation": "53b5708351c143874897f88c0644c81d",
     "createdAt": 1779847584781,
-    "expiresAt": 1779951669024,
-    "status": "EXPIRED",
+    "expiresAt": 1780000169182,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-05-27",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-05-28",
     "banned": false
   },
   {
