@@ -3232,11 +3232,11 @@
     "key": "DEVIL-5C23-EBB6-BF79-70CB",
     "validation": "8b4e79d31f011e897a351491dccf05ed",
     "createdAt": 1780086441723,
-    "expiresAt": 1780129641723,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-05-29",
+    "expiresAt": 1780193308210,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-05-30",
     "banned": false
   },
   {
