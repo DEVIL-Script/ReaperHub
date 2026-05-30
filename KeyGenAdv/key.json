@@ -2824,11 +2824,11 @@
     "key": "DEVIL-2997-5695-6181-38A0",
     "validation": "bd6eb0240941aca5e79b12b8d937b862",
     "createdAt": 1779177425796,
-    "expiresAt": 1780082969154,
-    "status": "EXPIRED",
+    "expiresAt": 1780145854053,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 12,
-    "lastExtensionDate": "2026-05-29",
+    "totalExtensionCount": 13,
+    "lastExtensionDate": "2026-05-30",
     "banned": false
   },
   {
