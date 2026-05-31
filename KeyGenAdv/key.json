@@ -3076,11 +3076,11 @@
     "key": "DEVIL-EA65-000C-0064-A007",
     "validation": "fe3747d70484059f4b70a1bac14358f3",
     "createdAt": 1779806118575,
-    "expiresAt": 1779892518575,
-    "status": "EXPIRED",
+    "expiresAt": 1780286887014,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-05-26",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-05-31",
     "banned": false
   },
   {
