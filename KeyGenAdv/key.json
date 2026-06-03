@@ -388,11 +388,11 @@
     "key": "DEVIL-CDF6-7AAC-C92D-E952",
     "validation": "8dae34e520d84b9fbe3bd257ba62194f",
     "createdAt": 1774885436354,
-    "expiresAt": 1779684800894,
-    "status": "EXPIRED",
+    "expiresAt": 1780549696770,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-05-24",
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-06-03",
     "banned": false
   },
   {
