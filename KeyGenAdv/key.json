@@ -604,10 +604,10 @@
     "key": "DEVIL-1089-BF9C-08B9-FBFA",
     "validation": "e2b81dd8bb8b6af78ce1629ab3f0f190",
     "createdAt": 1775078403876,
-    "expiresAt": 1780677966359,
+    "expiresAt": 1780723069357,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 14,
+    "extensionCount": 2,
+    "totalExtensionCount": 15,
     "lastExtensionDate": "2026-06-05",
     "banned": false
   },
