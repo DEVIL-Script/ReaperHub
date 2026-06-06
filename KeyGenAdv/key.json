@@ -3112,11 +3112,11 @@
     "key": "DEVIL-D699-E215-F86C-2894",
     "validation": "46d2e3db4d0c0a2305414a357b974d54",
     "createdAt": 1779881790266,
-    "expiresAt": 1780668826881,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 15,
-    "lastExtensionDate": "2026-06-04",
+    "expiresAt": 1780749374468,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 16,
+    "lastExtensionDate": "2026-06-06",
     "banned": false
   },
   {
