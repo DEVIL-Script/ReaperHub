@@ -3244,11 +3244,11 @@
     "key": "DEVIL-C45C-854B-A756-8523",
     "validation": "5d1ae1fec5def090db897d9089e7d973",
     "createdAt": 1780098398268,
-    "expiresAt": 1780744451340,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-06-05",
+    "expiresAt": 1780803323085,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-06-06",
     "banned": false
   },
   {
