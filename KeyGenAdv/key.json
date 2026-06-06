@@ -3422,12 +3422,12 @@
   {
     "userId": "8fc8c72fc2429696421e1272e1c9cd2bb873f7eef52d355c8c3cd893e8eeb6cb",
     "key": "DEVIL-4B30-2122-9625-6099",
-    "validation": "0fd0dabf894ebf50fab25e981d49c860",
+    "validation": "0991f86c4be3a05c031823941a6a3b01",
     "createdAt": 1780758997396,
-    "expiresAt": 1780845397396,
+    "expiresAt": 1780888597396,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-06-06",
     "banned": false
   }
