@@ -2596,11 +2596,11 @@
     "key": "DEVIL-966E-F198-387D-6718",
     "validation": "73dd483b34f4587129fe7e86b3a3c75d",
     "createdAt": 1778433068737,
-    "expiresAt": 1780794764869,
-    "status": "EXPIRED",
+    "expiresAt": 1780864223094,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 31,
-    "lastExtensionDate": "2026-06-06",
+    "totalExtensionCount": 32,
+    "lastExtensionDate": "2026-06-07",
     "banned": false
   },
   {
