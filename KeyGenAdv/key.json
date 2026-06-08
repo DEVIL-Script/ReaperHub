@@ -2752,11 +2752,11 @@
     "key": "DEVIL-6338-7427-CAFF-271A",
     "validation": "b70bdbc5419d5008756f3ae545eb9057",
     "createdAt": 1779026632336,
-    "expiresAt": 1780685828760,
-    "status": "EXPIRED",
+    "expiresAt": 1780955574882,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-06-05",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-06-08",
     "banned": false
   },
   {
