@@ -1360,10 +1360,10 @@
     "key": "DEVIL-003B-2134-14A3-7AC2",
     "validation": "12ded246644c33fda32cc19f5ee14bc1",
     "createdAt": 1775995809642,
-    "expiresAt": 1781064071006,
+    "expiresAt": 1781107271006,
     "status": "ACTIVE",
-    "extensionCount": 3,
-    "totalExtensionCount": 99,
+    "extensionCount": 4,
+    "totalExtensionCount": 100,
     "lastExtensionDate": "2026-06-08",
     "banned": false
   },
