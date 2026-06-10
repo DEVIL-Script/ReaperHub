@@ -3484,11 +3484,11 @@
     "key": "DEVIL-160A-6192-EFC4-C3A5",
     "validation": "0622d997ef84179d3b4c8866c0b36367",
     "createdAt": 1780931801227,
-    "expiresAt": 1781043176373,
-    "status": "EXPIRED",
+    "expiresAt": 1781114601715,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-09",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-10",
     "banned": false
   },
   {
