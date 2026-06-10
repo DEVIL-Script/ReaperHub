@@ -3101,7 +3101,7 @@
     "validation": "157a763cae38ed45215ae2fcf6b3db4d",
     "createdAt": 1779860450908,
     "expiresAt": 1781108174981,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 20,
     "lastExtensionDate": "2026-06-10",
@@ -3390,7 +3390,7 @@
     "createdAt": 1780596899971,
     "expiresAt": 1781150202878,
     "status": "ACTIVE",
-    "extensionCount": 1,
+    "extensionCount": 0,
     "totalExtensionCount": 5,
     "lastExtensionDate": "2026-06-10",
     "banned": false
