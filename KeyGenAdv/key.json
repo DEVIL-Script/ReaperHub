@@ -3388,11 +3388,11 @@
     "key": "DEVIL-5F02-A8F4-6BB5-36FF",
     "validation": "db3b434b20d183e3b090978d782cbb14",
     "createdAt": 1780596899971,
-    "expiresAt": 1780993224903,
-    "status": "EXPIRED",
+    "expiresAt": 1781150202878,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-06-08",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-06-10",
     "banned": false
   },
   {
@@ -3436,11 +3436,11 @@
     "key": "DEVIL-C064-E6F4-C7CE-EC2A",
     "validation": "f292c48ce211899f076ed4c6a4e5f401",
     "createdAt": 1780774611465,
-    "expiresAt": 1781073666029,
-    "status": "EXPIRED",
+    "expiresAt": 1781151298609,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-06-09",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-06-10",
     "banned": false
   },
   {
