@@ -3470,12 +3470,12 @@
   {
     "userId": "7d180a32aa6b263aed83e51a7b8f3c8b288fe1e5b472ea9d15bf80c1a64bc5b7",
     "key": "DEVIL-0F3B-88E5-7127-0B54",
-    "validation": "3f78208fcab7476b020bd7d9a51630bd",
+    "validation": "5672f28bd8dda854342f4f4d15a70837",
     "createdAt": 1780929922751,
-    "expiresAt": 1781225208688,
+    "expiresAt": 1781268408688,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-06-11",
     "banned": false
   },
