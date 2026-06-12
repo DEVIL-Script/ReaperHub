@@ -3400,11 +3400,11 @@
     "key": "DEVIL-2569-AABE-20A8-43C4",
     "validation": "84ba3330042873609677486ab70873b0",
     "createdAt": 1780692681844,
-    "expiresAt": 1781259006439,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-06-11",
+    "expiresAt": 1781330421033,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-06-12",
     "banned": false
   },
   {
