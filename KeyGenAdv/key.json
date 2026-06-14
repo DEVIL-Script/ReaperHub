@@ -3436,10 +3436,10 @@
     "key": "DEVIL-C064-E6F4-C7CE-EC2A",
     "validation": "f292c48ce211899f076ed4c6a4e5f401",
     "createdAt": 1780774611465,
-    "expiresAt": 1781498276460,
+    "expiresAt": 1781541476460,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 8,
+    "extensionCount": 2,
+    "totalExtensionCount": 9,
     "lastExtensionDate": "2026-06-14",
     "banned": false
   },
