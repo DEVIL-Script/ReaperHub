@@ -976,11 +976,11 @@
     "key": "DEVIL-7D3B-2A7A-3070-FCD3",
     "validation": "ca4aab76c832f0893913c065ea24d352",
     "createdAt": 1775428907426,
-    "expiresAt": 1781502172144,
-    "status": "EXPIRED",
+    "expiresAt": 1781555996450,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 28,
-    "lastExtensionDate": "2026-06-14",
+    "totalExtensionCount": 29,
+    "lastExtensionDate": "2026-06-15",
     "banned": false
   },
   {
