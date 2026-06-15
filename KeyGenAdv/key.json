@@ -1936,11 +1936,11 @@
     "key": "DEVIL-4392-7DFA-819D-5265",
     "validation": "1708874f95b3debfee8e388824e2ebe1",
     "createdAt": 1777157755792,
-    "expiresAt": 1781459721307,
-    "status": "EXPIRED",
+    "expiresAt": 1781596840777,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 21,
-    "lastExtensionDate": "2026-06-14",
+    "totalExtensionCount": 22,
+    "lastExtensionDate": "2026-06-15",
     "banned": false
   },
   {
