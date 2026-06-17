@@ -516,5 +516,6 @@ local DiscordWhitelist = {
     ["Gx8SGhMaGh4dHg=="] = {discordId = "931823254195294228", active = true},
     ["HhoaHh8dGB0="] = {discordId = "931823254195294228", active = true},
     ["GRgSGhMaHR8Y"] = {discordId = "931823254195294228", active = true},
+    ["GR4bGhIaGhweHw=="] = {discordId = "931823254195294228", active = true},
 }
 return DiscordWhitelist
