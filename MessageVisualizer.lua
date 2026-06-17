@@ -9,10 +9,10 @@ local BACKGROUND_COLOR = Color3.fromRGB(20, 20, 20)
 local TEXT_COLOR = Color3.fromRGB(255, 100, 100)
 local FONT_SIZE_MIN = 22
 local FONT_SIZE_MAX = 50
-local FRAME_PADDING = 40
 local MIN_FRAME_WIDTH = 200
 local MAX_FRAME_WIDTH_PERCENT = 0.85
 local TEXT_PADDING = 30
+local LINE_PADDING = 6
 
 local activeUI = {
     background = nil,
@@ -22,7 +22,14 @@ local activeUI = {
     onComplete = nil
 }
 
--- Helper to calculate text width
+local function splitText(text)
+    local lines = {}
+    for line in text:gmatch("[^\n]+") do
+        table.insert(lines, line)
+    end
+    return lines
+end
+
 local function getTextWidth(text, fontSize)
     return #text * fontSize * 0.6
 end
@@ -77,39 +84,49 @@ local function updateUI(text, duration, remaining)
     local screenSize = Camera.ViewportSize
     local screenWidth, screenHeight = screenSize.X, screenSize.Y
     
+    local messageLines = splitText(text)
+    if #messageLines == 0 then messageLines = {text} end
+    
     local fontSize = math.clamp(math.floor(screenHeight * 0.045), FONT_SIZE_MIN, FONT_SIZE_MAX)
-    local lineHeight = fontSize + 6
+    local lineHeight = fontSize + LINE_PADDING
     
-    local prefix = "[DEVIL] "
-    local line1Text = prefix .. text
-    local line2Text = "Expires in " .. remaining .. "s"
+    local displayLines = {}
+    for i, line in ipairs(messageLines) do
+        local prefix = (i == 1) and "[DEVIL] " or "        "
+        table.insert(displayLines, prefix .. line)
+    end
+    table.insert(displayLines, "Expires in " .. remaining .. "s")
     
-    local line1Width = getTextWidth(line1Text, fontSize)
-    local line2Width = getTextWidth(line2Text, fontSize * 0.9)
-    local maxTextWidth = math.max(line1Width, line2Width)
+    local maxWidth = 0
+    for _, line in ipairs(displayLines) do
+        local lineWidth = getTextWidth(line, (line == displayLines[#displayLines]) and fontSize * 0.9 or fontSize)
+        maxWidth = math.max(maxWidth, lineWidth)
+    end
     
     local frameWidth = math.clamp(
-        maxTextWidth + (TEXT_PADDING * 2),
+        maxWidth + (TEXT_PADDING * 2),
         MIN_FRAME_WIDTH,
         screenWidth * MAX_FRAME_WIDTH_PERCENT
     )
     
-    if maxTextWidth > frameWidth - (TEXT_PADDING * 2) then
-        local newFontSize = fontSize * ((frameWidth - (TEXT_PADDING * 2)) / maxTextWidth)
+    if maxWidth > frameWidth - (TEXT_PADDING * 2) then
+        local newFontSize = fontSize * ((frameWidth - (TEXT_PADDING * 2)) / maxWidth)
         fontSize = math.max(FONT_SIZE_MIN, newFontSize)
-        lineHeight = fontSize + 6
+        lineHeight = fontSize + LINE_PADDING
         
-        line1Width = getTextWidth(line1Text, fontSize)
-        line2Width = getTextWidth(line2Text, fontSize * 0.9)
-        maxTextWidth = math.max(line1Width, line2Width)
+        maxWidth = 0
+        for _, line in ipairs(displayLines) do
+            local lineWidth = getTextWidth(line, (line == displayLines[#displayLines]) and fontSize * 0.9 or fontSize)
+            maxWidth = math.max(maxWidth, lineWidth)
+        end
         frameWidth = math.clamp(
-            maxTextWidth + (TEXT_PADDING * 2),
+            maxWidth + (TEXT_PADDING * 2),
             MIN_FRAME_WIDTH,
             screenWidth * MAX_FRAME_WIDTH_PERCENT
         )
     end
     
-    local frameHeight = (lineHeight * 2) + 20
+    local frameHeight = (#displayLines * lineHeight) + 20
     
     local frameX = (screenWidth - frameWidth) / 2
     local frameY = screenHeight * 0.05
@@ -126,32 +143,27 @@ local function updateUI(text, duration, remaining)
     activeUI.background.Position = Vector2.new(frameX, frameY)
     
     local centerX = frameX + frameWidth / 2
-    local topTextY = frameY + (frameHeight - (lineHeight * 2)) / 2
+    local startY = frameY + (frameHeight - (#displayLines * lineHeight)) / 2
     
-    -- Line 1 (main message)
-    if #activeUI.textLayers < 1 then
-        activeUI.textLayers[1] = createBoldTextLayer(line1Text, Vector2.new(centerX, topTextY), fontSize)
-    else
-        for _, layer in ipairs(activeUI.textLayers[1]) do
-            layer.Text = line1Text
-            layer.Size = fontSize
-            layer.Position = Vector2.new(centerX, topTextY)
+    for _, layerGroup in ipairs(activeUI.textLayers) do
+        for _, layer in ipairs(layerGroup) do
+            layer:Remove()
         end
     end
+    activeUI.textLayers = {}
     
-    if #activeUI.textLayers < 2 then
-        activeUI.textLayers[2] = createBoldTextLayer(line2Text, Vector2.new(centerX, topTextY + lineHeight), fontSize * 0.9, Color3.fromRGB(255, 200, 200))
-    else
-        for _, layer in ipairs(activeUI.textLayers[2]) do
-            layer.Text = line2Text
-            layer.Size = fontSize * 0.9
-            layer.Position = Vector2.new(centerX, topTextY + lineHeight)
-        end
+    for i, line in ipairs(displayLines) do
+        local isTimerLine = (i == #displayLines)
+        local lineFontSize = isTimerLine and (fontSize * 0.9) or fontSize
+        local lineColor = isTimerLine and Color3.fromRGB(255, 200, 200) or TEXT_COLOR
+        
+        local yPos = startY + ((i - 1) * lineHeight)
+        local layers = createBoldTextLayer(line, Vector2.new(centerX, yPos), lineFontSize, lineColor)
+        table.insert(activeUI.textLayers, layers)
     end
 end
 
 local function showMessage(text, duration, callback)
-    -- Clean up any existing UI
     cleanupUI()
     
     duration = duration or DEFAULT_DURATION
@@ -180,25 +192,24 @@ local function showMessage(text, duration, callback)
                 activeUI.onComplete = nil
                 cb()
             end
-            
         else
             updateUI(text, duration, remaining)
         end
     end)
 end
 
-_G.message = function(text, duration, callback)
-    showMessage(text, duration, callback)
-end
-
 return {
     message = showMessage,
     cleanup = cleanupUI,
-    version = "1.0.0"
+    version = "1.1.0"
 }
 
-
 --[[
+
+local MessageShower = loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/ReaperHub/refs/heads/main/MessageVisualizer.lua", true))()
+message = MessageShower.message  -- Create global shortcut
+message("Hi This is devil", 10)
+
 -- Now you can use the message function anywhere!
 message("Hi This is devil", 10)
 message("This is a very long message", 8)
