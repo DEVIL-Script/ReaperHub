@@ -3820,11 +3820,11 @@
     "key": "DEVIL-D153-AA96-7618-2BEA",
     "validation": "b6389d08f72367d8b37b5170ed0bc980",
     "createdAt": 1781648076525,
-    "expiresAt": 1781691276525,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-16",
+    "expiresAt": 1781743052356,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-17",
     "banned": false
   },
   {
