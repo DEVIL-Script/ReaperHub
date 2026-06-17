@@ -3784,11 +3784,11 @@
     "key": "DEVIL-2FED-AC93-9708-585C",
     "validation": "8c82a258fdff38896da83976aa0a70dd",
     "createdAt": 1781542981417,
-    "expiresAt": 1781586181417,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-15",
+    "expiresAt": 1781763593801,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-17",
     "banned": false
   },
   {
