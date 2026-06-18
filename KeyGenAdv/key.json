@@ -3844,11 +3844,11 @@
     "key": "DEVIL-D12C-68E4-B662-CE24",
     "validation": "f93033d62737f04d029ac11317ca0c97",
     "createdAt": 1781699706976,
-    "expiresAt": 1781742906976,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-17",
+    "expiresAt": 1781812798491,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-18",
     "banned": false
   },
   {
