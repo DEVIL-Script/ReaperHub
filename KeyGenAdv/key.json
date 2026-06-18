@@ -3868,10 +3868,10 @@
     "key": "DEVIL-FCED-9820-223D-2C2A",
     "validation": "df323696e2bdb8e0cd0e306ed680864f",
     "createdAt": 1781785287713,
-    "expiresAt": 1781828487713,
+    "expiresAt": 1781871687713,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-18",
     "banned": false
   }
