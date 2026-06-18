@@ -3604,10 +3604,10 @@
     "key": "DEVIL-6621-9FA2-0624-B991",
     "validation": "13276dab9e029cc3c96345c2a03447f6",
     "createdAt": 1781294379994,
-    "expiresAt": 1781808369829,
+    "expiresAt": 1781851569829,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 7,
+    "extensionCount": 2,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-06-18",
     "banned": false
   },
