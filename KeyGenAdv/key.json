@@ -3832,11 +3832,11 @@
     "key": "DEVIL-A4F7-8FD8-2CC4-5148",
     "validation": "f9445dcde004f81c5233ca1e06a81e48",
     "createdAt": 1781654064231,
-    "expiresAt": 1781842837858,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-06-18",
+    "expiresAt": 1781938680215,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-06-19",
     "banned": false
   },
   {
