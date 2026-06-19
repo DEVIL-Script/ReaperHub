@@ -3052,11 +3052,11 @@
     "key": "DEVIL-20A9-B925-BA73-40BC",
     "validation": "cab8400d32bdd79eecd37b8be1814df9",
     "createdAt": 1779747041977,
-    "expiresAt": 1781870388189,
-    "status": "EXPIRED",
+    "expiresAt": 1781936755807,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 19,
-    "lastExtensionDate": "2026-06-18",
+    "totalExtensionCount": 20,
+    "lastExtensionDate": "2026-06-19",
     "banned": false
   },
   {
