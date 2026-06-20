@@ -3760,11 +3760,11 @@
     "key": "DEVIL-D78A-89A5-7822-506D",
     "validation": "5a109dcc2686e0d38f5a94af151d3cf8",
     "createdAt": 1781521981151,
-    "expiresAt": 1781565181151,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-15",
+    "expiresAt": 1782031295158,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-20",
     "banned": false
   },
   {
