@@ -3700,11 +3700,11 @@
     "key": "DEVIL-53C0-86CC-0CE0-DB73",
     "validation": "6a3a6489787d394b8ddd659504e222a1",
     "createdAt": 1781434201930,
-    "expiresAt": 1781554426537,
-    "status": "EXPIRED",
+    "expiresAt": 1781975895710,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-15",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-20",
     "banned": false
   },
   {
