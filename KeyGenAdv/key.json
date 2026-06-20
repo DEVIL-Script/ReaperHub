@@ -3938,12 +3938,12 @@
   {
     "userId": "15a079019ed4899883eaa7584c76c3a465ac52bcf0e3d26f4790d94b80fb5ad3",
     "key": "DEVIL-AAFD-03C8-A3A9-392C",
-    "validation": "cf829951d931c83e248756929969f815",
+    "validation": "72574641f2030dbbd3783f02332be6a2",
     "createdAt": 1781943753242,
-    "expiresAt": 1781986953242,
+    "expiresAt": 1782030153242,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-20",
     "banned": false
   }
