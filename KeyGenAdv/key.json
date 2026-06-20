@@ -3724,11 +3724,11 @@
     "key": "DEVIL-9C32-D519-60A1-3F4E",
     "validation": "22d5a7072895639ce7da706d2647eeaa",
     "createdAt": 1781443214446,
-    "expiresAt": 1781732947080,
-    "status": "EXPIRED",
+    "expiresAt": 1781965245307,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-06-17",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-06-20",
     "banned": false
   },
   {
