@@ -472,11 +472,11 @@
     "key": "DEVIL-1C5D-47ED-CDEB-E8EB",
     "validation": "444df85844c05816bfa8fcb25a32ae70",
     "createdAt": 1774988468878,
-    "expiresAt": 1782108218622,
+    "expiresAt": 1782151418622,
     "status": "ACTIVE",
-    "extensionCount": 5,
-    "totalExtensionCount": 84,
-    "lastExtensionDate": "2026-06-19",
+    "extensionCount": 1,
+    "totalExtensionCount": 85,
+    "lastExtensionDate": "2026-06-21",
     "banned": false
   },
   {
