@@ -5860,10 +5860,10 @@
     "key": "DEVIL-1C13-0A41-5679-7733",
     "validation": "5549980c7c9221b30e164272ccfa3eea",
     "createdAt": 1782677380054,
-    "expiresAt": 1782720580054,
+    "expiresAt": 1782763780054,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-28",
     "banned": false
   },
