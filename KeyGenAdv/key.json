@@ -4382,12 +4382,12 @@
   {
     "userId": "8a213f56134f6a713f10b830537153f7d364eb6b9a3d6f97c2f4e12b9069ddc7",
     "key": "DEVIL-F0A0-0ABB-126D-DCBD",
-    "validation": "1593bbcd80020c99d155661fb31e01cc",
+    "validation": "4da44fddfaf95038d63877f5c93492ca",
     "createdAt": 1782661883721,
-    "expiresAt": 1782705083721,
+    "expiresAt": 1782748283721,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-28",
     "banned": false
   },
