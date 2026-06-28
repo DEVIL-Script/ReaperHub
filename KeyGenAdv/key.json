@@ -4526,12 +4526,12 @@
   {
     "userId": "28dc74341352d33d3ef777c603106aaa1c05273c68d758745364dc86fce4c425",
     "key": "DEVIL-E005-A95E-8C6D-D6DF",
-    "validation": "1c85ac045b952bf9b49f8a06b8ecabe5",
+    "validation": "123de13cd0bbac4bcdbe8d7d5f803341",
     "createdAt": 1782662522074,
-    "expiresAt": 1782705722074,
+    "expiresAt": 1782748922074,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-28",
     "banned": false
   },
