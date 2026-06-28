@@ -6074,12 +6074,12 @@
   {
     "userId": "bd2def4f99e6f7c392c3064c2665b14a91a20dc7e9a1060f825f0e66097af75a",
     "key": "DEVIL-36BE-7FAC-E71B-F56B",
-    "validation": "2291053ada0acda7b752403c33af1c50",
+    "validation": "939524bc688206c2fbae2b833c2f0c4f",
     "createdAt": 1782681842472,
-    "expiresAt": 1782725042472,
+    "expiresAt": 1782768242472,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-28",
     "banned": false
   },
