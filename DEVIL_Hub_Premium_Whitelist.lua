@@ -342,7 +342,7 @@ local DiscordWhitelist = {
     ["75be8e32b213ead9e43429cf97ef96a0"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
     ["e4d96ebf1cb3025a727d5bb46ba19d33"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
     ["e7438a0c3f2d01f0e3c7b4024777ef48"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
-    ["7aa11c4b54ad004d9be9ce40b098b5c7"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
+    ["7aa11c4b54ad004d9be9ce40b098b5c7"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = false},
     ["838f589a73313c3badb9150b31319a81"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
     ["f3828a9af86a458e9348b4ac513c6551"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
     ["850972aaade3784c9653cea021665e4e"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
