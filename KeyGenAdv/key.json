@@ -5273,10 +5273,10 @@
     "validation": null,
     "createdAt": 1782668802307,
     "expiresAt": 1782690402307,
-    "status": "ACTIVE",
+    "status": "BANNED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-06-28",
-    "banned": false
+    "banned": true
   }
 ]
