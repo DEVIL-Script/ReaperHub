@@ -5800,10 +5800,10 @@
     "key": "DEVIL-DB6D-B565-E70D-7B81",
     "validation": "d7e41671fb9a2202f73d96cc362f53ef",
     "createdAt": 1782676996450,
-    "expiresAt": 1782720196450,
+    "expiresAt": 1782763396450,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-28",
     "banned": false
   },
