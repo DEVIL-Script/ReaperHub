@@ -5366,12 +5366,12 @@
   {
     "userId": "5786e2417f38f9f0db997d71fed362f0aaabd9fe4a7019e8a5bf29f18d81e68f",
     "key": "DEVIL-90EA-C326-02E4-277D",
-    "validation": "e18bf1396799b4a99aeb1b8d5c379f79",
+    "validation": "728be0c714b6eca496505df4339e32b7",
     "createdAt": 1782669293184,
-    "expiresAt": 1782712493184,
+    "expiresAt": 1782755693184,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-28",
     "banned": false
   },
