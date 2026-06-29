@@ -5956,11 +5956,11 @@
     "key": "DEVIL-747D-73D8-2DE9-D39E",
     "validation": "461d5bac302d03702a2c7b01a3521666",
     "createdAt": 1782679198516,
-    "expiresAt": 1782722398516,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782789201303,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
