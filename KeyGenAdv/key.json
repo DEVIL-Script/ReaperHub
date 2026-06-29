@@ -4984,11 +4984,11 @@
     "key": "DEVIL-0E50-1176-B9EF-1E99",
     "validation": "312d379911576ce05350a96721120472",
     "createdAt": 1782666125677,
-    "expiresAt": 1782709325677,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782768727341,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
