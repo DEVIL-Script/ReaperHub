@@ -4514,12 +4514,12 @@
   {
     "userId": "3a0fce577577e2024339776387e559febda8e31b1068254c7fb66aaabecfc9f4",
     "key": "DEVIL-91ED-34D3-2F17-7A18",
-    "validation": "eaffc0847ff5e158663b968b6aa6e0ef",
+    "validation": "970a0fb5a3cd6757af05aa27df0baff5",
     "createdAt": 1782662417519,
-    "expiresAt": 1782800338033,
+    "expiresAt": 1782843538033,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
+    "extensionCount": 3,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
