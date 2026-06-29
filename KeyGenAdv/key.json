@@ -5164,10 +5164,10 @@
     "key": "DEVIL-FC8A-E844-F6A0-3829",
     "validation": "db3005b280763f82e90a3d61a0cbd158",
     "createdAt": 1782667224911,
-    "expiresAt": 1782753624911,
+    "expiresAt": 1782796824911,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
