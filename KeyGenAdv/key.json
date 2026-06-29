@@ -6640,10 +6640,10 @@
     "key": "DEVIL-ADFA-A29B-F9B1-79C8",
     "validation": "e76ae80486f63e3dda2c495d146dd8df",
     "createdAt": 1782699557115,
-    "expiresAt": 1782742757115,
+    "expiresAt": 1782785957115,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   }
