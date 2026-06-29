@@ -4912,11 +4912,11 @@
     "key": "DEVIL-FB6B-192B-F328-4B53",
     "validation": "cbc2944d67122810bab3be0882cbca98",
     "createdAt": 1782665758675,
-    "expiresAt": 1782708958675,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782773443249,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
