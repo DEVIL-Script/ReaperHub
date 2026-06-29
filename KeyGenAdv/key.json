@@ -4528,11 +4528,11 @@
     "key": "DEVIL-E005-A95E-8C6D-D6DF",
     "validation": "123de13cd0bbac4bcdbe8d7d5f803341",
     "createdAt": 1782662522074,
-    "expiresAt": 1782748922074,
-    "status": "EXPIRED",
+    "expiresAt": 1782807402343,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-28",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
