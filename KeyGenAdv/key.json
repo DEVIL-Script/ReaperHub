@@ -5140,11 +5140,11 @@
     "key": "DEVIL-9723-73F3-2222-5D60",
     "validation": "a5a16563cf3c461fe007c24d6c7c2a1c",
     "createdAt": 1782667086626,
-    "expiresAt": 1782710286626,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782797366788,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
