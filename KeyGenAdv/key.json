@@ -6340,11 +6340,11 @@
     "key": "DEVIL-735E-A7FF-FD37-478D",
     "validation": "eb2d52c3065d2b1a2e7da252ba5eaccf",
     "createdAt": 1782689604365,
-    "expiresAt": 1782732804365,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782813332049,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
