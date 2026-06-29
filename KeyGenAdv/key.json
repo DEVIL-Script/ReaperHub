@@ -8270,12 +8270,12 @@
   {
     "userId": "8a87c10a9c49dd4a7184533a648a1d608a54baf703af6a2d060c279b1287d494",
     "key": "DEVIL-6419-377D-11C0-4B90",
-    "validation": "735f2693fb299bf4be58553adb4884e9",
+    "validation": "c13cb0f326081642ed5b4f73dd6ed3c1",
     "createdAt": 1782760017303,
-    "expiresAt": 1782803217303,
+    "expiresAt": 1782846417303,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   }
