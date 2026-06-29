@@ -5212,11 +5212,11 @@
     "key": "DEVIL-F34A-8ED0-24CC-D594",
     "validation": "ec9901b24860fde7c366239296c56e9e",
     "createdAt": 1782667756787,
-    "expiresAt": 1782710956787,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782769389863,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
