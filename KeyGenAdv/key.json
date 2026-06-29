@@ -4444,11 +4444,11 @@
     "key": "DEVIL-0088-DA4E-6491-C0E4",
     "validation": "7cd234975c16a05658991726611c8c5c",
     "createdAt": 1782662058575,
-    "expiresAt": 1782705258575,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782754878299,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
