@@ -6196,11 +6196,11 @@
     "key": "DEVIL-1B11-2424-0598-D2AE",
     "validation": "3627d9b89ea214224eb535419cf09b05",
     "createdAt": 1782684966496,
-    "expiresAt": 1782728166496,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782792165966,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
