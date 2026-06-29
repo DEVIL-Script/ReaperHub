@@ -6602,12 +6602,12 @@
   {
     "userId": "f14a4d4bbc0495bd5cfcae7f586b9a4dac750096d7b6bf5aedca09072b37bba1",
     "key": "DEVIL-DA9D-59B2-5E3E-0DDC",
-    "validation": "7a32777277c7958ae1d4dedd06bafaa4",
+    "validation": "19a19d6da7f5c38d788c86c1c3133245",
     "createdAt": 1782697393860,
-    "expiresAt": 1782740593860,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "expiresAt": 1782801969643,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
