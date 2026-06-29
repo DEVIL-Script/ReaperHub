@@ -7094,12 +7094,12 @@
   {
     "userId": "aae515f9e64e91096d1890b1507fc2b7036bec1137365f6a3c383ba076b9b138",
     "key": "DEVIL-43E0-59A0-A0F0-08FB",
-    "validation": "c67969cdb26695e801d95b060e336cdb",
+    "validation": "61c312982f55811a993d2655a7749b39",
     "createdAt": 1782718162289,
-    "expiresAt": 1782761362289,
+    "expiresAt": 1782804562289,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
