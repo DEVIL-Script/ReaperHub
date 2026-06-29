@@ -7390,5 +7390,29 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-06-29",
     "banned": false
+  },
+  {
+    "userId": "83c771bd6c72da7b3615266b39ed2e837da5c83f53e001e828176c1d04ea97eb",
+    "key": "DEVIL-1F01-52BF-26C5-DA39",
+    "validation": "f6ff77299f35b114c812dc163adc1459",
+    "createdAt": 1782729767543,
+    "expiresAt": 1782772967543,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-06-29",
+    "banned": false
+  },
+  {
+    "userId": "cfe309245b47768d1a7b3b98b48489256e1fd7ecf8db3d19e9e0a94232dd6524",
+    "key": "DEVIL-665A-BF3A-6195-75EE",
+    "validation": "9d25b5f9171112fd4950284f9134692d",
+    "createdAt": 1782729803308,
+    "expiresAt": 1782773003308,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-06-29",
+    "banned": false
   }
 ]
