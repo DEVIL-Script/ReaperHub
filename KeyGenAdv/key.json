@@ -7648,10 +7648,10 @@
     "key": "DEVIL-87AA-D9FA-4D31-5C36",
     "validation": "f8468576318870b3c5bf8c81ceba847f",
     "createdAt": 1782736403634,
-    "expiresAt": 1782779603634,
+    "expiresAt": 1782822803634,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
