@@ -1706,12 +1706,12 @@
   {
     "userId": "8a1d3b1ef990fb0e094a5248160a68fd175d2db152c6e861806cba79550615e9",
     "key": "DEVIL-55B1-E651-9CDC-9173",
-    "validation": "c597662b1213db0ce7d50512473b619a",
+    "validation": "9c48d6d5d9f57c7bdbffaa9a4be1b2c3",
     "createdAt": 1776782142216,
-    "expiresAt": 1782758289344,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "expiresAt": 1782801839445,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
