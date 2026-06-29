@@ -5812,11 +5812,11 @@
     "key": "DEVIL-D0C7-CE93-BA2F-8B32",
     "validation": "ebf8dd189a46206a933e7f2c32e885a7",
     "createdAt": 1782677046350,
-    "expiresAt": 1782720246350,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782794465211,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
