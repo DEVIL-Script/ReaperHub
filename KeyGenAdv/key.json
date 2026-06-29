@@ -6676,10 +6676,10 @@
     "key": "DEVIL-5F4A-4CC3-99A1-1C20",
     "validation": "c38747fc569399e8100b4cbeaa7d933a",
     "createdAt": 1782700441828,
-    "expiresAt": 1782743641828,
+    "expiresAt": 1782786841828,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   }
