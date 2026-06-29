@@ -7774,5 +7774,17 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-06-29",
     "banned": false
+  },
+  {
+    "userId": "6f9bafc8db65d4552ca05b374540f702ad7fa1849aca6a1feb6ac3665d765657",
+    "key": "DEVIL-DC52-EA8C-F66C-4538",
+    "validation": "6b1aa71066d561419922f5a0f6dae5ea",
+    "createdAt": 1782740441257,
+    "expiresAt": 1782783641257,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-06-29",
+    "banned": false
   }
 ]
