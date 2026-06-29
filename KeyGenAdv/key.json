@@ -5536,10 +5536,10 @@
     "key": "DEVIL-2064-826C-DBEC-ABE1",
     "validation": "6ca85d7dcc763c366d9a84a30d097a93",
     "createdAt": 1782671408137,
-    "expiresAt": 1782930608137,
+    "expiresAt": 1782973808137,
     "status": "ACTIVE",
-    "extensionCount": 3,
-    "totalExtensionCount": 5,
+    "extensionCount": 4,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
