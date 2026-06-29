@@ -4396,11 +4396,11 @@
     "key": "DEVIL-9F2B-3D0E-C569-E293",
     "validation": "5f3421f8e7fcf57a3eee49cccc801751",
     "createdAt": 1782661936502,
-    "expiresAt": 1782705136502,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782817372478,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
