@@ -5248,11 +5248,11 @@
     "key": "DEVIL-720E-6B30-1F21-3D65",
     "validation": "a4d5314fb54651d7fd5e18bb15f107e9",
     "createdAt": 1782668640425,
-    "expiresAt": 1782711840425,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782773893830,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
