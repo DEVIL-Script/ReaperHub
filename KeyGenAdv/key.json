@@ -5620,11 +5620,11 @@
     "key": "DEVIL-47C7-477E-F75A-FB7B",
     "validation": "fa3074fc84eeaa3b1f2df1fcc1218823",
     "createdAt": 1782673036971,
-    "expiresAt": 1782716236971,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-28",
+    "expiresAt": 1782779292752,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-29",
     "banned": false
   },
   {
