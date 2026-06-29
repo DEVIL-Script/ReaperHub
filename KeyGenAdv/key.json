@@ -5210,12 +5210,12 @@
   {
     "userId": "452a023739d11fafa40e588a34a1173026a55ec9f36f242e335b23afbaed6ff5",
     "key": "DEVIL-F34A-8ED0-24CC-D594",
-    "validation": "ec9901b24860fde7c366239296c56e9e",
+    "validation": "fa74c7b48764ea66f247bbcc101888ea",
     "createdAt": 1782667756787,
-    "expiresAt": 1782769389863,
+    "expiresAt": 1782812589863,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   },
