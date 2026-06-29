@@ -7612,10 +7612,10 @@
     "key": "DEVIL-EBF3-4C95-99FA-8D05",
     "validation": "f0c4cebf847b6f2dc3267363069670ae",
     "createdAt": 1782735808122,
-    "expiresAt": 1782779008122,
+    "expiresAt": 1782822208122,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-29",
     "banned": false
   }
