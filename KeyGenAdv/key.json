@@ -7240,11 +7240,11 @@
     "key": "DEVIL-10D8-1B75-9959-0783",
     "validation": "a2a43969bb663ffdc516de936ea7c931",
     "createdAt": 1782722592047,
-    "expiresAt": 1782765792047,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782863895048,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
