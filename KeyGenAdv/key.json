@@ -8536,11 +8536,11 @@
     "key": "DEVIL-45D1-B285-24AF-DDA6",
     "validation": "95c45cd2c3ce77e739df1e0178456383",
     "createdAt": 1782771050259,
-    "expiresAt": 1782814250259,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782858729498,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
