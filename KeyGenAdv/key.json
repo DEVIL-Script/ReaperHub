@@ -9122,12 +9122,12 @@
   {
     "userId": "6fa09bc81af36bcb3c90d0cc6fe5b9c9720cb33d318de9badc6e10fd8569d9b8",
     "key": "DEVIL-6C4B-7B9A-75BC-B164",
-    "validation": "7dbcc4b245ab69ae013b1b37fe4778af",
+    "validation": "b9514d77937487ca39529791f918b4c3",
     "createdAt": 1782801198969,
-    "expiresAt": 1782844398969,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "expiresAt": 1782906341411,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
