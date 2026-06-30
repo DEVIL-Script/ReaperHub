@@ -6148,11 +6148,11 @@
     "key": "DEVIL-E79A-7A65-0A41-18DA",
     "validation": "acefab8fbee4b7bf00567718dc6a8bc3",
     "createdAt": 1782682624977,
-    "expiresAt": 1782788035546,
-    "status": "EXPIRED",
+    "expiresAt": 1782853890568,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
