@@ -4420,11 +4420,11 @@
     "key": "DEVIL-2468-CB34-FCCA-DE9D",
     "validation": "a432212551360c7fcbfd9f2149ea31ae",
     "createdAt": 1782661978920,
-    "expiresAt": 1782808790256,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782888519246,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
