@@ -1,6 +1,4 @@
--- DEVIL Hub Premium Whitelist with AES-256-CBC Encryption
--- Format: [encrypted_user_id] = {discordId = encrypted_discord_id, active = boolean}
--- Decryption key and IV are in the client-side Lua script
+-- DEVIL Hub Premium Whitelist
 
 local DiscordWhitelist = {
     ["4ee33c9ebe7b05438cded97d522a2965"] = {discordId = "011efd5666bacae181b3ade197470aad5d8e78336deb7ca945b851553ae385f3", active = false},
@@ -622,7 +620,8 @@ local DiscordWhitelist = {
     ["6a876a1aefc9c3324cb687bd3fa28d30"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
     ["9eb6603afe89958b3a3c86a56f03d7ee"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = false},
     ["20caf22ea6ea4a5c2ba49780129da7a2"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
-    ["f2a6022f60c8200ba44bf3b3030934b0"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true}
+    ["f2a6022f60c8200ba44bf3b3030934b0"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
+    ["780cc888d700a67cf29aa6ce71043029"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true}
 }
 
 return DiscordWhitelist
