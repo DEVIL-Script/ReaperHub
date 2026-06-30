@@ -9362,12 +9362,12 @@
   {
     "userId": "af5582beec11983fc8e266bdf9f31202062eaca0eeff2b4b992ffab06a9488ab",
     "key": "DEVIL-6949-0588-3BCB-B81F",
-    "validation": "b7f7695b153183ca412ccc7eeb7fedae",
+    "validation": "5e41dd65f6bdf33ad5d6a50d57182691",
     "createdAt": 1782817804512,
-    "expiresAt": 1782861004512,
+    "expiresAt": 1782904204512,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
