@@ -6580,11 +6580,11 @@
     "key": "DEVIL-E3C0-616E-E095-D0B4",
     "validation": "d776a6c47dad5caca11be9f7e8ed8224",
     "createdAt": 1782696771092,
-    "expiresAt": 1782813162786,
+    "expiresAt": 1782856362786,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
