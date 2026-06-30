@@ -5692,11 +5692,11 @@
     "key": "DEVIL-F39F-BC7E-97E5-7BFE",
     "validation": "5406a6739845f3918c25401aae64916e",
     "createdAt": 1782673884876,
-    "expiresAt": 1782760284876,
-    "status": "EXPIRED",
+    "expiresAt": 1782852987624,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-28",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
