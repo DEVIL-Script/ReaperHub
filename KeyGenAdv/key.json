@@ -8320,11 +8320,11 @@
     "key": "DEVIL-EAFD-7430-C67F-529E",
     "validation": "4794b8ef3b5fabcd43d87441a7fb57f0",
     "createdAt": 1782760761939,
-    "expiresAt": 1782803961939,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782849998536,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
