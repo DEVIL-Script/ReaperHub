@@ -6412,11 +6412,11 @@
     "key": "DEVIL-576C-5417-87BB-CC89",
     "validation": "f38e3e49edbbddb0d8e8af84d8094ac8",
     "createdAt": 1782691647739,
-    "expiresAt": 1782813257762,
-    "status": "EXPIRED",
+    "expiresAt": 1782904945348,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
