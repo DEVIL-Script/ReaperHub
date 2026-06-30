@@ -8740,10 +8740,10 @@
     "key": "DEVIL-D977-6F71-4D2E-6274",
     "validation": "3e69f3cc76c690c9cfe6986f2773239b",
     "createdAt": 1782781921698,
-    "expiresAt": 1782825121698,
+    "expiresAt": 1782868321698,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
