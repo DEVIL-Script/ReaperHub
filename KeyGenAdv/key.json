@@ -4840,11 +4840,11 @@
     "key": "DEVIL-B7C6-D28E-C5FB-238F",
     "validation": "e83207474dc34101a98ad5a55d021016",
     "createdAt": 1782665300346,
-    "expiresAt": 1782778122857,
-    "status": "EXPIRED",
+    "expiresAt": 1782837659581,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
