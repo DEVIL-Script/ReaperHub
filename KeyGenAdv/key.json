@@ -6520,11 +6520,11 @@
     "key": "DEVIL-B493-4344-67E1-DEDA",
     "validation": "f631e0736caaaeabe537f3ef004facb4",
     "createdAt": 1782695074495,
-    "expiresAt": 1782782217344,
-    "status": "EXPIRED",
+    "expiresAt": 1782829371482,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
