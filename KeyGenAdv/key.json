@@ -6998,12 +6998,12 @@
   {
     "userId": "aad97dec080a70508245e75d55a6e17a0071bf573b6dbda439884f6f93ebb9d6",
     "key": "DEVIL-28F8-00E7-3E7A-1EB4",
-    "validation": "2bdfa413a4aa76973812eb61df73a626",
+    "validation": "27ed38632306bbd3659748e94dcc999d",
     "createdAt": 1782712218131,
-    "expiresAt": 1782971418131,
+    "expiresAt": 1783014618131,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 5,
+    "extensionCount": 2,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
