@@ -4456,11 +4456,11 @@
     "key": "DEVIL-1906-F49E-C25B-A02E",
     "validation": "fb25110f7fd8b34b8d4e75bf4fc56713",
     "createdAt": 1782662136813,
-    "expiresAt": 1782776029657,
-    "status": "EXPIRED",
+    "expiresAt": 1782833486019,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
