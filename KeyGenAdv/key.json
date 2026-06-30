@@ -7490,12 +7490,12 @@
   {
     "userId": "7e9600f680c780f6c5964b98799d0e596c3e7ba2eff089ebbc4269e95f9d6de1",
     "key": "DEVIL-DE3F-F4D6-6E0D-96AE",
-    "validation": "97279dbca01e0e617fc7285daf1c4b4d",
+    "validation": "3f587021452915eb240e59896f198a2e",
     "createdAt": 1782730642545,
-    "expiresAt": 1782855694169,
+    "expiresAt": 1782898894169,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
