@@ -8032,11 +8032,11 @@
     "key": "DEVIL-6F2F-1967-519A-AEB6",
     "validation": "0e7b7e44bdc9143e6773decc78f89572",
     "createdAt": 1782751059401,
-    "expiresAt": 1782794259401,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782876238973,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
