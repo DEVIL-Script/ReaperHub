@@ -4502,12 +4502,12 @@
   {
     "userId": "a82f56bd438c97524c1586a822df31e3fdd2d52143a6fc67ee99e67473529faf",
     "key": "DEVIL-1FB2-AEAD-AEA8-2845",
-    "validation": "ff94f037161664863b2319da94940fa0",
+    "validation": "f265660b04351de9d813d6d14deb0e17",
     "createdAt": 1782662382301,
-    "expiresAt": 1782834997966,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "expiresAt": 1782885346206,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
