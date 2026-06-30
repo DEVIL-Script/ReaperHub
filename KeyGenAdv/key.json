@@ -7793,7 +7793,7 @@
     "validation": "ec2985f6b73154c38936adc44629e839",
     "createdAt": 1782740882528,
     "expiresAt": 1782784082528,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-06-29",
