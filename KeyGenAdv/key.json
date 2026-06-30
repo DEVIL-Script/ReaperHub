@@ -5236,11 +5236,11 @@
     "key": "DEVIL-1C12-651E-2523-47DF",
     "validation": "c2fd6e0aa81f7af548c8645d997640bf",
     "createdAt": 1782668381532,
-    "expiresAt": 1782802412437,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782849766335,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
