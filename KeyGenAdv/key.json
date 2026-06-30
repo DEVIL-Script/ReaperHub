@@ -6242,12 +6242,12 @@
   {
     "userId": "7c9860e45869ab0ac96650bf7987cbb34a18844174faa756b853ef4a7af854a7",
     "key": "DEVIL-2972-0F58-44C8-F0EA",
-    "validation": "87cc095aa406fb3926896e7410a5320a",
+    "validation": "d4b17bd4a4694ab7c7575a909aa264a1",
     "createdAt": 1782686455065,
-    "expiresAt": 1782840570565,
+    "expiresAt": 1782883770565,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
