@@ -8080,11 +8080,11 @@
     "key": "DEVIL-0DB6-F5F0-0A72-2CC7",
     "validation": "1c2e2897ff4cb73c252c5e8fb1f7b49a",
     "createdAt": 1782753601731,
-    "expiresAt": 1782796801731,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782860327682,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
