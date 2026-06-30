@@ -6448,11 +6448,11 @@
     "key": "DEVIL-6F1B-CE74-F71A-C7FC",
     "validation": "2536f0ac994b4017ee74edc60cc8a46c",
     "createdAt": 1782693224023,
-    "expiresAt": 1782736424023,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1782851215411,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-06-30",
     "banned": false
   },
   {
