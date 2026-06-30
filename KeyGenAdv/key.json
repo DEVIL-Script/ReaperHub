@@ -8020,10 +8020,10 @@
     "key": "DEVIL-050C-44FE-86E0-33CC",
     "validation": "056cb844be56eb6234f198a1fbc99faa",
     "createdAt": 1782750490421,
-    "expiresAt": 1782856594528,
+    "expiresAt": 1782899794528,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
