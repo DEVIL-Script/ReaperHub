@@ -4540,10 +4540,10 @@
     "key": "DEVIL-94F1-6AA4-BB30-C464",
     "validation": "e542633b68164a4d53d5dc455e6d4aa1",
     "createdAt": 1782662568094,
-    "expiresAt": 1782863743801,
+    "expiresAt": 1782906943801,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-06-30",
     "banned": false
   },
