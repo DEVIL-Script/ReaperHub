@@ -6952,11 +6952,11 @@
     "key": "DEVIL-4FB5-DE32-F8AD-F3A4",
     "validation": "b7448ebbf7a1a1161094f3b12d455076",
     "createdAt": 1782711107041,
-    "expiresAt": 1782891231646,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-06-30",
+    "expiresAt": 1782940330286,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
