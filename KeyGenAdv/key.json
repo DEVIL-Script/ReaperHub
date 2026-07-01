@@ -7312,10 +7312,10 @@
     "key": "DEVIL-FE51-42CF-0441-3E08",
     "validation": "160c8a1374a4313e6cc96711243fc38e",
     "createdAt": 1782728184470,
-    "expiresAt": 1782986394518,
+    "expiresAt": 1783029594518,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-07-01",
     "banned": false
   },
