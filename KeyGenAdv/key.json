@@ -5042,12 +5042,12 @@
   {
     "userId": "bc400f4d95faa0583e79b41970710c9be9725033df15b537986443c95a355dcb",
     "key": "DEVIL-55DD-2BB6-ABE6-EB81",
-    "validation": "e69b583de212dc83f19c03ab76a69075",
+    "validation": "8637a35273de4c3e22229f6f64cc8963",
     "createdAt": 1782666605553,
-    "expiresAt": 1782956695721,
+    "expiresAt": 1782999895721,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-07-01",
     "banned": false
   },
