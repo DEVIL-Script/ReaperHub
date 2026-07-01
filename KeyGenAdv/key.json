@@ -8512,10 +8512,10 @@
     "key": "DEVIL-3CB3-8532-6E1F-D578",
     "validation": "1b515c0758c32ab2c2c120218c1108a6",
     "createdAt": 1782769107286,
-    "expiresAt": 1782956354686,
+    "expiresAt": 1782999554686,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-01",
     "banned": false
   },
