@@ -5044,11 +5044,11 @@
     "key": "DEVIL-55DD-2BB6-ABE6-EB81",
     "validation": "e69b583de212dc83f19c03ab76a69075",
     "createdAt": 1782666605553,
-    "expiresAt": 1782867661267,
-    "status": "EXPIRED",
+    "expiresAt": 1782956695721,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
