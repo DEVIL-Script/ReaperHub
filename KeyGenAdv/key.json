@@ -8500,11 +8500,11 @@
     "key": "DEVIL-DC6F-E821-050C-B55E",
     "validation": "b4d6b21d8cfe4430e19689b9861072b9",
     "createdAt": 1782768646092,
-    "expiresAt": 1782865835252,
-    "status": "EXPIRED",
+    "expiresAt": 1782927693223,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
