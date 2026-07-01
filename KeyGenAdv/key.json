@@ -6364,11 +6364,11 @@
     "key": "DEVIL-CBA1-2113-D2C3-2BF9",
     "validation": "1bac0ab935c359f6a6aca54bcb3ce57b",
     "createdAt": 1782689800889,
-    "expiresAt": 1782812675635,
-    "status": "EXPIRED",
+    "expiresAt": 1782927943488,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
