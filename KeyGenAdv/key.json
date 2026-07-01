@@ -9364,11 +9364,11 @@
     "key": "DEVIL-6949-0588-3BCB-B81F",
     "validation": "5e41dd65f6bdf33ad5d6a50d57182691",
     "createdAt": 1782817804512,
-    "expiresAt": 1782904204512,
-    "status": "EXPIRED",
+    "expiresAt": 1782953559903,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
