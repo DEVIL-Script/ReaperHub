@@ -6494,12 +6494,12 @@
   {
     "userId": "c34b4952af36203e3629ae33b9884f2eccea292d6c6dd18aa1aeb66b3f90b3b2",
     "key": "DEVIL-E108-7293-9145-DB85",
-    "validation": "77084abf524663b59561e8b670d37285",
+    "validation": "5353ed93b134f95fe7b1c966921acd46",
     "createdAt": 1782694723422,
-    "expiresAt": 1782909071372,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "expiresAt": 1782967624015,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-07-01",
     "banned": false
   },
