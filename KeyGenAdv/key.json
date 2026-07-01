@@ -10502,12 +10502,12 @@
   {
     "userId": "a12ac5410f782a54036953b04260b89800d59791772a02251a8a34ef73df7989",
     "key": "DEVIL-051F-49C3-3E15-5C18",
-    "validation": "b44a6891f192c130cb8dbd476b94470e",
+    "validation": "3a754897fb45370ce588d0bdb8b710ae",
     "createdAt": 1782921000317,
-    "expiresAt": 1782964200317,
+    "expiresAt": 1783007400317,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-01",
     "banned": false
   },
