@@ -8836,11 +8836,11 @@
     "key": "DEVIL-F819-B635-4806-4D4C",
     "validation": "83822c2c931c818937d67e20fffa4c5e",
     "createdAt": 1782786487834,
-    "expiresAt": 1782829687834,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-30",
+    "expiresAt": 1782932000392,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
