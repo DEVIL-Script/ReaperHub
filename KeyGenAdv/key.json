@@ -6484,11 +6484,11 @@
     "key": "DEVIL-ABE1-089B-3F22-4498",
     "validation": "83f74be7b535c157d4a3856ed27dff34",
     "createdAt": 1782693633952,
-    "expiresAt": 1782835103403,
-    "status": "EXPIRED",
+    "expiresAt": 1782932307360,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-01",
     "banned": false
   },
   {
