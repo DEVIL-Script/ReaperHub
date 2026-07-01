@@ -10348,10 +10348,10 @@
     "key": "DEVIL-EE96-5A44-36F4-F77F",
     "validation": "215ac67d8c8fb0d9ed1a5dd305cd2915",
     "createdAt": 1782908035387,
-    "expiresAt": 1782951235387,
+    "expiresAt": 1782994435387,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-01",
     "banned": false
   },
