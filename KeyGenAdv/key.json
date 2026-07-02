@@ -8260,11 +8260,11 @@
     "key": "DEVIL-5E7E-918D-3580-81B1",
     "validation": "b9329d3798ec8c0b7d5c9fae0810d739",
     "createdAt": 1782759951807,
-    "expiresAt": 1782949544977,
-    "status": "EXPIRED",
+    "expiresAt": 1783037392920,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-01",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
