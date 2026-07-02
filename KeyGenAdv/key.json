@@ -7838,7 +7838,7 @@
   {
     "userId": "8d3d8c41ef0a09fbbcf6c9a5f3dff16e507c4923612bf431ebf51d5f1922164b",
     "key": "DEVIL-E815-BD00-0D48-040D",
-    "validation": "5fb94d75705aea73c3f9be3fcea1c16b",
+    "validation": "4d0b91cfb57c20dbf72ba144b1553efb",
     "createdAt": 1782744336094,
     "expiresAt": 1783022432921,
     "status": "ACTIVE",
@@ -10769,7 +10769,7 @@
     "validation": "833273f4dbecde3be5b49b083311cce9",
     "createdAt": 1782947126519,
     "expiresAt": 1782990326519,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-01",
