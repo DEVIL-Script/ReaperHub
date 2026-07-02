@@ -9652,11 +9652,11 @@
     "key": "DEVIL-57E0-9CBD-41DB-417C",
     "validation": "edd86f4226759962b1de61b9bddeb241",
     "createdAt": 1782833569493,
-    "expiresAt": 1782989392000,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-01",
+    "expiresAt": 1783064178527,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
