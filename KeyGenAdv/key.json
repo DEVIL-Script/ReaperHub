@@ -6292,11 +6292,11 @@
     "key": "DEVIL-768D-FFB0-1F5F-817C",
     "validation": "1bbfc1a7a2f294236c0f92c40522dc1a",
     "createdAt": 1782688622603,
-    "expiresAt": 1782952242227,
-    "status": "EXPIRED",
+    "expiresAt": 1782996549879,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-01",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
