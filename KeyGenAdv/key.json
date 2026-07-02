@@ -11506,5 +11506,17 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-02",
     "banned": false
+  },
+  {
+    "userId": "8f7f7e087d659795011038248cbae69fce57cb6989d08db8d6ad5931fc5bfa0e",
+    "key": "DEVIL-324F-DACE-DEB9-CDE2",
+    "validation": "5cb0dff8b46d2a5dd0bfca2ed971aa70",
+    "createdAt": 1783031350971,
+    "expiresAt": 1783074550971,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-07-02",
+    "banned": false
   }
 ]
