@@ -7972,11 +7972,11 @@
     "key": "DEVIL-AD43-7254-43B5-FBD0",
     "validation": "a0c078324f86aec1d1ae048f7458c1e7",
     "createdAt": 1782749231739,
-    "expiresAt": 1782792431739,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1783054850360,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
