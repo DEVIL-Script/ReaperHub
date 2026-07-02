@@ -6100,10 +6100,10 @@
     "key": "DEVIL-8C83-150A-F2AE-6EC4",
     "validation": "3686e084ab5f8df45e90f61ce66645bb",
     "createdAt": 1782682049938,
-    "expiresAt": 1783027649938,
+    "expiresAt": 1783070849938,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 7,
+    "extensionCount": 2,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-07-02",
     "banned": false
   },
