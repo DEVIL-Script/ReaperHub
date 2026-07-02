@@ -10874,12 +10874,12 @@
   {
     "userId": "85e7c189bff565212fc30b2712762f88514faaf713aaa283f2437609a1a2c604",
     "key": "DEVIL-3548-CA3B-4FC5-8639",
-    "validation": "cf548eb674fad47bc4a7c1977a59fc2d",
+    "validation": "775f7798eead153960904087d26ffd22",
     "createdAt": 1782960876202,
-    "expiresAt": 1783047276202,
+    "expiresAt": 1783090476202,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-02",
     "banned": false
   },
