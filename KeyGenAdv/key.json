@@ -10516,11 +10516,11 @@
     "key": "DEVIL-64E4-A21D-5B24-4DA3",
     "validation": "52a3163dccacaa8333aec77965882bf4",
     "createdAt": 1782921847831,
-    "expiresAt": 1782965047831,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-01",
+    "expiresAt": 1783013943617,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
