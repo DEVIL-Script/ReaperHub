@@ -3256,11 +3256,11 @@
     "key": "DEVIL-0FC6-A83E-F06C-FCA5",
     "validation": "6b600088fc0fd2eba59b29a9e07814dd",
     "createdAt": 1780146335856,
-    "expiresAt": 1782985091156,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-07-01",
+    "expiresAt": 1783071687906,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
