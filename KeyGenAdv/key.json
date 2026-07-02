@@ -10252,11 +10252,11 @@
     "key": "DEVIL-E8BD-C06B-8725-7B7C",
     "validation": "ddcedc18205ddadc020654b5e99a2023",
     "createdAt": 1782895506114,
-    "expiresAt": 1782938706114,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-01",
+    "expiresAt": 1783023038582,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
