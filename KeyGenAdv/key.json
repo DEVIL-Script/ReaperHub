@@ -9472,11 +9472,11 @@
     "key": "DEVIL-46D3-5A28-776F-FE2B",
     "validation": "2bc69bf564ced191797b409cef71e14e",
     "createdAt": 1782824473872,
-    "expiresAt": 1782929123689,
-    "status": "EXPIRED",
+    "expiresAt": 1783030529667,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-01",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
