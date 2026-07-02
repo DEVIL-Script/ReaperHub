@@ -9688,11 +9688,11 @@
     "key": "DEVIL-3305-97F1-F52F-05FE",
     "validation": "55a1860aeaeaa5da4fa10bd856fa0003",
     "createdAt": 1782833825914,
-    "expiresAt": 1782877025914,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-30",
+    "expiresAt": 1783040534266,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-02",
     "banned": false
   },
   {
