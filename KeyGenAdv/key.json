@@ -8284,10 +8284,10 @@
     "key": "DEVIL-30D0-A62A-319A-8EA5",
     "validation": "a279ca16ca5fb45e0c463229e279bbed",
     "createdAt": 1782760401314,
-    "expiresAt": 1783017479668,
+    "expiresAt": 1783060679668,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-02",
     "banned": false
   },
