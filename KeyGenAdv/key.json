@@ -11092,10 +11092,10 @@
     "key": "DEVIL-A046-9589-1268-33C8",
     "validation": "7225712c1929d9bdd2bd78603e0ca05d",
     "createdAt": 1782988702596,
-    "expiresAt": 1783031902596,
+    "expiresAt": 1783075102596,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-02",
     "banned": false
   }
