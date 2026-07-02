@@ -10622,12 +10622,12 @@
   {
     "userId": "7fdd1bc2dc42627aa17ff0155ac9063989531dfe1148e24747abd61982682d1d",
     "key": "DEVIL-3BD0-B8EB-3811-80BC",
-    "validation": "47b75cd631429eda010b82b260fb96ee",
+    "validation": "cf1998dbe702d0286738b3493b405582",
     "createdAt": 1782931730550,
-    "expiresAt": 1783047828162,
+    "expiresAt": 1783091028162,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-02",
     "banned": false
   },
