@@ -5018,12 +5018,12 @@
   {
     "userId": "6d523d8d845fc14e6855781e5139b7778018d333171176de7f32069552b526e7",
     "key": "DEVIL-F49A-C8BB-99E5-49CC",
-    "validation": "2c35dacef8866864bcd2cd65c05d9bce",
+    "validation": "3576dd09fc8824d8691f7ae3f924b684",
     "createdAt": 1782666348170,
-    "expiresAt": 1783092254530,
+    "expiresAt": 1783135454530,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 7,
+    "extensionCount": 2,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   },
