@@ -8044,11 +8044,11 @@
     "key": "DEVIL-FA42-84AB-3873-1B60",
     "validation": "85acb38fe043fbc8d99a5cbf0789635f",
     "createdAt": 1782752298812,
-    "expiresAt": 1782795498812,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1783149323795,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
