@@ -6962,13 +6962,13 @@
   {
     "userId": "d5478638e092027f6b9a6dc32b7d3949fc5fdfba90343c6f2312fedb4ec61ba9",
     "key": "DEVIL-6F29-66BE-61D5-8417",
-    "validation": "2ea9cc3047e6c66e1d9742a8ff2622de",
+    "validation": "74f77b339be7f80822f80325c5fc400f",
     "createdAt": 1782711413232,
-    "expiresAt": 1782842544967,
-    "status": "EXPIRED",
+    "expiresAt": 1783092540414,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
