@@ -5354,12 +5354,12 @@
   {
     "userId": "f711e277c5f5bcef747f2ef08d4c50377152734118b95ee16a99be7a22a408d5",
     "key": "DEVIL-80B7-A72F-B176-9485",
-    "validation": "e089659b5f30d45ebc291661c62062b4",
+    "validation": "c0423acd994aeede580ddd794510ab05",
     "createdAt": 1782669285626,
-    "expiresAt": 1783095816605,
+    "expiresAt": 1783139016605,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 6,
+    "extensionCount": 2,
+    "totalExtensionCount": 7,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   },
