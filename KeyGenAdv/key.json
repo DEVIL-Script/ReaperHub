@@ -8152,11 +8152,11 @@
     "key": "DEVIL-4EEF-BF21-3172-AD82",
     "validation": "9637139e853607aafb8ca950f206729c",
     "createdAt": 1782755095583,
-    "expiresAt": 1782798295583,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1783148302189,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
