@@ -10828,11 +10828,11 @@
     "key": "DEVIL-48B1-E75E-14CA-F7F6",
     "validation": "48e093ee9b3676843336d12b0107284a",
     "createdAt": 1782954324323,
-    "expiresAt": 1782997524323,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783082594123,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
