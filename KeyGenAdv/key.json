@@ -11702,12 +11702,12 @@
   {
     "userId": "f36dbf4b8e6bae949b5fac4c5b5f8086b059eb71e2d919969b75c7c8720f8fc2",
     "key": "DEVIL-D3FE-E596-70CA-DC67",
-    "validation": "c457b1ba0eb3defa71179d80855e8e1e",
+    "validation": "e05862b1f9513ee5ffd728b6c2c43c59",
     "createdAt": 1783065501477,
-    "expiresAt": 1783108701477,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "expiresAt": 1783164893015,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   },
