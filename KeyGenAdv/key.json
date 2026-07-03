@@ -8810,13 +8810,13 @@
   {
     "userId": "4baeedfa332ee01c403f982b0733cc81b1684792056fc7ec779f550a1e5c6979",
     "key": "DEVIL-33C6-953E-E22F-5C98",
-    "validation": "ce91b3d4cff2a7a7b8e2bfc62d3eed62",
+    "validation": "5526327ae3fbc9bf3c313695c31f025d",
     "createdAt": 1782785189338,
-    "expiresAt": 1782871589338,
-    "status": "EXPIRED",
+    "expiresAt": 1783138278953,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
