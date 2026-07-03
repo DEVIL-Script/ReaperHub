@@ -10624,11 +10624,11 @@
     "key": "DEVIL-3BD0-B8EB-3811-80BC",
     "validation": "cf1998dbe702d0286738b3493b405582",
     "createdAt": 1782931730550,
-    "expiresAt": 1783091028162,
+    "expiresAt": 1783134228162,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-02",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
