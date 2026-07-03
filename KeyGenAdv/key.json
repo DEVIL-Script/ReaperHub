@@ -6772,11 +6772,11 @@
     "key": "DEVIL-EB38-B8E6-92C5-7769",
     "validation": "21ab6a789f9238d4677746118c0c931c",
     "createdAt": 1782703729631,
-    "expiresAt": 1782820458676,
-    "status": "EXPIRED",
+    "expiresAt": 1783090898077,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-29",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
