@@ -6244,11 +6244,11 @@
     "key": "DEVIL-2972-0F58-44C8-F0EA",
     "validation": "f229159210c3a63f9d1693532abc45fd",
     "createdAt": 1782686455065,
-    "expiresAt": 1783029883131,
-    "status": "EXPIRED",
+    "expiresAt": 1783084739222,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-02",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
