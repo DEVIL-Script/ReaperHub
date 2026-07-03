@@ -8392,11 +8392,11 @@
     "key": "DEVIL-8E04-2FDF-850C-5B6D",
     "validation": "8a29f43088a89b56729e32fd1dffff08",
     "createdAt": 1782764178090,
-    "expiresAt": 1782904384012,
-    "status": "EXPIRED",
+    "expiresAt": 1783109155343,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
