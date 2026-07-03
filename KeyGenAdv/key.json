@@ -11884,10 +11884,10 @@
     "key": "DEVIL-946D-B73A-531C-46E8",
     "validation": "10ced9030281d1da621cd12362e075cf",
     "createdAt": 1783084598287,
-    "expiresAt": 1783127798287,
+    "expiresAt": 1783170998287,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   }
