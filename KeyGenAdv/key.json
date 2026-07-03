@@ -4924,10 +4924,10 @@
     "key": "DEVIL-DFD9-0ED8-00B8-9529",
     "validation": "cee458656e0a944766453c1529ec7948",
     "createdAt": 1782665853698,
-    "expiresAt": 1783172599858,
+    "expiresAt": 1783215799858,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 7,
+    "extensionCount": 3,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   },
