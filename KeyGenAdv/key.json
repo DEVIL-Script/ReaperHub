@@ -6218,12 +6218,12 @@
   {
     "userId": "932858926596d03b45f61a583c2038afc3fc582f4e40dd499bdef8d8b8990902",
     "key": "DEVIL-2464-C0D5-6DA0-19CB",
-    "validation": "ed144cfbdb0937a906ee3a23c9cc801b",
+    "validation": "75c707a1398c3d1bfb3f7b45a4b84e29",
     "createdAt": 1782685912254,
-    "expiresAt": 1783090852301,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "expiresAt": 1783159220261,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   },
