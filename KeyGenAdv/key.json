@@ -8414,12 +8414,12 @@
   {
     "userId": "9ec08a87936bb813c3e45d8af18f8650b782ba35fe9d852ce0764768dda3a6b7",
     "key": "DEVIL-5091-DB6E-F3D4-3ACC",
-    "validation": "4c0cc69d8bcd458e2a79348b45a9c554",
+    "validation": "fd73c6124ed0e0416228be1946c58056",
     "createdAt": 1782766208508,
-    "expiresAt": 1783097036903,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 5,
+    "expiresAt": 1783142078387,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-07-03",
     "banned": false
   },
