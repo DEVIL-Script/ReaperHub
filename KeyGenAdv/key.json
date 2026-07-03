@@ -7936,11 +7936,11 @@
     "key": "DEVIL-9422-08A4-253E-EE33",
     "validation": "e3e4c3be5e9bf0f0450fb21352cf585a",
     "createdAt": 1782748689509,
-    "expiresAt": 1782999501409,
-    "status": "EXPIRED",
+    "expiresAt": 1783087555481,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-02",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
