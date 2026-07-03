@@ -11212,11 +11212,11 @@
     "key": "DEVIL-79CE-A290-36B6-27B4",
     "validation": "b7385dbb26d508dfc7da4e12998e0226",
     "createdAt": 1783003573768,
-    "expiresAt": 1783046773768,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783096924744,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
