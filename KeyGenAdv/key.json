@@ -10840,11 +10840,11 @@
     "key": "DEVIL-4763-B234-3DEA-565B",
     "validation": "a49cb51e951b3fb157779a4036f41d79",
     "createdAt": 1782958143784,
-    "expiresAt": 1783001343784,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783093069042,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
