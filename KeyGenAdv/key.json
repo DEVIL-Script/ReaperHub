@@ -11188,11 +11188,11 @@
     "key": "DEVIL-70CB-6511-4551-0DC8",
     "validation": "8f231461fbc8730dc2cc71985128c11e",
     "createdAt": 1783002331633,
-    "expiresAt": 1783045531633,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783137931725,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
