@@ -8920,11 +8920,11 @@
     "key": "DEVIL-CBFA-590E-5317-FF66",
     "validation": "ab66e93e41c3406b4af2e5e71fd4d55f",
     "createdAt": 1782790410269,
-    "expiresAt": 1783072434372,
-    "status": "EXPIRED",
+    "expiresAt": 1783151380782,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-02",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
