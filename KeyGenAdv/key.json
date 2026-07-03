@@ -11128,11 +11128,11 @@
     "key": "DEVIL-8B90-D7C1-03D9-6B91",
     "validation": "fec639b651f234dabf2fa4b8af90ac71",
     "createdAt": 1782994548172,
-    "expiresAt": 1783080948172,
-    "status": "EXPIRED",
+    "expiresAt": 1783124806323,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-02",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-03",
     "banned": false
   },
   {
