@@ -5596,11 +5596,11 @@
     "key": "DEVIL-CDDF-7C43-21BF-E1C2",
     "validation": "0edb0d0ee51f925d485d14e31884e41e",
     "createdAt": 1782672929569,
-    "expiresAt": 1783151720448,
-    "status": "EXPIRED",
+    "expiresAt": 1783233238205,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
