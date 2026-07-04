@@ -8368,11 +8368,11 @@
     "key": "DEVIL-2DFC-0DDC-3428-3D74",
     "validation": "daa8d4fe585552923c40a220e61365ed",
     "createdAt": 1782763212366,
-    "expiresAt": 1783056422988,
-    "status": "EXPIRED",
+    "expiresAt": 1783177651735,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-02",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
