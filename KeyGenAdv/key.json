@@ -6076,11 +6076,11 @@
     "key": "DEVIL-36BE-7FAC-E71B-F56B",
     "validation": "ac970e8510420b229e55ad52628a4c9a",
     "createdAt": 1782681842472,
-    "expiresAt": 1783129115412,
-    "status": "EXPIRED",
+    "expiresAt": 1783240513607,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
