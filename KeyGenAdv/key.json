@@ -10060,11 +10060,11 @@
     "key": "DEVIL-CFBF-EE77-4CCD-CBE7",
     "validation": "1d902bdd5e663d62b0a99e4558bb39ba",
     "createdAt": 1782860485418,
-    "expiresAt": 1782903685418,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-30",
+    "expiresAt": 1783206278181,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
