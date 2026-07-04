@@ -9868,10 +9868,10 @@
     "key": "DEVIL-B95E-5E88-380F-F2D5",
     "validation": "e1dca6150f121b26fc2ae1466df75f13",
     "createdAt": 1782843765392,
-    "expiresAt": 1783198990508,
+    "expiresAt": 1783242190508,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-07-04",
     "banned": false
   },
