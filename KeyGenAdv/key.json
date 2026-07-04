@@ -4385,7 +4385,7 @@
     "validation": "dc06ed134d8068d04a0cc4ba3fd5ad37",
     "createdAt": 1782661883721,
     "expiresAt": 1783188895481,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 4,
     "lastExtensionDate": "2026-07-04",
@@ -12724,10 +12724,10 @@
     "key": "DEVIL-4EDA-9376-321C-6702",
     "validation": "0d3e741d29d99d868756df20d06b9033",
     "createdAt": 1783188740602,
-    "expiresAt": 1783231940602,
+    "expiresAt": 1783275140602,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-04",
     "banned": false
   }
