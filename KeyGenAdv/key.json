@@ -4888,10 +4888,10 @@
     "key": "DEVIL-765D-BF50-FA3A-14D1",
     "validation": "9556ad9791f0747fe8accc19e7c9cd2e",
     "createdAt": 1782665657611,
-    "expiresAt": 1783258752768,
+    "expiresAt": 1783301952768,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 10,
+    "extensionCount": 2,
+    "totalExtensionCount": 11,
     "lastExtensionDate": "2026-07-04",
     "banned": false
   },
