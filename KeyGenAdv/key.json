@@ -6724,11 +6724,11 @@
     "key": "DEVIL-8147-9134-761F-F4E0",
     "validation": "db3005b280763f82e90a3d61a0cbd158",
     "createdAt": 1782701772302,
-    "expiresAt": 1783125231040,
-    "status": "EXPIRED",
+    "expiresAt": 1783176456798,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
