@@ -6388,11 +6388,11 @@
     "key": "DEVIL-3D0C-F0AA-0F83-44AB",
     "validation": "6965c4b3380df6eeb54eef3ed66aa4a1",
     "createdAt": 1782690435709,
-    "expiresAt": 1783160134930,
-    "status": "EXPIRED",
+    "expiresAt": 1783247673876,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
