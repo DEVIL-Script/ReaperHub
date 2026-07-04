@@ -7706,13 +7706,13 @@
   {
     "userId": "0f7f14eaef9b87a4d057c38947b06750cc219ed24942d9411b49b34d1fdca4b9",
     "key": "DEVIL-5349-08C6-FC32-5EBD",
-    "validation": "1db3349742920846fe66bc9cace659a2",
+    "validation": "1da7bd1a0f316af9d32c5545b8db9ad2",
     "createdAt": 1782738188374,
-    "expiresAt": 1782913925291,
-    "status": "EXPIRED",
+    "expiresAt": 1783231406602,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-01",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
@@ -10181,7 +10181,7 @@
     "validation": "5b4b96b4c3cb4e7707f943a084de1a75",
     "createdAt": 1782884619409,
     "expiresAt": 1783188181675,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-04",
