@@ -7192,11 +7192,11 @@
     "key": "DEVIL-D900-EC82-8C69-3ABA",
     "validation": "b4dcd06ac4df7f4ff3c29450f09e7d29",
     "createdAt": 1782721076386,
-    "expiresAt": 1783158534947,
-    "status": "EXPIRED",
+    "expiresAt": 1783210198013,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
