@@ -8198,13 +8198,13 @@
   {
     "userId": "1c83b6b2561375db027f837b54cb0ec69f0b06d253937edea53114581371cde7",
     "key": "DEVIL-BEDC-EB48-6033-983F",
-    "validation": "2985e7f16b16b0a72fc70a6e977f9d28",
+    "validation": "fa44dd83687e23ce1171e8a0d77234b3",
     "createdAt": 1782755906238,
-    "expiresAt": 1782799106238,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1783220447557,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
