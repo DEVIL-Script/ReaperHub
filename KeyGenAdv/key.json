@@ -4612,10 +4612,10 @@
     "key": "DEVIL-F9FB-2CEC-20C5-9168",
     "validation": "eb98fd22d72b5d8a750e5326574e0c41",
     "createdAt": 1782663218826,
-    "expiresAt": 1783303497078,
+    "expiresAt": 1783346697078,
     "status": "ACTIVE",
-    "extensionCount": 3,
-    "totalExtensionCount": 6,
+    "extensionCount": 4,
+    "totalExtensionCount": 7,
     "lastExtensionDate": "2026-07-04",
     "banned": false
   },
