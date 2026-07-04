@@ -9136,11 +9136,11 @@
     "key": "DEVIL-9667-5ED5-AAD2-7786",
     "validation": "d7a4a741492a5198ea073185ea27adc4",
     "createdAt": 1782803189642,
-    "expiresAt": 1783164541829,
-    "status": "EXPIRED",
+    "expiresAt": 1783241958112,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
