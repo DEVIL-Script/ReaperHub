@@ -12112,11 +12112,11 @@
     "key": "DEVIL-2777-C74C-8108-E63A",
     "validation": "2085f55f0327b79d28ca359e6db48421",
     "createdAt": 1783121227071,
-    "expiresAt": 1783164427071,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783215011230,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
