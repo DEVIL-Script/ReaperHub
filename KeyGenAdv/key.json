@@ -6220,11 +6220,11 @@
     "key": "DEVIL-2464-C0D5-6DA0-19CB",
     "validation": "75c707a1398c3d1bfb3f7b45a4b84e29",
     "createdAt": 1782685912254,
-    "expiresAt": 1783159220261,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783206439375,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
