@@ -12461,7 +12461,7 @@
     "validation": "307b575ec37ba71f8cde9ed1198717be",
     "createdAt": 1783163531565,
     "expiresAt": 1783206731565,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-04",
@@ -12770,7 +12770,7 @@
   {
     "userId": "d27c08b15d448900d48d82862be95246fe950c76b01033158dfc7f15b34b42a7",
     "key": "DEVIL-EE83-9E4D-B02D-247D",
-    "validation": "2ee654b59c88145de5bb03e9209bdaed",
+    "validation": "286a7c64b18ebb04c894ee990179ccb4",
     "createdAt": 1783192620473,
     "expiresAt": 1783235820473,
     "status": "ACTIVE",
