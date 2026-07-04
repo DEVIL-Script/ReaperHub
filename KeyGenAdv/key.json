@@ -11668,11 +11668,11 @@
     "key": "DEVIL-63F8-8C2B-5A0B-C4D6",
     "validation": "84d67d3a62a2cd2841aeccdd440665f7",
     "createdAt": 1783055025446,
-    "expiresAt": 1783098225446,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783179547791,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
