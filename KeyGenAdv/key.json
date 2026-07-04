@@ -5534,12 +5534,12 @@
   {
     "userId": "1dae5e67529f57c7340fb14ae7106c803b72e9f41f7a9ffd7323947f5b0eeae7",
     "key": "DEVIL-2064-826C-DBEC-ABE1",
-    "validation": "e0bde90be471705d2317c8b7043603e4",
+    "validation": "bf08bb56eae6b45ecb8aed14c2e3d227",
     "createdAt": 1782671408137,
-    "expiresAt": 1783189808137,
+    "expiresAt": 1783233008137,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 11,
+    "extensionCount": 2,
+    "totalExtensionCount": 12,
     "lastExtensionDate": "2026-07-04",
     "banned": false
   },
