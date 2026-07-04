@@ -12040,11 +12040,11 @@
     "key": "DEVIL-2F35-D8A2-161C-3F44",
     "validation": "8f9ea0d6d66b07d8d512b7a611bfa3e1",
     "createdAt": 1783113863877,
-    "expiresAt": 1783157063877,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783242141143,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
