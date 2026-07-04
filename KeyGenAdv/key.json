@@ -11056,11 +11056,11 @@
     "key": "DEVIL-47E0-7B44-85A0-ED50",
     "validation": "58630097da6130a1d1bcf2d05c425af7",
     "createdAt": 1782985117354,
-    "expiresAt": 1783084593004,
-    "status": "EXPIRED",
+    "expiresAt": 1783172883102,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
