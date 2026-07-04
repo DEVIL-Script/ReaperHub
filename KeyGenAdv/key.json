@@ -9280,11 +9280,11 @@
     "key": "DEVIL-BC8B-F3C8-F2D8-5837",
     "validation": "e491d81d67403518d3c48ad03d8445a0",
     "createdAt": 1782811217879,
-    "expiresAt": 1782927175886,
-    "status": "EXPIRED",
+    "expiresAt": 1783250164830,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-01",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
