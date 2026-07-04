@@ -11728,10 +11728,10 @@
     "key": "DEVIL-467A-65CC-DFC4-A988",
     "validation": "85e3688d1925a75c501755a93b383d43",
     "createdAt": 1783068182510,
-    "expiresAt": 1783248823866,
+    "expiresAt": 1783292023866,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-04",
     "banned": false
   },
