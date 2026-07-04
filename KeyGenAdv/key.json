@@ -8800,11 +8800,11 @@
     "key": "DEVIL-3EB7-0174-F806-BEC4",
     "validation": "50100935ebff2c4f20c53a05ee6da83c",
     "createdAt": 1782785188325,
-    "expiresAt": 1783058859065,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783251245629,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-04",
     "banned": false
   },
   {
