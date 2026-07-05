@@ -11980,11 +11980,11 @@
     "key": "DEVIL-9BAD-C0FF-EA1E-D845",
     "validation": "e148a599dc4cd4d892a2f7b8a1205452",
     "createdAt": 1783100996543,
-    "expiresAt": 1783144196543,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783317877626,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
