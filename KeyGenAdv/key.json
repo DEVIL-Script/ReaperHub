@@ -11524,11 +11524,11 @@
     "key": "DEVIL-BD28-9F0A-5D53-29FB",
     "validation": "eb9123d348758ddf89ad49e1775c9000",
     "createdAt": 1783031864907,
-    "expiresAt": 1783075064907,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783335624829,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
