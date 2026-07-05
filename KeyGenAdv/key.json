@@ -11536,11 +11536,11 @@
     "key": "DEVIL-799A-DA54-05DC-DCE9",
     "validation": "168ad54ca2af9c068e7c616e351e6fb5",
     "createdAt": 1783033888419,
-    "expiresAt": 1783077088419,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783334451008,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
