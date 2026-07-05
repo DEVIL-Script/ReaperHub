@@ -10468,10 +10468,10 @@
     "key": "DEVIL-2001-35DD-9DC4-144D",
     "validation": "7e81f9cb72caa9cb9c2ad643234a2aa1",
     "createdAt": 1782920256590,
-    "expiresAt": 1783286756271,
+    "expiresAt": 1783329956271,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-07-05",
     "banned": false
   },
