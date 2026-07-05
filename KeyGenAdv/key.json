@@ -6592,11 +6592,11 @@
     "key": "DEVIL-9E6C-B8A9-25EE-2D21",
     "validation": "3c676b4875778e4800a8f57b2b19bec5",
     "createdAt": 1782697104291,
-    "expiresAt": 1782740304291,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1783262433377,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
