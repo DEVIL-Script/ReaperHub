@@ -4262,12 +4262,12 @@
   {
     "userId": "a648b381bfe71b68237667dc2982486da381a8e32425f734854c1b615be7ab9d",
     "key": "DEVIL-EDBA-E0D6-8CE6-C574",
-    "validation": "8ddc4700ac2bb61f2ed57605ba85537d",
+    "validation": "a2db744d8f9cafe62715b5e7454720cc",
     "createdAt": 1782660183472,
-    "expiresAt": 1783278530424,
+    "expiresAt": 1783321730424,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 6,
+    "extensionCount": 2,
+    "totalExtensionCount": 7,
     "lastExtensionDate": "2026-07-05",
     "banned": false
   },
