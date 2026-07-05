@@ -8414,13 +8414,13 @@
   {
     "userId": "9ec08a87936bb813c3e45d8af18f8650b782ba35fe9d852ce0764768dda3a6b7",
     "key": "DEVIL-5091-DB6E-F3D4-3ACC",
-    "validation": "8b1c7b70fa760228eae247c5ed4e3e0e",
+    "validation": "5b45ae14a3d0259d2c08f3093adb6af9",
     "createdAt": 1782766208508,
-    "expiresAt": 1783185278387,
-    "status": "EXPIRED",
-    "extensionCount": 3,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783274516380,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
