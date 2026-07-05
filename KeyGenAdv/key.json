@@ -12364,11 +12364,11 @@
     "key": "DEVIL-5BE4-4549-3AC8-91A1",
     "validation": "9e3f9682a98e04540646e2739ad7978f",
     "createdAt": 1783147810719,
-    "expiresAt": 1783191010719,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783280188204,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
