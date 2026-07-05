@@ -10024,11 +10024,11 @@
     "key": "DEVIL-A190-E37E-1FF7-792E",
     "validation": "33805c25050be1aa4d661797dbdcac5f",
     "createdAt": 1782858386103,
-    "expiresAt": 1783143384057,
-    "status": "EXPIRED",
+    "expiresAt": 1783328212055,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
