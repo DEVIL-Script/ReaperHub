@@ -6170,13 +6170,13 @@
   {
     "userId": "5ee2fd5b1dc8bdbd490b43618f9343ee6afb5e8d3f69f4b448407beaba3e3fb8",
     "key": "DEVIL-7616-D3B3-768E-FFDE",
-    "validation": "5c167a7a9c62cf4d054d69e8d1e2fe89",
+    "validation": "c198abe49cf8b8749fafd060b054f68f",
     "createdAt": 1782684104452,
-    "expiresAt": 1783153976068,
-    "status": "EXPIRED",
+    "expiresAt": 1783256653919,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
