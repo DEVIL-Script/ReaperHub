@@ -12484,11 +12484,11 @@
     "key": "DEVIL-D534-94AB-11C1-C41F",
     "validation": "15e67a1821e48c35e29951adb47aabc0",
     "createdAt": 1783164976791,
-    "expiresAt": 1783208176791,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783273719006,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
