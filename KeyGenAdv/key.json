@@ -12844,11 +12844,11 @@
     "key": "DEVIL-7E9E-FA96-947B-06B6",
     "validation": "38bb7b74dc6497337af4979895a35a84",
     "createdAt": 1783202025395,
-    "expiresAt": 1783245225395,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783296580543,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
