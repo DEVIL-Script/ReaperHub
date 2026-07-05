@@ -9700,11 +9700,11 @@
     "key": "DEVIL-67FA-CB98-3256-F2A0",
     "validation": "3c27c29f32cc92e1fef367e20a6a4d47",
     "createdAt": 1782834531150,
-    "expiresAt": 1783216827422,
-    "status": "EXPIRED",
+    "expiresAt": 1783299610420,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
