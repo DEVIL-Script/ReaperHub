@@ -8656,11 +8656,11 @@
     "key": "DEVIL-138F-0BE4-81AF-B7C6",
     "validation": "9592c34471e13eeb66f2da4d85aa7f2e",
     "createdAt": 1782777765955,
-    "expiresAt": 1783250901592,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783299470897,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
