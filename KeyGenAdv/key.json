@@ -12400,11 +12400,11 @@
     "key": "DEVIL-D7DA-60EC-A053-AB85",
     "validation": "5dbfb78c0ae33175f289ca0b1b5ad01c",
     "createdAt": 1783151425144,
-    "expiresAt": 1783194625144,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783254015859,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
