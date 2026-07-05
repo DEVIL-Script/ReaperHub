@@ -7348,11 +7348,11 @@
     "key": "DEVIL-3B60-CF20-AEEC-9C39",
     "validation": "c74c636d15a875b9577a4a709b3aca46",
     "createdAt": 1782729506514,
-    "expiresAt": 1782970506958,
-    "status": "EXPIRED",
-    "extensionCount": 3,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-06-30",
+    "expiresAt": 1783317158059,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
