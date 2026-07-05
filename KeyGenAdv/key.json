@@ -5332,10 +5332,10 @@
     "key": "DEVIL-292D-041D-C13D-9A01",
     "validation": "9689dfe957b67b471aa3398ee7691051",
     "createdAt": 1782669104090,
-    "expiresAt": 1783287073493,
+    "expiresAt": 1783330273493,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-05",
     "banned": false
   },
