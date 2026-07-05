@@ -6256,11 +6256,11 @@
     "key": "DEVIL-B284-95C4-9D73-19EE",
     "validation": "d7758d825e052a875b675a1d68d61499",
     "createdAt": 1782686689715,
-    "expiresAt": 1783062199377,
-    "status": "EXPIRED",
+    "expiresAt": 1783287471409,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-02",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
