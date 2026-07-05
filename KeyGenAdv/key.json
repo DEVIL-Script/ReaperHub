@@ -8356,11 +8356,11 @@
     "key": "DEVIL-0D73-671D-CD0D-F3C1",
     "validation": "dea0728a4bfe3f4d92a76cf7f2e53c55",
     "createdAt": 1782763211979,
-    "expiresAt": 1783230872179,
+    "expiresAt": 1783274072179,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
@@ -12689,7 +12689,7 @@
     "validation": "3b0f30a4c00a7530a0892ac77390647b",
     "createdAt": 1783183358345,
     "expiresAt": 1783226558345,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-04",
