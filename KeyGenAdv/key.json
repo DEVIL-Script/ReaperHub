@@ -9784,11 +9784,11 @@
     "key": "DEVIL-64EA-FD90-9EA0-FD51",
     "validation": "18e7ebca7fd1097229068a474c0a5cea",
     "createdAt": 1782839168487,
-    "expiresAt": 1783096084871,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783315686136,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-05",
     "banned": false
   },
   {
