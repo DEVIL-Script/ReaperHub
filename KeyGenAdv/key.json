@@ -13048,10 +13048,10 @@
     "key": "DEVIL-AEBF-F2C0-D84E-0DBB",
     "validation": "ff87f9ae1f89721d69dff8446313a298",
     "createdAt": 1783229572077,
-    "expiresAt": 1783272772077,
+    "expiresAt": 1783315972077,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-05",
     "banned": false
   }
