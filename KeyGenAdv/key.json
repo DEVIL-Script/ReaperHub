@@ -6544,10 +6544,10 @@
     "key": "DEVIL-D51F-9DC3-DE6D-EF62",
     "validation": "4b92e1757c8c0585225c5ca4efd97580",
     "createdAt": 1782696089949,
-    "expiresAt": 1783417355817,
+    "expiresAt": 1783460555817,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 9,
+    "extensionCount": 2,
+    "totalExtensionCount": 10,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   },
