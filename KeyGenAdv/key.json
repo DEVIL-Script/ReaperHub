@@ -13012,11 +13012,11 @@
     "key": "DEVIL-50C3-69BB-EDD8-1629",
     "validation": "cbd3d1edb806dbd782f551fa6cbd60cc",
     "createdAt": 1783221338760,
-    "expiresAt": 1783335066066,
-    "status": "EXPIRED",
+    "expiresAt": 1783410587819,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-05",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
