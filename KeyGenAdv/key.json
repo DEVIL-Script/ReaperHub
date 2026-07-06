@@ -4336,10 +4336,10 @@
     "key": "DEVIL-1BA8-F555-9F81-95F9",
     "validation": "4d6a2656d72f7cb42287bde6813ca515",
     "createdAt": 1782661213118,
-    "expiresAt": 1783404046203,
+    "expiresAt": 1783447246203,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 9,
+    "extensionCount": 3,
+    "totalExtensionCount": 10,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   },
