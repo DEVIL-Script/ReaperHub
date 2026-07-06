@@ -6170,7 +6170,7 @@
   {
     "userId": "5ee2fd5b1dc8bdbd490b43618f9343ee6afb5e8d3f69f4b448407beaba3e3fb8",
     "key": "DEVIL-7616-D3B3-768E-FFDE",
-    "validation": "ecbcebd9f850b82b0d5af50425ae2299",
+    "validation": "c198abe49cf8b8749fafd060b054f68f",
     "createdAt": 1782684104452,
     "expiresAt": 1783348244921,
     "status": "ACTIVE",
@@ -10985,7 +10985,7 @@
     "validation": "a6fb371708ff0b68ede91a3079ef4b43",
     "createdAt": 1782973803493,
     "expiresAt": 1783331603732,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 2,
     "totalExtensionCount": 6,
     "lastExtensionDate": "2026-07-05",
