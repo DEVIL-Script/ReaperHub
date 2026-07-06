@@ -6796,11 +6796,11 @@
     "key": "DEVIL-CC6E-B279-3092-44E3",
     "validation": "b499febf570df698a5de425c54b4aeae",
     "createdAt": 1782704455713,
-    "expiresAt": 1783292797936,
-    "status": "EXPIRED",
+    "expiresAt": 1783344068551,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-05",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
