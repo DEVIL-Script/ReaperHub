@@ -13540,10 +13540,10 @@
     "key": "DEVIL-46D7-E57C-8213-9816",
     "validation": "a7dfcf9cf4c282c2530686c371ad9f08",
     "createdAt": 1783326642129,
-    "expiresAt": 1783369842129,
+    "expiresAt": 1783413042129,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   },
