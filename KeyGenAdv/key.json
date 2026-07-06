@@ -6820,11 +6820,11 @@
     "key": "DEVIL-FCAA-96FB-6BDA-BE03",
     "validation": "cc98dc8beff6b72967b3ae0592ca5ed8",
     "createdAt": 1782705852230,
-    "expiresAt": 1783186569459,
-    "status": "EXPIRED",
+    "expiresAt": 1783417326813,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
