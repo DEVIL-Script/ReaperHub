@@ -12988,11 +12988,11 @@
     "key": "DEVIL-AAFF-6145-B739-1590",
     "validation": "7a014df094791388c602c7ab75bd1bd0",
     "createdAt": 1783218986377,
-    "expiresAt": 1783262186377,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-05",
+    "expiresAt": 1783381689314,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
