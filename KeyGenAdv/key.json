@@ -8056,11 +8056,11 @@
     "key": "DEVIL-287D-D986-2420-CA2B",
     "validation": "d1dcf97af2764b3f3141c6323df44609",
     "createdAt": 1782752345388,
-    "expiresAt": 1783311561130,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-05",
+    "expiresAt": 1783392004112,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
