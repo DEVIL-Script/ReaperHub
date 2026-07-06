@@ -9880,11 +9880,11 @@
     "key": "DEVIL-ECB9-0F02-6A80-F356",
     "validation": "471b6616f331be1d8ec95aebc1710569",
     "createdAt": 1782846138881,
-    "expiresAt": 1783308971481,
-    "status": "EXPIRED",
+    "expiresAt": 1783378884498,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-05",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
