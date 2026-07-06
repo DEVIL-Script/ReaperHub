@@ -9134,12 +9134,12 @@
   {
     "userId": "c5152c2397698fefd187907de19dee000360d30add80f5ebf187190ea14c526a",
     "key": "DEVIL-9667-5ED5-AAD2-7786",
-    "validation": "200ebeb500a6c24c9f7b5611d1eb3427",
+    "validation": "d7a4a741492a5198ea073185ea27adc4",
     "createdAt": 1782803189642,
-    "expiresAt": 1783351286511,
+    "expiresAt": 1783394486511,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 5,
+    "extensionCount": 2,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   },
