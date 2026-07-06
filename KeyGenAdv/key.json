@@ -12340,11 +12340,11 @@
     "key": "DEVIL-767A-F0BE-82E8-6EAC",
     "validation": "e5a62ad1c63ad2aa2b175affb3ee35c8",
     "createdAt": 1783145950924,
-    "expiresAt": 1783189150924,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783357636114,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
