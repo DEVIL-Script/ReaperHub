@@ -9568,11 +9568,11 @@
     "key": "DEVIL-5243-51DA-8094-541B",
     "validation": "3c82d196549ab182d847acfa44aa09ab",
     "createdAt": 1782830047853,
-    "expiresAt": 1783218234210,
-    "status": "EXPIRED",
+    "expiresAt": 1783339719244,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
