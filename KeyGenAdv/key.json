@@ -11428,11 +11428,11 @@
     "key": "DEVIL-9B85-8356-1527-5ADF",
     "validation": "b2137ed517258883853844d87ecc078b",
     "createdAt": 1783023010883,
-    "expiresAt": 1783066210883,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783401319105,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
