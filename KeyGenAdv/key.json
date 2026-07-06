@@ -9878,12 +9878,12 @@
   {
     "userId": "e0f92768ac3622120f7385c2a016ed8d9cdc866ef46ffdeb9e2f5054211522de",
     "key": "DEVIL-ECB9-0F02-6A80-F356",
-    "validation": "471b6616f331be1d8ec95aebc1710569",
+    "validation": "48ab488c06da717b888595475e582097",
     "createdAt": 1782846138881,
-    "expiresAt": 1783378884498,
+    "expiresAt": 1783422084498,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 7,
+    "extensionCount": 2,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   },
