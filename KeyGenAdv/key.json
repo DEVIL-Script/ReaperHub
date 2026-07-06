@@ -12628,11 +12628,11 @@
     "key": "DEVIL-CDC8-CAA4-A580-8170",
     "validation": "610434484672b87acb92d96ba9557fdf",
     "createdAt": 1783176239536,
-    "expiresAt": 1783337185536,
+    "expiresAt": 1783380385536,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-05",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
