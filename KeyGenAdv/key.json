@@ -13600,10 +13600,10 @@
     "key": "DEVIL-895A-7E6D-30F8-27D2",
     "validation": "eec71b0a643595e46ff267188c438785",
     "createdAt": 1783346768728,
-    "expiresAt": 1783389968728,
+    "expiresAt": 1783433168728,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   }
