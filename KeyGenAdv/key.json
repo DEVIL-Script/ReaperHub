@@ -6172,11 +6172,11 @@
     "key": "DEVIL-7616-D3B3-768E-FFDE",
     "validation": "c198abe49cf8b8749fafd060b054f68f",
     "createdAt": 1782684104452,
-    "expiresAt": 1783348244921,
+    "expiresAt": 1783391444921,
     "status": "ACTIVE",
-    "extensionCount": 3,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-07-05",
+    "extensionCount": 1,
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
