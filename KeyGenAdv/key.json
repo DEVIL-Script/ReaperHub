@@ -12460,11 +12460,11 @@
     "key": "DEVIL-CB0C-43CC-9C4A-F74C",
     "validation": "719914cb9fc59dc83af4cd0d645308c4",
     "createdAt": 1783163531565,
-    "expiresAt": 1783293010818,
-    "status": "EXPIRED",
+    "expiresAt": 1783372415678,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-05",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
