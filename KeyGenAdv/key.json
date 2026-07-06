@@ -13636,10 +13636,10 @@
     "key": "DEVIL-2444-0FF0-B0DE-B4FB",
     "validation": "27f23c5c3265f6c797cf3b3cd4b2b68c",
     "createdAt": 1783351605302,
-    "expiresAt": 1783394805302,
+    "expiresAt": 1783438005302,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   }
