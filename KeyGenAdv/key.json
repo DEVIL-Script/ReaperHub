@@ -11380,11 +11380,11 @@
     "key": "DEVIL-E825-F556-BC34-A2A6",
     "validation": "9d293a7125a807e488e49128253379d1",
     "createdAt": 1783016320682,
-    "expiresAt": 1783059520682,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-02",
+    "expiresAt": 1783414746095,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-06",
     "banned": false
   },
   {
