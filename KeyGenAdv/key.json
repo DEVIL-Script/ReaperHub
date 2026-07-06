@@ -6088,10 +6088,10 @@
     "key": "DEVIL-6A2F-43F0-C03E-8629",
     "validation": "c58e4e227d665377430b23e1c8b75fdd",
     "createdAt": 1782681934563,
-    "expiresAt": 1783343606762,
+    "expiresAt": 1783386806762,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-07-06",
     "banned": false
   },
