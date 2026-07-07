@@ -13624,11 +13624,11 @@
     "key": "DEVIL-4D18-250C-508D-8F6E",
     "validation": "97ac097df599b59ac3677376a0bf9394",
     "createdAt": 1783350081782,
-    "expiresAt": 1783393281782,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-06",
+    "expiresAt": 1783484843979,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
