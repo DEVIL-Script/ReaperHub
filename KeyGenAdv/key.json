@@ -12664,11 +12664,11 @@
     "key": "DEVIL-9D62-ADE7-4524-60FF",
     "validation": "eaf9c47335be6e68e0ae1b0b9ee56aed",
     "createdAt": 1783176569751,
-    "expiresAt": 1783349369751,
-    "status": "EXPIRED",
+    "expiresAt": 1783455078391,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
