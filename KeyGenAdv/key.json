@@ -6556,11 +6556,11 @@
     "key": "DEVIL-C988-9FC0-CC95-B99D",
     "validation": "f1bc342c85a9c5ec9cd2a54ae292f348",
     "createdAt": 1782696221950,
-    "expiresAt": 1783333202800,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-07-05",
+    "expiresAt": 1783438455360,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
