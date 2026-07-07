@@ -8380,11 +8380,11 @@
     "key": "DEVIL-9FBB-8A1B-6E82-68BC",
     "validation": "b895a81d596bd7f4a4582ed4425b947d",
     "createdAt": 1782763690636,
-    "expiresAt": 1783377827520,
-    "status": "EXPIRED",
+    "expiresAt": 1783486559611,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-06",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
