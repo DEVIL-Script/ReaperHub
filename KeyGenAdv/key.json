@@ -13874,12 +13874,12 @@
   {
     "userId": "75b3256f082111851312b8cb3cad76c1510f208517f1e512b82cc7bca23d3efb",
     "key": "DEVIL-D9D8-84C5-E958-AE3F",
-    "validation": "b75c1453594d0ae6b46ed68ca6c22810",
+    "validation": "9c8224f86f7b042425dfdd1427684d5b",
     "createdAt": 1783422848004,
-    "expiresAt": 1783552448004,
+    "expiresAt": 1783595648004,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
+    "extensionCount": 3,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-07-07",
     "banned": false
   },
