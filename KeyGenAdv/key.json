@@ -9868,11 +9868,11 @@
     "key": "DEVIL-B95E-5E88-380F-F2D5",
     "validation": "e1dca6150f121b26fc2ae1466df75f13",
     "createdAt": 1782843765392,
-    "expiresAt": 1783382067287,
-    "status": "EXPIRED",
+    "expiresAt": 1783458755230,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-06",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
