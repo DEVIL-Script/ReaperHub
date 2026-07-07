@@ -13756,10 +13756,10 @@
     "key": "DEVIL-DB4C-8D16-A751-A87D",
     "validation": "09d0c72b36a283c34f1e8c84814e2e6b",
     "createdAt": 1783371785630,
-    "expiresAt": 1783463880914,
+    "expiresAt": 1783507080914,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-07",
     "banned": false
   },
