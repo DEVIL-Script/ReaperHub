@@ -13912,10 +13912,10 @@
     "key": "DEVIL-3CBC-EFAB-1394-E877",
     "validation": "441d7533c6e574a76bd0aada703ab6c2",
     "createdAt": 1783435028097,
-    "expiresAt": 1783478228097,
+    "expiresAt": 1783521428097,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-07",
     "banned": false
   },
