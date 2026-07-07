@@ -12280,11 +12280,11 @@
     "key": "DEVIL-8C76-BC53-C6D3-1DA5",
     "validation": "44075833a3d7b9c0b28a8f7211c07c20",
     "createdAt": 1783139261184,
-    "expiresAt": 1783182461184,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1783474571245,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
