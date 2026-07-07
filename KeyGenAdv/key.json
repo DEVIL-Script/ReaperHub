@@ -3808,11 +3808,11 @@
     "key": "DEVIL-E56C-EF14-B0AC-3941",
     "validation": "167d361be6e08e73144f88d4a961d405",
     "createdAt": 1781618210030,
-    "expiresAt": 1783257319824,
-    "status": "EXPIRED",
+    "expiresAt": 1783436070458,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-05",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
