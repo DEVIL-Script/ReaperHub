@@ -11812,11 +11812,11 @@
     "key": "DEVIL-6816-F76A-81AB-BE57",
     "validation": "01345cd4a099710d002709662d0e9841",
     "createdAt": 1783079740286,
-    "expiresAt": 1783410747163,
-    "status": "EXPIRED",
+    "expiresAt": 1783464281162,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
