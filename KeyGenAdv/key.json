@@ -7636,11 +7636,11 @@
     "key": "DEVIL-4BBD-E82C-115C-954C",
     "validation": "d55150c164a3f2e53ae83d3d3b6b8dd1",
     "createdAt": 1782736394000,
-    "expiresAt": 1783398937315,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-06",
+    "expiresAt": 1783454749443,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-07",
     "banned": false
   },
   {
