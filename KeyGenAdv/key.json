@@ -13336,11 +13336,11 @@
     "key": "DEVIL-9606-204C-139D-0260",
     "validation": "adc0bbd6eadeb50c861dfed4d651bee9",
     "createdAt": 1783268382712,
-    "expiresAt": 1783357470919,
-    "status": "EXPIRED",
+    "expiresAt": 1783582860284,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-06",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-08",
     "banned": false
   },
   {
