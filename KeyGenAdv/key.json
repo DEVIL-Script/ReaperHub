@@ -13022,12 +13022,12 @@
   {
     "userId": "8d0a32ca5e5a6e0aa17e8ff2160a016453bfce16b55760a27e480f371f6668ad",
     "key": "DEVIL-F172-549C-A352-0935",
-    "validation": "e0a81205d9875214081cb33187b4cdee",
+    "validation": "98a4aebc0fedc43702dbb662e52577a4",
     "createdAt": 1783225336557,
-    "expiresAt": 1783535642740,
+    "expiresAt": 1783578842740,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-07-08",
     "banned": false
   },
