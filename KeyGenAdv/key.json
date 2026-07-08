@@ -9844,11 +9844,11 @@
     "key": "DEVIL-BCC1-35B1-D034-F22C",
     "validation": "a55e51c55bcc83589c60b59e42fa133d",
     "createdAt": 1782842203147,
-    "expiresAt": 1783477763159,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 8,
-    "lastExtensionDate": "2026-07-07",
+    "expiresAt": 1783593158780,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 9,
+    "lastExtensionDate": "2026-07-08",
     "banned": false
   },
   {
