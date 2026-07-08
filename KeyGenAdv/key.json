@@ -9220,11 +9220,11 @@
     "key": "DEVIL-F29C-CBAA-4A81-4681",
     "validation": "258da6dd6a2319256f93e4170fd22f75",
     "createdAt": 1782806275192,
-    "expiresAt": 1783195946451,
-    "status": "EXPIRED",
+    "expiresAt": 1783584743797,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-08",
     "banned": false
   },
   {
