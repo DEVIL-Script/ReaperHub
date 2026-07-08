@@ -14224,10 +14224,10 @@
     "key": "DEVIL-BDFD-E2E0-FE9D-C223",
     "validation": "041c2ccb80357bf85fb87281b06f49fb",
     "createdAt": 1783509337985,
-    "expiresAt": 1783552537985,
+    "expiresAt": 1783595737985,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-08",
     "banned": false
   },
