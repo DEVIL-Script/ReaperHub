@@ -652,11 +652,11 @@
     "key": "DEVIL-890C-8A82-6DB2-37C0",
     "validation": "04527c14b3cd32050408e7b4b2329ecb",
     "createdAt": 1775126363192,
-    "expiresAt": 1783456223469,
-    "status": "EXPIRED",
+    "expiresAt": 1783538077476,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 15,
-    "lastExtensionDate": "2026-07-07",
+    "totalExtensionCount": 16,
+    "lastExtensionDate": "2026-07-08",
     "banned": false
   },
   {
