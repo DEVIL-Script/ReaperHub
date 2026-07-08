@@ -9748,11 +9748,11 @@
     "key": "DEVIL-18C3-511A-E6C5-9812",
     "validation": "0c28d6f548849bacadcf4fc48edfb34b",
     "createdAt": 1782837847248,
-    "expiresAt": 1782881047248,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-30",
+    "expiresAt": 1783571081559,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-08",
     "banned": false
   },
   {
