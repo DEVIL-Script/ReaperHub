@@ -13924,11 +13924,11 @@
     "key": "DEVIL-8A3D-FD05-383A-5A70",
     "validation": "b0660c3476aef3bed41238476a61f759",
     "createdAt": 1783435036607,
-    "expiresAt": 1783545864116,
-    "status": "EXPIRED",
+    "expiresAt": 1783634183275,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-08",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-09",
     "banned": false
   },
   {
