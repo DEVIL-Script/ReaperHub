@@ -2284,11 +2284,11 @@
     "key": "DEVIL-E3DD-04B9-4618-0C31",
     "validation": "13679d452f0387f19bd8ecf792118a5a",
     "createdAt": 1777817506381,
-    "expiresAt": 1781990584835,
-    "status": "EXPIRED",
+    "expiresAt": 1783599005294,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 16,
-    "lastExtensionDate": "2026-06-20",
+    "totalExtensionCount": 17,
+    "lastExtensionDate": "2026-07-09",
     "banned": false
   },
   {
