@@ -12146,7 +12146,7 @@
   {
     "userId": "e8ec4d4898e4036d39c834e85040767b90efcd25ff5dc46787d60f945edbe666",
     "key": "DEVIL-4C99-2014-9AB3-CABE",
-    "validation": "d55150c164a3f2e53ae83d3d3b6b8dd1",
+    "validation": "046c12c63a3485e0b6f3395f10304ede",
     "createdAt": 1783127513995,
     "expiresAt": 1783170713995,
     "status": "EXPIRED",
@@ -13073,7 +13073,7 @@
     "validation": "5ab4aeeb61cf986c66e2a0ad9d1e88cd",
     "createdAt": 1783233012942,
     "expiresAt": 1783611500047,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-09",
