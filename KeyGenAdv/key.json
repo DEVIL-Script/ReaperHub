@@ -6496,11 +6496,11 @@
     "key": "DEVIL-E108-7293-9145-DB85",
     "validation": "509e769419dcb74736c0fa27af681a1f",
     "createdAt": 1782694723422,
-    "expiresAt": 1783660147143,
+    "expiresAt": 1783703347143,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 11,
-    "lastExtensionDate": "2026-07-08",
+    "totalExtensionCount": 12,
+    "lastExtensionDate": "2026-07-09",
     "banned": false
   },
   {
