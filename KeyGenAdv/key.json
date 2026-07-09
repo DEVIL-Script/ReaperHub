@@ -8498,13 +8498,13 @@
   {
     "userId": "1ae89aad1ac105561f99f3c8525561068db60da064cf687280787313d0c0370e",
     "key": "DEVIL-DC6F-E821-050C-B55E",
-    "validation": "44f4f9c580c6eeb97bcacb8433276787",
+    "validation": "528919142b508cd915cada862f83831b",
     "createdAt": 1782768646092,
-    "expiresAt": 1783503291493,
-    "status": "EXPIRED",
+    "expiresAt": 1783675968958,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-07",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-09",
     "banned": false
   },
   {
