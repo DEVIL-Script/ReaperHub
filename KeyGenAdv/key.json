@@ -6472,10 +6472,10 @@
     "key": "DEVIL-6E7F-F31E-37C3-E673",
     "validation": "62d3def676eda82dc628833b76aff706",
     "createdAt": 1782693312631,
-    "expiresAt": 1783676213429,
+    "expiresAt": 1783719413429,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 8,
+    "extensionCount": 2,
+    "totalExtensionCount": 9,
     "lastExtensionDate": "2026-07-09",
     "banned": false
   },
