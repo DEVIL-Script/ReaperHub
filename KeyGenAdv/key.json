@@ -12532,11 +12532,11 @@
     "key": "DEVIL-E2EC-3BD2-BEB1-9E80",
     "validation": "478b5b5dd2f0d76efe5d45ef46f47bdf",
     "createdAt": 1783171139373,
-    "expiresAt": 1783596752807,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-08",
+    "expiresAt": 1783671062975,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-09",
     "banned": false
   },
   {
