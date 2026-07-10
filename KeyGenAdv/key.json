@@ -5932,11 +5932,11 @@
     "key": "DEVIL-AE6D-2ABD-3E3C-B1B2",
     "validation": "5482acd29877d7037e3156abba23e8ca",
     "createdAt": 1782678971370,
-    "expiresAt": 1783661303051,
-    "status": "EXPIRED",
+    "expiresAt": 1783736355713,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-09",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-10",
     "banned": false
   },
   {
