@@ -2848,11 +2848,11 @@
     "key": "DEVIL-53EB-A808-6F8E-4CB3",
     "validation": "28eb2b72819b2de396681fdaa7013b39",
     "createdAt": 1779284887627,
-    "expiresAt": 1783377409589,
-    "status": "EXPIRED",
+    "expiresAt": 1783805253815,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-06",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
