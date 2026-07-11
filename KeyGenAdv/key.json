@@ -7456,11 +7456,11 @@
     "key": "DEVIL-620C-3D33-D914-7535",
     "validation": "19edd0b139f55d57bd334aba2ecf4784",
     "createdAt": 1782730196459,
-    "expiresAt": 1783715882141,
-    "status": "EXPIRED",
+    "expiresAt": 1783772867168,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-10",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
