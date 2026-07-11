@@ -12436,11 +12436,11 @@
     "key": "DEVIL-2877-82FE-4204-E00E",
     "validation": "45c4eeac0a9ef4f01884a1542cb8a9a5",
     "createdAt": 1783161318465,
-    "expiresAt": 1786358118465,
+    "expiresAt": 1786401318465,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-04",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
