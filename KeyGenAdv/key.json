@@ -7814,13 +7814,13 @@
   {
     "userId": "7d4b18d53e8d7dd232f9c7efa5c28c5a013e2b22cbfa388a9eb4654e67dbedcb",
     "key": "DEVIL-6716-12D9-46E4-65AD",
-    "validation": "b0a8e56d639c9f5b33330db131dd2dee",
+    "validation": "c2d647a5fe6473094758ccf73e1aba9e",
     "createdAt": 1782742865994,
-    "expiresAt": 1783743746392,
-    "status": "EXPIRED",
+    "expiresAt": 1783834119109,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-10",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
