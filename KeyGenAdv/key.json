@@ -7022,13 +7022,13 @@
   {
     "userId": "9d44a0f58fc2f617469770bc4aaf83a8ca0b6b2d8776d9cab6343fa880ab70d3",
     "key": "DEVIL-E7A5-5F78-CFAE-16D6",
-    "validation": "91ddefbc8be427b403e1723d6d7dfbcd",
+    "validation": "d7ff973e3efe3241fd30334c72536823",
     "createdAt": 1782713757617,
-    "expiresAt": 1783698009982,
-    "status": "EXPIRED",
+    "expiresAt": 1783818734035,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-10",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
