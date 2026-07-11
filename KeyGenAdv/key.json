@@ -11992,11 +11992,11 @@
     "key": "DEVIL-169D-FE5D-930E-0614",
     "validation": "2cb86b015129f08f45e1bec7b5f57d29",
     "createdAt": 1783107960560,
-    "expiresAt": 1783151160560,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-03",
+    "expiresAt": 1783855661404,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
