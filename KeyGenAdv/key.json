@@ -6328,11 +6328,11 @@
     "key": "DEVIL-1CE4-5463-D111-6905",
     "validation": "c3644646a31f23feaf4a7e9c16f72864",
     "createdAt": 1782688936747,
-    "expiresAt": 1783731616857,
-    "status": "EXPIRED",
+    "expiresAt": 1783811992993,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 11,
-    "lastExtensionDate": "2026-07-10",
+    "totalExtensionCount": 12,
+    "lastExtensionDate": "2026-07-11",
     "banned": false
   },
   {
