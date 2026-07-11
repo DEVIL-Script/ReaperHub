@@ -8054,12 +8054,12 @@
   {
     "userId": "047d0ab1e5e46e4c0c050e816c0b358411d1215bdb8d0b573af2099fe2870699",
     "key": "DEVIL-287D-D986-2420-CA2B",
-    "validation": "b16cdc021a850bbfe40ea5f465b368b0",
+    "validation": "70b06e4e6176dd265ffba33edf680346",
     "createdAt": 1782752345388,
-    "expiresAt": 1783783813893,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 14,
+    "expiresAt": 1783832934014,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 15,
     "lastExtensionDate": "2026-07-11",
     "banned": false
   },
