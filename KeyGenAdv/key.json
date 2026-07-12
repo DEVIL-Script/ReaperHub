@@ -14764,11 +14764,11 @@
     "key": "DEVIL-F7F2-5974-215F-9DFE",
     "validation": "e613beb7e25843a23a915606b42cd39d",
     "createdAt": 1783730480123,
-    "expiresAt": 1783824840917,
-    "status": "EXPIRED",
+    "expiresAt": 1783871049920,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-11",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
