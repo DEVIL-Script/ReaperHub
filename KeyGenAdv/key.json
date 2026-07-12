@@ -14800,11 +14800,11 @@
     "key": "DEVIL-6710-A725-EEBA-1593",
     "validation": "12de5694ad875d01d8678de08be3a900",
     "createdAt": 1783748912225,
-    "expiresAt": 1783835312225,
-    "status": "EXPIRED",
+    "expiresAt": 1783890689923,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-11",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
