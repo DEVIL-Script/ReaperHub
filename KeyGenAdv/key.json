@@ -14752,11 +14752,11 @@
     "key": "DEVIL-A71A-F641-9BD6-5D0D",
     "validation": "4b2ba91bc6d8e03968ecd6ffbfebd057",
     "createdAt": 1783729074048,
-    "expiresAt": 1783820204557,
-    "status": "EXPIRED",
+    "expiresAt": 1783909084492,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-11",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
