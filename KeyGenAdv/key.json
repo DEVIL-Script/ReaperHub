@@ -12206,12 +12206,12 @@
   {
     "userId": "171f0532aac8e47d26e8ddaa5a3eefd397ce8c8ab5d1c5b5765b9c76ba67cdff",
     "key": "DEVIL-DF73-8FEB-EA5A-5480",
-    "validation": "cf037c0b6e78c218c23c47dc37029f67",
+    "validation": "189874b1a11275ae8829bbe0b14875fa",
     "createdAt": 1783133752489,
-    "expiresAt": 1783891529002,
+    "expiresAt": 1783934729002,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 12,
+    "extensionCount": 2,
+    "totalExtensionCount": 13,
     "lastExtensionDate": "2026-07-12",
     "banned": false
   },
