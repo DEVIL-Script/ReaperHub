@@ -12964,11 +12964,11 @@
     "key": "DEVIL-F869-2500-E752-A0EC",
     "validation": "514c40d0ec764f608b66eacdaa831572",
     "createdAt": 1783215537872,
-    "expiresAt": 1783835495661,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-11",
+    "expiresAt": 1783931754310,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
