@@ -14812,11 +14812,11 @@
     "key": "DEVIL-622A-4BC4-627A-A637",
     "validation": "18d23bf87061ec971e57d2d6efd03558",
     "createdAt": 1783749604222,
-    "expiresAt": 1783847582671,
-    "status": "EXPIRED",
+    "expiresAt": 1783908338500,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-11",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
