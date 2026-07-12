@@ -7444,11 +7444,11 @@
     "key": "DEVIL-88DE-B317-B520-B7B9",
     "validation": "1661a8ebe665ae2160e56c35a784e032",
     "createdAt": 1782730192493,
-    "expiresAt": 1782937536790,
-    "status": "EXPIRED",
+    "expiresAt": 1783889731887,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-07-01",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
