@@ -3016,11 +3016,11 @@
     "key": "DEVIL-E4EE-A974-735F-9EE2",
     "validation": "aa1302552e42a70818b9d946323832d8",
     "createdAt": 1779666126984,
-    "expiresAt": 1783813501508,
-    "status": "EXPIRED",
+    "expiresAt": 1783930978496,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-11",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
