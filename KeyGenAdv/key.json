@@ -12577,14 +12577,14 @@
   },
   {
     "userId": "9ac45c50d50ed1194dbdda7fea51416e5e2340c06bc1a0f26f3ccecb8c901e75",
-    "key": "DEVIL-923B-C318-0554-9AF8",
-    "validation": "5cb4d211396555c8e201b4de3c6e2f43",
-    "createdAt": 1783174617896,
-    "expiresAt": 1783217817896,
-    "status": "EXPIRED",
+    "key": "DEVIL-D302-4977-C5E4-E4EF",
+    "validation": null,
+    "createdAt": 1783873686216,
+    "expiresAt": 1783960086215,
+    "status": "ACTIVE",
     "extensionCount": 0,
     "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-04",
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
