@@ -14680,11 +14680,11 @@
     "key": "DEVIL-E8FC-A8DF-DC2A-A3B7",
     "validation": "3fe644f83f30f08e753e051575d0018c",
     "createdAt": 1783712034863,
-    "expiresAt": 1783755234863,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-10",
+    "expiresAt": 1783866810374,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-12",
     "banned": false
   },
   {
