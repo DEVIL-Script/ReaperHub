@@ -14920,11 +14920,11 @@
     "key": "DEVIL-453F-B33B-8E30-4C18",
     "validation": "dd2c55964915d6049c78209499f72cd3",
     "createdAt": 1783849946551,
-    "expiresAt": 1783893146551,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-12",
+    "expiresAt": 1783945764622,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-13",
     "banned": false
   },
   {
