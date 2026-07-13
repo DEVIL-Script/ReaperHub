@@ -13264,11 +13264,11 @@
     "key": "DEVIL-BB53-F8DA-12EF-AF78",
     "validation": "910c6bd340d10656bbfd5692b1e3bc38",
     "createdAt": 1783255511772,
-    "expiresAt": 1783632735091,
-    "status": "EXPIRED",
+    "expiresAt": 1784001557110,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-09",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-07-13",
     "banned": false
   },
   {
