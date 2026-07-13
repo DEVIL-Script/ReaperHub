@@ -12748,11 +12748,11 @@
     "key": "DEVIL-AE35-2138-8146-E501",
     "validation": "eefc2327760d651719b74b6b14f7dec9",
     "createdAt": 1783190699412,
-    "expiresAt": 1783926261155,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 13,
-    "lastExtensionDate": "2026-07-12",
+    "expiresAt": 1784029529211,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 14,
+    "lastExtensionDate": "2026-07-13",
     "banned": false
   },
   {
