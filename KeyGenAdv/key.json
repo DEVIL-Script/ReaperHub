@@ -6616,11 +6616,11 @@
     "key": "DEVIL-1092-110E-025C-038A",
     "validation": "f7b3f709747d14e0935fc40024a3527e",
     "createdAt": 1782697958836,
-    "expiresAt": 1783991634545,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 19,
-    "lastExtensionDate": "2026-07-13",
+    "expiresAt": 1784037264290,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 20,
+    "lastExtensionDate": "2026-07-14",
     "banned": false
   },
   {
