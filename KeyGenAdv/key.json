@@ -5056,11 +5056,11 @@
     "key": "DEVIL-EA2D-CD9D-2457-D988",
     "validation": "f7ae48ddf9003536bff1fa11e40cf1e0",
     "createdAt": 1782666753494,
-    "expiresAt": 1783988647131,
-    "status": "EXPIRED",
+    "expiresAt": 1784077746378,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 13,
-    "lastExtensionDate": "2026-07-13",
+    "totalExtensionCount": 14,
+    "lastExtensionDate": "2026-07-14",
     "banned": false
   },
   {
