@@ -9520,11 +9520,11 @@
     "key": "DEVIL-7F4C-77E7-83BD-4117",
     "validation": "ef2841d0ceb19b53fe7212f3ff1de55c",
     "createdAt": 1782826153239,
-    "expiresAt": 1784086590346,
-    "status": "EXPIRED",
+    "expiresAt": 1784164441170,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-14",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-15",
     "banned": false
   },
   {
