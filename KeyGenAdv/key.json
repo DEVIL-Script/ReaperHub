@@ -4118,12 +4118,12 @@
   {
     "userId": "a673596aaf78f354f2bd166808498fb800dce3452347429c3b814f5b631975e7",
     "key": "DEVIL-87CE-D058-2A10-A8D6",
-    "validation": "d0dff869de15d5235eb81a33844180ab",
+    "validation": "012120b3e6472908e175d0d289407562",
     "createdAt": 1782566257606,
-    "expiresAt": 1784125947335,
+    "expiresAt": 1784169147335,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 25,
+    "extensionCount": 2,
+    "totalExtensionCount": 26,
     "lastExtensionDate": "2026-07-15",
     "banned": false
   },
