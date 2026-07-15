@@ -7732,11 +7732,11 @@
     "key": "DEVIL-4B03-883B-E3AA-2C12",
     "validation": "71a18f0315fa36931e7388a99ed00fe8",
     "createdAt": 1782739019393,
-    "expiresAt": 1784079100202,
-    "status": "EXPIRED",
+    "expiresAt": 1784199382593,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-14",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-15",
     "banned": false
   },
   {
