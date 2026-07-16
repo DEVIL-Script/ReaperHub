@@ -14716,11 +14716,11 @@
     "key": "DEVIL-DC31-1188-AAD0-06D6",
     "validation": "abfe66d1f097fbb7a63731e884194bb2",
     "createdAt": 1783721801814,
-    "expiresAt": 1784145718057,
-    "status": "EXPIRED",
+    "expiresAt": 1784215883407,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-15",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-16",
     "banned": false
   },
   {
