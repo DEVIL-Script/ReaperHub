@@ -3184,11 +3184,11 @@
     "key": "DEVIL-387E-CB2F-B3FF-F624",
     "validation": "af60621b57c1a9cb3f48843f2fb4070d",
     "createdAt": 1779976671446,
-    "expiresAt": 1783732808013,
-    "status": "EXPIRED",
+    "expiresAt": 1784266245262,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-10",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-16",
     "banned": false
   },
   {
