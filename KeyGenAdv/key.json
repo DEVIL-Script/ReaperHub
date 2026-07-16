@@ -4384,11 +4384,11 @@
     "key": "DEVIL-F0A0-0ABB-126D-DCBD",
     "validation": "236cb1c70321fa3bafa8d2686512cd68",
     "createdAt": 1782661883721,
-    "expiresAt": 1784165893576,
-    "status": "EXPIRED",
+    "expiresAt": 1784274894772,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-07-15",
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-07-16",
     "banned": false
   },
   {
