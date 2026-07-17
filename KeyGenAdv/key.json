@@ -15136,11 +15136,11 @@
     "key": "DEVIL-8E50-482C-0BD3-474F",
     "validation": "8e29334ea2c054b1579bd6763361dd2e",
     "createdAt": 1784057984721,
-    "expiresAt": 1784194104381,
-    "status": "EXPIRED",
+    "expiresAt": 1784300626258,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-15",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
