@@ -4826,13 +4826,13 @@
   {
     "userId": "06e0a7b4dbc7bc849d5a679c35c3e82aeeaa5df154e8d6c1ef43a6a5d0a949e1",
     "key": "DEVIL-3F34-C2E2-59FD-D400",
-    "validation": "d81263334381d4841162b974ee1bc2e2",
+    "validation": "b952be7c2df50a86d162ffe6b3314fa4",
     "createdAt": 1782665156241,
-    "expiresAt": 1784220614822,
-    "status": "EXPIRED",
+    "expiresAt": 1784302999503,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-07-16",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
