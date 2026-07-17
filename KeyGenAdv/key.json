@@ -6326,12 +6326,12 @@
   {
     "userId": "209cf3aee32efd73df21e0a3d2e9c5863b25a7cf9e846e5d7ee3530c26227ac8",
     "key": "DEVIL-1CE4-5463-D111-6905",
-    "validation": "0be4845626e81fc762ceda8be5ab8a3b",
+    "validation": "72695026a597cbf693c2d22fea0996a3",
     "createdAt": 1782688936747,
-    "expiresAt": 1784334655651,
+    "expiresAt": 1784377855651,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 19,
+    "extensionCount": 2,
+    "totalExtensionCount": 20,
     "lastExtensionDate": "2026-07-17",
     "banned": false
   },
