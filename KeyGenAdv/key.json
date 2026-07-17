@@ -3652,11 +3652,11 @@
     "key": "DEVIL-32D0-C303-2DB2-E042",
     "validation": "ec4f031815f08f9ce2ecab1fc7ed106c",
     "createdAt": 1781396912423,
-    "expiresAt": 1783566672718,
-    "status": "EXPIRED",
+    "expiresAt": 1784369093640,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-08",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
