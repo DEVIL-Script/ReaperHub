@@ -9242,13 +9242,13 @@
   {
     "userId": "e71c2fd74c46d12697a17d9945a2ae923dbf01e3cc851b5735db90d90aaceb13",
     "key": "DEVIL-A4BD-8BCC-C6CD-431B",
-    "validation": "a94a879f85d2225d1cc409afd5e8c42f",
+    "validation": "78a9236da149f0be18dde9d8e7d0ed49",
     "createdAt": 1782809402691,
-    "expiresAt": 1783348740440,
-    "status": "EXPIRED",
+    "expiresAt": 1784293832681,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-07-06",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
