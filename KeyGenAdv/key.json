@@ -11644,11 +11644,11 @@
     "key": "DEVIL-8853-129D-110B-14FA",
     "validation": "7407ff0bbae5902d20eca2775252f3db",
     "createdAt": 1783050852378,
-    "expiresAt": 1783943800752,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 8,
-    "lastExtensionDate": "2026-07-12",
+    "expiresAt": 1784322647804,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 9,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
