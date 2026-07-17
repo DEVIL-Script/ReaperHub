@@ -11020,11 +11020,11 @@
     "key": "DEVIL-D349-27FF-CE28-D368",
     "validation": "034e535525141cb3231508f7c4da1ca4",
     "createdAt": 1782983066385,
-    "expiresAt": 1784139234835,
-    "status": "EXPIRED",
+    "expiresAt": 1784306294062,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-15",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
