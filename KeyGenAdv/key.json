@@ -12412,11 +12412,11 @@
     "key": "DEVIL-F985-D454-694C-4194",
     "validation": "79a0a2a19bf45ced62a2037ed44d9f58",
     "createdAt": 1783156281758,
-    "expiresAt": 1783816198426,
-    "status": "EXPIRED",
+    "expiresAt": 1784341244587,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-11",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
