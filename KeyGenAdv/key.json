@@ -12208,11 +12208,11 @@
     "key": "DEVIL-DF73-8FEB-EA5A-5480",
     "validation": "2589a554dd4de8927c1d7387734d7fcc",
     "createdAt": 1783133752489,
-    "expiresAt": 1784257631228,
-    "status": "EXPIRED",
+    "expiresAt": 1784303781531,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 18,
-    "lastExtensionDate": "2026-07-16",
+    "totalExtensionCount": 19,
+    "lastExtensionDate": "2026-07-17",
     "banned": false
   },
   {
