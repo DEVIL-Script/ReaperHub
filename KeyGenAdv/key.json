@@ -13972,10 +13972,10 @@
     "key": "DEVIL-FC70-ACC4-D1E3-DF03",
     "validation": "56d37afad533e91c8219563708f5893a",
     "createdAt": 1783440880979,
-    "expiresAt": 1784442413354,
+    "expiresAt": 1784485613354,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 11,
+    "extensionCount": 2,
+    "totalExtensionCount": 12,
     "lastExtensionDate": "2026-07-18",
     "banned": false
   },
