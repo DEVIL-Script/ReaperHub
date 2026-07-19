@@ -14572,11 +14572,11 @@
     "key": "DEVIL-03EE-2F95-BE9F-2912",
     "validation": "1c105f7a85157cd334cc053007976f65",
     "createdAt": 1783630800810,
-    "expiresAt": 1784403782190,
-    "status": "EXPIRED",
+    "expiresAt": 1784495850795,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-07-18",
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-07-19",
     "banned": false
   },
   {
