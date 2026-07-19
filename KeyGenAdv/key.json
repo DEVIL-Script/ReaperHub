@@ -8008,11 +8008,11 @@
     "key": "DEVIL-FB58-49F4-FE25-DE97",
     "validation": "fa0d62f563d29374a30d48bba3556cda",
     "createdAt": 1782750464501,
-    "expiresAt": 1782793664501,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-06-29",
+    "expiresAt": 1784544089838,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-19",
     "banned": false
   },
   {
