@@ -9028,11 +9028,11 @@
     "key": "DEVIL-C521-83FC-4693-C29A",
     "validation": "ca5cdc55f3623cef025077e9633d0724",
     "createdAt": 1782796828128,
-    "expiresAt": 1784393392012,
-    "status": "EXPIRED",
+    "expiresAt": 1784496985558,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-18",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-19",
     "banned": false
   },
   {
