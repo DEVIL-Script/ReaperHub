@@ -5404,11 +5404,11 @@
     "key": "DEVIL-7532-6206-88D2-D695",
     "validation": "aee7175558194df4d9c648b1a0ffe645",
     "createdAt": 1782670129493,
-    "expiresAt": 1784308954888,
-    "status": "EXPIRED",
+    "expiresAt": 1784517501667,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 12,
-    "lastExtensionDate": "2026-07-17",
+    "totalExtensionCount": 13,
+    "lastExtensionDate": "2026-07-19",
     "banned": false
   },
   {
