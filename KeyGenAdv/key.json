@@ -4922,13 +4922,13 @@
   {
     "userId": "227af3e37ff292844374256571d340b100d53dacd10d962790b56af16d4c1a28",
     "key": "DEVIL-DFD9-0ED8-00B8-9529",
-    "validation": "65a66dd29b4f928ca015c2d37baddd82",
+    "validation": "12ccd5a1b56782f896f9f8195b239e75",
     "createdAt": 1782665853698,
-    "expiresAt": 1784269625753,
-    "status": "EXPIRED",
+    "expiresAt": 1784517767598,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 12,
-    "lastExtensionDate": "2026-07-16",
+    "totalExtensionCount": 13,
+    "lastExtensionDate": "2026-07-19",
     "banned": false
   },
   {
