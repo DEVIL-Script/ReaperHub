@@ -7816,11 +7816,11 @@
     "key": "DEVIL-6716-12D9-46E4-65AD",
     "validation": "ee4b2c53707d91e177f42eec56ba6146",
     "createdAt": 1782742865994,
-    "expiresAt": 1784495394150,
-    "status": "EXPIRED",
+    "expiresAt": 1784606262123,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-19",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-20",
     "banned": false
   },
   {
