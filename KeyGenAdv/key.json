@@ -15628,11 +15628,11 @@
     "key": "DEVIL-B90A-216D-D0A3-A265",
     "validation": "6d7abc8f497ae80de4f0ca896acbfbff",
     "createdAt": 1784487900816,
-    "expiresAt": 1784531100816,
+    "expiresAt": 1784574300816,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-19",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-20",
     "banned": false
   },
   {
