@@ -5776,11 +5776,11 @@
     "key": "DEVIL-E94D-39B1-E876-660B",
     "validation": "710528c2eb58305a2bfc3419dd938b1c",
     "createdAt": 1782675844984,
-    "expiresAt": 1783973576581,
-    "status": "EXPIRED",
+    "expiresAt": 1784551716320,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 16,
-    "lastExtensionDate": "2026-07-13",
+    "totalExtensionCount": 17,
+    "lastExtensionDate": "2026-07-20",
     "banned": false
   },
   {
@@ -13156,11 +13156,11 @@
     "key": "DEVIL-38F3-0998-96C5-63BC",
     "validation": "2b8dfd6bd35483fc1dfd52446efd3ab3",
     "createdAt": 1783241482873,
-    "expiresAt": 1784505803490,
+    "expiresAt": 1784554289692,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 16,
-    "lastExtensionDate": "2026-07-19",
+    "totalExtensionCount": 17,
+    "lastExtensionDate": "2026-07-20",
     "banned": false
   },
   {
@@ -13781,7 +13781,7 @@
     "validation": "35a5670e85bf2759a69ac8f710adc9a1",
     "createdAt": 1783381476121,
     "expiresAt": 1784505396974,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 10,
     "lastExtensionDate": "2026-07-19",
@@ -15197,7 +15197,7 @@
     "validation": "43b25a391585b7eccd4d140af92c6f3e",
     "createdAt": 1784117103249,
     "expiresAt": 1784508168577,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 2,
     "lastExtensionDate": "2026-07-19",
@@ -15645,6 +15645,30 @@
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-19",
+    "banned": false
+  },
+  {
+    "userId": "35a0ce5592c7ed4c2f31bbcf964d8c08bcbf435b335de96fde8ebdef8a3a8ade",
+    "key": "DEVIL-5246-9349-B55E-EBEA",
+    "validation": "02b2befdb885dc7f1da091939212b60d",
+    "createdAt": 1784505533435,
+    "expiresAt": 1784548733435,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-07-19",
+    "banned": false
+  },
+  {
+    "userId": "1e6e95d8a7dc3dbcd4491ce67130a743c0bbad5e0a651cd9542e2507a02974ba",
+    "key": "DEVIL-38A8-264D-EDA8-23E9",
+    "validation": "2351103324f49884d54c175ee5c2df42",
+    "createdAt": 1784508016292,
+    "expiresAt": 1784551216292,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-07-20",
     "banned": false
   }
 ]
