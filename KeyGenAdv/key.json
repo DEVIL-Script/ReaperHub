@@ -9088,11 +9088,11 @@
     "key": "DEVIL-C5BD-5764-D8B7-055D",
     "validation": "c393ebb8f9220eedc194950d88e5f0af",
     "createdAt": 1782798815533,
-    "expiresAt": 1783670717592,
-    "status": "EXPIRED",
+    "expiresAt": 1784560385171,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 11,
-    "lastExtensionDate": "2026-07-09",
+    "totalExtensionCount": 12,
+    "lastExtensionDate": "2026-07-20",
     "banned": false
   },
   {
