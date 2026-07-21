@@ -9988,11 +9988,11 @@
     "key": "DEVIL-5800-674F-E47D-CD40",
     "validation": "710528c2eb58305a2bfc3419dd938b1c",
     "createdAt": 1782854505891,
-    "expiresAt": 1784492340489,
-    "status": "EXPIRED",
+    "expiresAt": 1784640564069,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 18,
-    "lastExtensionDate": "2026-07-19",
+    "totalExtensionCount": 19,
+    "lastExtensionDate": "2026-07-21",
     "banned": false
   },
   {
