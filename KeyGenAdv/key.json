@@ -12520,11 +12520,11 @@
     "key": "DEVIL-6098-522A-E23B-B78C",
     "validation": "d00391380a47196565ea1a1c209a428d",
     "createdAt": 1783168362669,
-    "expiresAt": 1784620314261,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-20",
+    "expiresAt": 1784667580971,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-21",
     "banned": false
   },
   {
