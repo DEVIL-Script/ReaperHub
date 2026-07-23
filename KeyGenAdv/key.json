@@ -14128,11 +14128,11 @@
     "key": "DEVIL-708E-13F6-93EE-BCDD",
     "validation": "f67c78e743d585f854b70af1e76a12b5",
     "createdAt": 1783467003168,
-    "expiresAt": 1784774543872,
-    "status": "EXPIRED",
+    "expiresAt": 1784834833398,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 8,
-    "lastExtensionDate": "2026-07-22",
+    "totalExtensionCount": 9,
+    "lastExtensionDate": "2026-07-23",
     "banned": false
   },
   {
