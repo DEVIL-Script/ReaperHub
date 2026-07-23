@@ -15700,11 +15700,11 @@
     "key": "DEVIL-6F74-CCAA-D6AF-4FE0",
     "validation": "71a2b03be59421399bd194603676556c",
     "createdAt": 1784537693080,
-    "expiresAt": 1784758240517,
-    "status": "EXPIRED",
+    "expiresAt": 1784848803967,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-22",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-23",
     "banned": false
   },
   {
