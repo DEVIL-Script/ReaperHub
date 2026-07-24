@@ -9988,11 +9988,11 @@
     "key": "DEVIL-5800-674F-E47D-CD40",
     "validation": "710528c2eb58305a2bfc3419dd938b1c",
     "createdAt": 1782854505891,
-    "expiresAt": 1784887032187,
+    "expiresAt": 1784930232187,
     "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 22,
-    "lastExtensionDate": "2026-07-23",
+    "totalExtensionCount": 23,
+    "lastExtensionDate": "2026-07-24",
     "banned": false
   },
   {
@@ -15677,7 +15677,7 @@
     "validation": "ab66e93e41c3406b4af2e5e71fd4d55f",
     "createdAt": 1784518603899,
     "expiresAt": 1784854265281,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 5,
     "lastExtensionDate": "2026-07-23",
