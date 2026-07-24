@@ -16126,5 +16126,17 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-24",
     "banned": false
+  },
+  {
+    "userId": "1182068bd5e17680c11b707b6a5374b71e8ce9cb4e3fdf54eeb497ee4ffed233",
+    "key": "DEVIL-0E46-421A-30CD-AAF5",
+    "validation": "b2fde08b0398a7c31bd68b280a6bce54",
+    "createdAt": 1784860458860,
+    "expiresAt": 1784903658860,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-07-24",
+    "banned": false
   }
 ]
