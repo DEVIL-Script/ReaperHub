@@ -15988,11 +15988,11 @@
     "key": "DEVIL-200F-4761-6C9D-1CDB",
     "validation": "3da8c789c5aa6775eec9c1fd2af8620a",
     "createdAt": 1784791197376,
-    "expiresAt": 1784834397376,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-23",
+    "expiresAt": 1784912083417,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-24",
     "banned": false
   },
   {
