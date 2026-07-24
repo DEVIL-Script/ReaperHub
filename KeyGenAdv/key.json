@@ -12976,11 +12976,11 @@
     "key": "DEVIL-299F-9893-7A10-7139",
     "validation": "7ea9b483987e9ec4e0f73e8b7ad73f3b",
     "createdAt": 1783217644160,
-    "expiresAt": 1784245619983,
-    "status": "EXPIRED",
+    "expiresAt": 1784927101942,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-16",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-24",
     "banned": false
   },
   {
