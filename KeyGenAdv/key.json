@@ -8200,10 +8200,10 @@
     "key": "DEVIL-BEDC-EB48-6033-983F",
     "validation": "b7dec76f80f3204933d620e76e2c5554",
     "createdAt": 1782755906238,
-    "expiresAt": 1784993360042,
+    "expiresAt": 1785036560042,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-07-25",
     "banned": false
   },
