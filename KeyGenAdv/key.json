@@ -6748,11 +6748,11 @@
     "key": "DEVIL-9394-0583-D384-589B",
     "validation": "4710bb356160a6c5e92ad16871db3ac8",
     "createdAt": 1782702361449,
-    "expiresAt": 1784926585048,
-    "status": "EXPIRED",
+    "expiresAt": 1785022246701,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 28,
-    "lastExtensionDate": "2026-07-24",
+    "totalExtensionCount": 29,
+    "lastExtensionDate": "2026-07-25",
     "banned": false
   },
   {
