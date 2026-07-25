@@ -4265,7 +4265,7 @@
     "validation": "a2db744d8f9cafe62715b5e7454720cc",
     "createdAt": 1782660183472,
     "expiresAt": 1784950070536,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 11,
     "lastExtensionDate": "2026-07-24",
@@ -8198,13 +8198,13 @@
   {
     "userId": "1c83b6b2561375db027f837b54cb0ec69f0b06d253937edea53114581371cde7",
     "key": "DEVIL-BEDC-EB48-6033-983F",
-    "validation": "73598c677a69d93292170580160e4fff",
+    "validation": "b7dec76f80f3204933d620e76e2c5554",
     "createdAt": 1782755906238,
-    "expiresAt": 1784915361809,
-    "status": "EXPIRED",
+    "expiresAt": 1784993360042,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-24",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-07-25",
     "banned": false
   },
   {
