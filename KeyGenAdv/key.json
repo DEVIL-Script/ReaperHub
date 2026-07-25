@@ -14824,11 +14824,11 @@
     "key": "DEVIL-86BB-A248-BFBF-B998",
     "validation": "5efe2be149b9bba7d0f6bb2a47b11964",
     "createdAt": 1783765544038,
-    "expiresAt": 1784918824431,
-    "status": "EXPIRED",
+    "expiresAt": 1785050524345,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-24",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-25",
     "banned": false
   },
   {
