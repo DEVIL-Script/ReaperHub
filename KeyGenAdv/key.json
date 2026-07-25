@@ -16228,11 +16228,11 @@
     "key": "DEVIL-EF70-C104-FF72-8F58",
     "validation": "02b1176a29247b48ab94bda0941e3464",
     "createdAt": 1784909555250,
-    "expiresAt": 1784952755250,
+    "expiresAt": 1784995955250,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-24",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-25",
     "banned": false
   },
   {
