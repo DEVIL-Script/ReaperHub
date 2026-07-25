@@ -16360,10 +16360,10 @@
     "key": "DEVIL-0235-57B2-FD63-72E8",
     "validation": "04a60b3cfe5ffc2e888399949d6f0492",
     "createdAt": 1784990905163,
-    "expiresAt": 1785034105163,
+    "expiresAt": 1785077305163,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-25",
     "banned": false
   }
