@@ -16396,11 +16396,11 @@
     "key": "DEVIL-9B3C-4C35-9071-0E91",
     "validation": "baeaa67cedb646d950c0defd0f5a42b5",
     "createdAt": 1784997990710,
-    "expiresAt": 1785041190710,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-25",
+    "expiresAt": 1785093025651,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
