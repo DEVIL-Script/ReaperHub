@@ -15676,11 +15676,11 @@
     "key": "DEVIL-8CB0-24EB-D434-D802",
     "validation": "ab66e93e41c3406b4af2e5e71fd4d55f",
     "createdAt": 1784518603899,
-    "expiresAt": 1785022909137,
-    "status": "EXPIRED",
+    "expiresAt": 1785100580701,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-25",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
