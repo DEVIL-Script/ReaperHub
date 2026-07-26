@@ -28,11 +28,11 @@
     "key": "DEVIL-D58F-5ACF-26DC-8A6E",
     "validation": "f8509039778a77945f83b01c2e603a31",
     "createdAt": 1774772335350,
-    "expiresAt": 1785032527648,
-    "status": "EXPIRED",
+    "expiresAt": 1785118296047,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 108,
-    "lastExtensionDate": "2026-07-25",
+    "totalExtensionCount": 109,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
