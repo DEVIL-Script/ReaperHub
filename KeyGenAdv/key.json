@@ -16456,11 +16456,11 @@
     "key": "DEVIL-6EBF-2E8F-57E0-D98A",
     "validation": "80b0b38f9ee792bf20d2a72906eef92a",
     "createdAt": 1785014578052,
-    "expiresAt": 1785057778052,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-25",
+    "expiresAt": 1785108761781,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
