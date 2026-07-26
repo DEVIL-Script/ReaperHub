@@ -16468,10 +16468,10 @@
     "key": "DEVIL-B2FF-2098-4AE4-1C55",
     "validation": "134665c0083244db4167cc93c0139673",
     "createdAt": 1785025622029,
-    "expiresAt": 1785068822029,
+    "expiresAt": 1785112022029,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-07-26",
     "banned": false
   },
