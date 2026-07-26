@@ -16372,11 +16372,11 @@
     "key": "DEVIL-3198-692D-8D15-E2E2",
     "validation": "ba8bf44058b8eaf2f3bbbd6e2beecc12",
     "createdAt": 1784995747127,
-    "expiresAt": 1785038947127,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-25",
+    "expiresAt": 1785126358719,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
