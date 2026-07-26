@@ -16264,11 +16264,11 @@
     "key": "DEVIL-4F07-D486-208A-5353",
     "validation": "da6dd1657300f1b7ca7304634f5a9a7f",
     "createdAt": 1784933705953,
-    "expiresAt": 1784976905953,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-24",
+    "expiresAt": 1785152165348,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
