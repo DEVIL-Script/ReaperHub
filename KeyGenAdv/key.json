@@ -5080,11 +5080,11 @@
     "key": "DEVIL-9D56-6B10-E15A-4511",
     "validation": "bf037908fb99fc0cd3dea4b124a15c9b",
     "createdAt": 1782666779051,
-    "expiresAt": 1785064446369,
-    "status": "EXPIRED",
+    "expiresAt": 1785131793761,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 6,
-    "lastExtensionDate": "2026-07-25",
+    "totalExtensionCount": 7,
+    "lastExtensionDate": "2026-07-26",
     "banned": false
   },
   {
