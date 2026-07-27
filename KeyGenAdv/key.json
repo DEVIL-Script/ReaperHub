@@ -9746,13 +9746,13 @@
   {
     "userId": "c85ab2579ddc206535d8a570bacb578efda250a6291d7f97187d666cf5264f6e",
     "key": "DEVIL-18C3-511A-E6C5-9812",
-    "validation": "0c28d6f548849bacadcf4fc48edfb34b",
+    "validation": "d2a3ff11ac0bacec8eef11ecf76e011f",
     "createdAt": 1782837847248,
-    "expiresAt": 1783571081559,
-    "status": "EXPIRED",
+    "expiresAt": 1785204071163,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-08",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-07-27",
     "banned": false
   },
   {
