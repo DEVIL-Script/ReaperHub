@@ -2102,12 +2102,12 @@
   {
     "userId": "8684d49cce43c43b5e783775d77d8fe33147a076328a5506c5f4c2989f37d4ca",
     "key": "DEVIL-EE56-E5C4-985C-B431",
-    "validation": "c8e051cb4d67443d4f6a8c1a6b9c0567",
+    "validation": "90a6cf113216be012ee5b5025f1ab5c2",
     "createdAt": 1777503510852,
-    "expiresAt": 1785198727253,
+    "expiresAt": 1785241927253,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 75,
+    "extensionCount": 2,
+    "totalExtensionCount": 76,
     "lastExtensionDate": "2026-07-27",
     "banned": false
   },
