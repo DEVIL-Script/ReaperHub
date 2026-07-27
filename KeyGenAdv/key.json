@@ -1972,11 +1972,11 @@
     "key": "DEVIL-8F4C-B1ED-2421-0939",
     "validation": "874851bdf532e0f9f144c559c15b5e3c",
     "createdAt": 1777210992760,
-    "expiresAt": 1785057787667,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 17,
-    "lastExtensionDate": "2026-07-25",
+    "expiresAt": 1785182574843,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 18,
+    "lastExtensionDate": "2026-07-27",
     "banned": false
   },
   {
