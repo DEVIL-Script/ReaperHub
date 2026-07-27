@@ -5752,11 +5752,11 @@
     "key": "DEVIL-B6BC-616D-21C3-4AA0",
     "validation": "e02827f2a5b15e576c1232c3438fcd1e",
     "createdAt": 1782674345796,
-    "expiresAt": 1785120973906,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 17,
-    "lastExtensionDate": "2026-07-26",
+    "expiresAt": 1785176787241,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 18,
+    "lastExtensionDate": "2026-07-27",
     "banned": false
   },
   {
