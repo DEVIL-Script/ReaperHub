@@ -16648,11 +16648,11 @@
     "key": "DEVIL-06BB-1155-8B0E-942A",
     "validation": "dca2df775316c3a44af8fffcbfd2ac1f",
     "createdAt": 1785160433629,
-    "expiresAt": 1785203633629,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-27",
+    "expiresAt": 1785347392161,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-29",
     "banned": false
   },
   {
