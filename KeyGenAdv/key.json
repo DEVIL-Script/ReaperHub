@@ -8884,11 +8884,11 @@
     "key": "DEVIL-2B60-C685-AA01-5E61",
     "validation": "a309aae735b2d925c97b7e578ac498dd",
     "createdAt": 1782789391143,
-    "expiresAt": 1785248100214,
-    "status": "EXPIRED",
+    "expiresAt": 1785339563722,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-07-28",
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-07-29",
     "banned": false
   },
   {
