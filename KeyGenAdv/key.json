@@ -15952,11 +15952,11 @@
     "key": "DEVIL-3884-03CB-A431-7CE1",
     "validation": "e3b59123326a9d788cd91e929ac28d58",
     "createdAt": 1784743014329,
-    "expiresAt": 1785238317278,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 8,
-    "lastExtensionDate": "2026-07-27",
+    "expiresAt": 1785363289249,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 9,
+    "lastExtensionDate": "2026-07-29",
     "banned": false
   },
   {
