@@ -16478,12 +16478,12 @@
   {
     "userId": "95cef0482eee4781424ea3c8e67a8c93f0064e4724cfcce8f045b306fd4ed830",
     "key": "DEVIL-66C6-2CDC-EDD4-74D9",
-    "validation": "120b80a1bb0a5b41c07da2d0756bef44",
+    "validation": "72922c9fdaf7f64ead1128f456a395c2",
     "createdAt": 1785033197682,
-    "expiresAt": 1785426981501,
-    "status": "EXPIRED",
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "expiresAt": 1785478719161,
+    "status": "ACTIVE",
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-07-30",
     "banned": false
   },
