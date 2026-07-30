@@ -13816,11 +13816,11 @@
     "key": "DEVIL-F35B-740B-6A32-C6F6",
     "validation": "5268fd87f1621a719db259c423229664",
     "createdAt": 1783386540231,
-    "expiresAt": 1785338561375,
-    "status": "EXPIRED",
+    "expiresAt": 1785429801289,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-29",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-07-30",
     "banned": false
   },
   {
