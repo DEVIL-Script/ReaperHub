@@ -11740,11 +11740,11 @@
     "key": "DEVIL-F9E8-3D82-6471-E60C",
     "validation": "a4781c4412bc51a9238458fbacbe8f84",
     "createdAt": 1783068728772,
-    "expiresAt": 1785456043963,
-    "status": "EXPIRED",
+    "expiresAt": 1785538485980,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 16,
-    "lastExtensionDate": "2026-07-30",
+    "totalExtensionCount": 17,
+    "lastExtensionDate": "2026-07-31",
     "banned": false
   },
   {
