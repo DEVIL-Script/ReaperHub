@@ -14104,11 +14104,11 @@
     "key": "DEVIL-CEB0-6177-1297-BB30",
     "validation": "b50545719021d976ccb53fab5f1bb0c2",
     "createdAt": 1783462959418,
-    "expiresAt": 1785166875391,
-    "status": "EXPIRED",
+    "expiresAt": 1785560311200,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-07-27",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-07-31",
     "banned": false
   },
   {
