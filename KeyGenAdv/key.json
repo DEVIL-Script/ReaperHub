@@ -17008,11 +17008,11 @@
     "key": "DEVIL-120C-64FB-D0BE-6883",
     "validation": "72256a891d3f07d17072ee3c4dfa6d46",
     "createdAt": 1785442765846,
-    "expiresAt": 1785485965846,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-07-30",
+    "expiresAt": 1785530355537,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-07-31",
     "banned": false
   },
   {
