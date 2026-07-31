@@ -556,10 +556,10 @@
     "key": "DEVIL-C2C8-FA74-CE0A-C690",
     "validation": "cd103865bf1463c8ed25c83d50cb02f1",
     "createdAt": 1775056510833,
-    "expiresAt": 1785502258653,
+    "expiresAt": 1785545458653,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 4,
+    "extensionCount": 2,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-07-31",
     "banned": false
   },
