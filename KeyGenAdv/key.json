@@ -8726,13 +8726,13 @@
   {
     "userId": "da494d4f7d4379085fd29503c28bff4b25531161bafa5bf6d01124537b259629",
     "key": "DEVIL-E62A-7C84-D52F-D697",
-    "validation": "5ab4aeeb61cf986c66e2a0ad9d1e88cd",
+    "validation": "c8a046dbf0c0cd798417ca0b1f8a8d32",
     "createdAt": 1782781497541,
-    "expiresAt": 1782897248942,
-    "status": "EXPIRED",
+    "expiresAt": 1785628137012,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-30",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-01",
     "banned": false
   },
   {
