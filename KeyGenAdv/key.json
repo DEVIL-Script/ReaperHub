@@ -13156,11 +13156,11 @@
     "key": "DEVIL-38F3-0998-96C5-63BC",
     "validation": "8ef204cda0d700472c6ed167c828ef5d",
     "createdAt": 1783241482873,
-    "expiresAt": 1785581615469,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 29,
-    "lastExtensionDate": "2026-07-31",
+    "expiresAt": 1785638666724,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 30,
+    "lastExtensionDate": "2026-08-01",
     "banned": false
   },
   {
