@@ -15172,11 +15172,11 @@
     "key": "DEVIL-74DF-432C-5A0A-E905",
     "validation": "2ae3f83031c17ced7b01e91d03fa02e0",
     "createdAt": 1784075672092,
-    "expiresAt": 1785432617554,
-    "status": "EXPIRED",
+    "expiresAt": 1785613981944,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-07-30",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-08-01",
     "banned": false
   },
   {
