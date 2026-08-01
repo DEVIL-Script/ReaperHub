@@ -16912,11 +16912,11 @@
     "key": "DEVIL-850D-0507-166D-6CE0",
     "validation": "55e2b4d8038765b72a4cc391982af287",
     "createdAt": 1785416990259,
-    "expiresAt": 1785546590259,
-    "status": "EXPIRED",
+    "expiresAt": 1785598063326,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-31",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-08-01",
     "banned": false
   },
   {
