@@ -10826,13 +10826,13 @@
   {
     "userId": "6eab19b5abfeb853e50234aeba24c59aee1995a1bc0fe5f93ba70c234a1c9df2",
     "key": "DEVIL-48B1-E75E-14CA-F7F6",
-    "validation": "48e093ee9b3676843336d12b0107284a",
+    "validation": "f7d9489acf4008f0841d50b89af4fc85",
     "createdAt": 1782954324323,
-    "expiresAt": 1783082594123,
-    "status": "EXPIRED",
+    "expiresAt": 1785590487747,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-07-03",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-01",
     "banned": false
   },
   {
