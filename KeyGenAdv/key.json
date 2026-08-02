@@ -16024,11 +16024,11 @@
     "key": "DEVIL-25E3-2BEE-2270-E910",
     "validation": "75081d594ef43394569f80caca0fd4c1",
     "createdAt": 1784806816592,
-    "expiresAt": 1785287034325,
-    "status": "EXPIRED",
+    "expiresAt": 1785713822088,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-07-28",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-08-02",
     "banned": false
   },
   {
