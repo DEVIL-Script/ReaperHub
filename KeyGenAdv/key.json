@@ -16948,11 +16948,11 @@
     "key": "DEVIL-D345-889B-8E37-D95C",
     "validation": "4883d100f603c7900ca32575892798fd",
     "createdAt": 1785432160315,
-    "expiresAt": 1785628986550,
-    "status": "EXPIRED",
+    "expiresAt": 1785712678424,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-01",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-02",
     "banned": false
   },
   {
