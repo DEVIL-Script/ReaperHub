@@ -9110,12 +9110,12 @@
   {
     "userId": "bd729085a4bc7e895acf52b24d01af36656d24f62d90f2d1e6bae8d52ed0d000",
     "key": "DEVIL-D44C-3C72-7B11-F13A",
-    "validation": "5ea11e910c4e21685a4c05d1ab604067",
+    "validation": "8f656a87a50591ef3f689c5d58308254",
     "createdAt": 1782800385989,
-    "expiresAt": 1785693599265,
+    "expiresAt": 1785736799265,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 8,
+    "extensionCount": 2,
+    "totalExtensionCount": 9,
     "lastExtensionDate": "2026-08-02",
     "banned": false
   },
