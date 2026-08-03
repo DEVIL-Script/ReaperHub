@@ -17188,11 +17188,11 @@
     "key": "DEVIL-8B5F-6928-571D-ADF5",
     "validation": "218da384974ce45272554d95e30e34f8",
     "createdAt": 1785572351854,
-    "expiresAt": 1785698375517,
-    "status": "EXPIRED",
+    "expiresAt": 1785783434979,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-02",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-03",
     "banned": false
   },
   {
