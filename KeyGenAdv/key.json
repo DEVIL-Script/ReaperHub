@@ -16480,11 +16480,11 @@
     "key": "DEVIL-66C6-2CDC-EDD4-74D9",
     "validation": "72922c9fdaf7f64ead1128f456a395c2",
     "createdAt": 1785033197682,
-    "expiresAt": 1785644383556,
-    "status": "EXPIRED",
+    "expiresAt": 1785775149650,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-08-01",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-08-03",
     "banned": false
   },
   {
