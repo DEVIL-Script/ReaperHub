@@ -17140,11 +17140,11 @@
     "key": "DEVIL-ED88-FD16-9DDF-CCAF",
     "validation": "070ca5b63de2fec77b6ab86c768ab5ba",
     "createdAt": 1785538812566,
-    "expiresAt": 1785753775307,
-    "status": "EXPIRED",
+    "expiresAt": 1785799232390,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-08-02",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-08-03",
     "banned": false
   },
   {
