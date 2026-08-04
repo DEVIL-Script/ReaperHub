@@ -15304,11 +15304,11 @@
     "key": "DEVIL-221F-4C7F-A2F8-D99D",
     "validation": "f0effd26bf1e57a3c983449d66a27891",
     "createdAt": 1784182211978,
-    "expiresAt": 1785810348319,
-    "status": "EXPIRED",
+    "expiresAt": 1785885888890,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 16,
-    "lastExtensionDate": "2026-08-03",
+    "totalExtensionCount": 17,
+    "lastExtensionDate": "2026-08-04",
     "banned": false
   },
   {
