@@ -17452,11 +17452,11 @@
     "key": "DEVIL-9145-4112-651F-1555",
     "validation": "988a37e5265ba0eadb67f9e4396ec4be",
     "createdAt": 1785761703324,
-    "expiresAt": 1785804903324,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-03",
+    "expiresAt": 1785886668534,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-04",
     "banned": false
   },
   {
