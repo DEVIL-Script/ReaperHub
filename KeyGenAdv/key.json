@@ -17674,5 +17674,17 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-08-04",
     "banned": false
+  },
+  {
+    "userId": "83f3b944a1ced87a3ddd8abdc9d0a665734c08e5028dd9119f47cc2c35423ce0",
+    "key": "DEVIL-EDFB-D873-FA02-DC32",
+    "validation": "fb30f1052f0982b9ab5bceae11167a68",
+    "createdAt": 1785893143345,
+    "expiresAt": 1785936343345,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-08-05",
+    "banned": false
   }
 ]
