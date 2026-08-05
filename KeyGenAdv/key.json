@@ -17138,12 +17138,12 @@
   {
     "userId": "50d4140b2defa14e9e276948167914d702e1f6c4afc7f40ef7522425086c6868",
     "key": "DEVIL-ED88-FD16-9DDF-CCAF",
-    "validation": "0f75fe442c1655af0dcd4fdd14b806a7",
+    "validation": "0fb249046a8df175f76fe2c3dc1f761a",
     "createdAt": 1785538812566,
-    "expiresAt": 1785968387795,
+    "expiresAt": 1786011587795,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 6,
+    "extensionCount": 2,
+    "totalExtensionCount": 7,
     "lastExtensionDate": "2026-08-05",
     "banned": false
   },
