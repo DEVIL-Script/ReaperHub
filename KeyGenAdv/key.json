@@ -12892,11 +12892,11 @@
     "key": "DEVIL-C4FA-52D2-F006-DAF9",
     "validation": "a2d80911d38422146d111fcad253394b",
     "createdAt": 1783209375335,
-    "expiresAt": 1785923634717,
-    "status": "EXPIRED",
+    "expiresAt": 1785987028165,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-08-04",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-08-05",
     "banned": false
   },
   {
