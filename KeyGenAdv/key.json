@@ -17152,11 +17152,11 @@
     "key": "DEVIL-F299-E989-014F-B3EB",
     "validation": "0efa33c21f65bff12ecea3d51f711ed0",
     "createdAt": 1785564532826,
-    "expiresAt": 1785876422683,
-    "status": "EXPIRED",
+    "expiresAt": 1785932494387,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-08-04",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-08-05",
     "banned": false
   },
   {
