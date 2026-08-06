@@ -952,11 +952,11 @@
     "key": "DEVIL-85F6-9B61-BF3E-F6CE",
     "validation": "7997b817dbfef0519c21a336a149417a",
     "createdAt": 1775417528494,
-    "expiresAt": 1779844097046,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 21,
-    "lastExtensionDate": "2026-05-26",
+    "expiresAt": 1786083323380,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 22,
+    "lastExtensionDate": "2026-08-06",
     "banned": false
   },
   {
