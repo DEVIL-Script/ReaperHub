@@ -17512,11 +17512,11 @@
     "key": "DEVIL-E785-38CA-5927-FA5D",
     "validation": "593f23a5b24953915553064f39f198a8",
     "createdAt": 1785784795498,
-    "expiresAt": 1785999873724,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-08-05",
+    "expiresAt": 1786062486579,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-08-06",
     "banned": false
   },
   {
