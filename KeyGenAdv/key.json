@@ -17680,11 +17680,11 @@
     "key": "DEVIL-EDFB-D873-FA02-DC32",
     "validation": "fb30f1052f0982b9ab5bceae11167a68",
     "createdAt": 1785893143345,
-    "expiresAt": 1786061374459,
-    "status": "EXPIRED",
+    "expiresAt": 1786111235450,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-08-06",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-08-07",
     "banned": false
   },
   {
