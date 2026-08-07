@@ -17752,11 +17752,11 @@
     "key": "DEVIL-16CC-272E-6ED2-7D03",
     "validation": "cf0a665c8b56de26dfdd2065bb4db63f",
     "createdAt": 1785942966003,
-    "expiresAt": 1786099405462,
-    "status": "EXPIRED",
+    "expiresAt": 1786178153232,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-06",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-07",
     "banned": false
   },
   {
