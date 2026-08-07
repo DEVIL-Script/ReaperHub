@@ -17042,12 +17042,12 @@
   {
     "userId": "76c54eb82d7b4b7e041335b176cb9de1f2f99d3cddf9c878bd95c597dfe9b9e2",
     "key": "DEVIL-46BA-A569-30AF-8194",
-    "validation": "d8ad61e56a5fe8b46ee40e9e6c99f2f0",
+    "validation": "f1be505dcc0787219b778a8830f5c67e",
     "createdAt": 1785480718245,
-    "expiresAt": 1786133813950,
+    "expiresAt": 1786177013950,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 10,
+    "extensionCount": 2,
+    "totalExtensionCount": 11,
     "lastExtensionDate": "2026-08-07",
     "banned": false
   },
