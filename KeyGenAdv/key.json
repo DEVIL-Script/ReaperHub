@@ -16192,11 +16192,11 @@
     "key": "DEVIL-BB05-CE5C-02E5-74C1",
     "validation": "cfe42875b5ed7aa99bb7aae2a91e0d81",
     "createdAt": 1784903388049,
-    "expiresAt": 1785994658784,
-    "status": "EXPIRED",
+    "expiresAt": 1786148262742,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-05",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-07",
     "banned": false
   },
   {
