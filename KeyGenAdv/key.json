@@ -17584,11 +17584,11 @@
     "key": "DEVIL-C7C2-773F-FFA1-1EAB",
     "validation": "946e1ae4230420a33d20f4d703df2bbf",
     "createdAt": 1785808085285,
-    "expiresAt": 1785968246105,
-    "status": "EXPIRED",
+    "expiresAt": 1786140635351,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-05",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-07",
     "banned": false
   },
   {
