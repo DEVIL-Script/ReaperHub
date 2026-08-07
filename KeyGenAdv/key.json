@@ -17044,11 +17044,11 @@
     "key": "DEVIL-46BA-A569-30AF-8194",
     "validation": "d8ad61e56a5fe8b46ee40e9e6c99f2f0",
     "createdAt": 1785480718245,
-    "expiresAt": 1786050582895,
-    "status": "EXPIRED",
+    "expiresAt": 1786133813950,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 9,
-    "lastExtensionDate": "2026-08-06",
+    "totalExtensionCount": 10,
+    "lastExtensionDate": "2026-08-07",
     "banned": false
   },
   {
