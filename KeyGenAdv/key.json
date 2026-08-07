@@ -13000,11 +13000,11 @@
     "key": "DEVIL-3220-5AFF-D4A4-FA63",
     "validation": "f57565a260337708f60cfa2ff3975ad6",
     "createdAt": 1783219913091,
-    "expiresAt": 1786079122209,
+    "expiresAt": 1786122322209,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 38,
-    "lastExtensionDate": "2026-08-06",
+    "extensionCount": 1,
+    "totalExtensionCount": 39,
+    "lastExtensionDate": "2026-08-07",
     "banned": false
   },
   {
