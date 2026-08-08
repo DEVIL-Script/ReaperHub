@@ -17824,11 +17824,11 @@
     "key": "DEVIL-F81D-4EFD-CF3D-766D",
     "validation": "bb4bd41bef78ab2032be07ee7f1f3cd8",
     "createdAt": 1786002471894,
-    "expiresAt": 1786146025505,
-    "status": "EXPIRED",
+    "expiresAt": 1786241845807,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-08-07",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-08-08",
     "banned": false
   },
   {
