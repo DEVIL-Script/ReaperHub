@@ -18148,10 +18148,10 @@
     "key": "DEVIL-5AFD-F8C4-1A7B-5A60",
     "validation": "6be07e89c4bb050ca736a4c1ba0e906f",
     "createdAt": 1786198075263,
-    "expiresAt": 1786241275263,
+    "expiresAt": 1786284475263,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-08-08",
     "banned": false
   }
