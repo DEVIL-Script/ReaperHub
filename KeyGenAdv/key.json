@@ -18076,10 +18076,10 @@
     "key": "DEVIL-7960-ADDA-5E42-6213",
     "validation": "b86f7aa2c69fee5c8951e89d9bede03b",
     "createdAt": 1786136248380,
-    "expiresAt": 1786350379922,
+    "expiresAt": 1786393579922,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 3,
+    "extensionCount": 2,
+    "totalExtensionCount": 4,
     "lastExtensionDate": "2026-08-09",
     "banned": false
   },
