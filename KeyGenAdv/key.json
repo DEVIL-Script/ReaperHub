@@ -18220,11 +18220,11 @@
     "key": "DEVIL-C775-75A1-B4A3-121C",
     "validation": "49b9630039c1a2318261b4a072fb435f",
     "createdAt": 1786244826979,
-    "expiresAt": 1786288026979,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-09",
+    "expiresAt": 1786394437357,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-10",
     "banned": false
   },
   {
