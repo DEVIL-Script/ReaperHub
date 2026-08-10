@@ -17992,11 +17992,11 @@
     "key": "DEVIL-E4BE-EACF-E65A-8567",
     "validation": "12a33fe49192f1baa5e8d65fe5ba3285",
     "createdAt": 1786109921863,
-    "expiresAt": 1786221283871,
-    "status": "EXPIRED",
+    "expiresAt": 1786388528913,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-08",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-10",
     "banned": false
   },
   {
