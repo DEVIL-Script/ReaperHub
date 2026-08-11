@@ -17968,11 +17968,11 @@
     "key": "DEVIL-2F61-055E-EA8A-CE4F",
     "validation": "3a532feba3f4cea0d3f0579595556a77",
     "createdAt": 1786092162147,
-    "expiresAt": 1786397535773,
-    "status": "EXPIRED",
+    "expiresAt": 1786483958146,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-08-10",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-08-11",
     "banned": false
   },
   {
