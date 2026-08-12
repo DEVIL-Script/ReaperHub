@@ -15484,10 +15484,10 @@
     "key": "DEVIL-CA28-454B-1A48-2F88",
     "validation": "166098bee8e2425ab71d9dd8c6f1c487",
     "createdAt": 1784344880231,
-    "expiresAt": 1786590545498,
+    "expiresAt": 1786633745498,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 5,
+    "extensionCount": 2,
+    "totalExtensionCount": 6,
     "lastExtensionDate": "2026-08-12",
     "banned": false
   },
