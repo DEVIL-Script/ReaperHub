@@ -16168,11 +16168,11 @@
     "key": "DEVIL-00B5-58AC-97FA-91A2",
     "validation": "f787091d5ff83b1b272fdbe2198f72a5",
     "createdAt": 1784888122965,
-    "expiresAt": 1786558280579,
-    "status": "EXPIRED",
+    "expiresAt": 1786634320235,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-08-12",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-08-13",
     "banned": false
   },
   {
