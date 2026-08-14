@@ -18484,10 +18484,10 @@
     "key": "DEVIL-E980-419E-96F9-6E6F",
     "validation": "e8439722956ea05448be149ce7518d30",
     "createdAt": 1786481137179,
-    "expiresAt": 1786735449274,
+    "expiresAt": 1786779749365,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 2,
+    "extensionCount": 2,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-08-14",
     "banned": false
   },
