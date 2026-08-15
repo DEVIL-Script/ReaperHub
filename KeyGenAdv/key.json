@@ -17740,11 +17740,11 @@
     "key": "DEVIL-9A8C-E7ED-BC5C-644B",
     "validation": "93a2ac7295c5be33bdfb84c5140d4cb5",
     "createdAt": 1785926355692,
-    "expiresAt": 1786677422922,
-    "status": "EXPIRED",
+    "expiresAt": 1786851794433,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-08-13",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-08-15",
     "banned": false
   },
   {
