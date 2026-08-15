@@ -18424,11 +18424,11 @@
     "key": "DEVIL-DBBD-EACB-ED3F-427C",
     "validation": "5d833e08f080fd3d8ba59e0a447ba2d4",
     "createdAt": 1786391711744,
-    "expiresAt": 1786434911744,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-10",
+    "expiresAt": 1786810162665,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-15",
     "banned": false
   },
   {
