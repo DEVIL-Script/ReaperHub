@@ -18736,11 +18736,11 @@
     "key": "DEVIL-2B31-959A-443A-9243",
     "validation": "55f7f3bec30c3e835a9cb89ea847f023",
     "createdAt": 1786877428351,
-    "expiresAt": 1786920628351,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-16",
+    "expiresAt": 1786996483684,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-17",
     "banned": false
   },
   {
