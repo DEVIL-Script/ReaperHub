@@ -14080,11 +14080,11 @@
     "key": "DEVIL-58AA-F111-0AE6-62C7",
     "validation": "c6a669d33c4dda63e2329fd83ae66d67",
     "createdAt": 1783452457134,
-    "expiresAt": 1786915290309,
-    "status": "EXPIRED",
+    "expiresAt": 1787096528731,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 25,
-    "lastExtensionDate": "2026-08-16",
+    "totalExtensionCount": 26,
+    "lastExtensionDate": "2026-08-18",
     "banned": false
   },
   {
