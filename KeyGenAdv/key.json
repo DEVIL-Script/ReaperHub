@@ -18856,10 +18856,10 @@
     "key": "DEVIL-A532-321A-82FE-CAF5",
     "validation": "f0b5de398ec16fc437cac2904807105c",
     "createdAt": 1787134720658,
-    "expiresAt": 1787177920658,
+    "expiresAt": 1787221120658,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-08-19",
     "banned": false
   }
