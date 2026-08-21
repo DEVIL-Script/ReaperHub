@@ -18940,11 +18940,11 @@
     "key": "DEVIL-69AD-A397-53EB-8A19",
     "validation": "b64e12a64eb73649545a85f8ba3745a4",
     "createdAt": 1787209353426,
-    "expiresAt": 1787252553426,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-20",
+    "expiresAt": 1787371415341,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-21",
     "banned": false
   },
   {
