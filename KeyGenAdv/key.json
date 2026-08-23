@@ -19036,10 +19036,10 @@
     "key": "DEVIL-6C62-5D28-F2B7-F444",
     "validation": "deae3d910a6b7f8cb97c3caf38a728a8",
     "createdAt": 1787433828541,
-    "expiresAt": 1787520228541,
+    "expiresAt": 1787563428541,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-08-23",
     "banned": false
   }
