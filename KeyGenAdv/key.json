@@ -18928,11 +18928,11 @@
     "key": "DEVIL-5A1A-D38A-6F1B-572D",
     "validation": "50205e4e8eff6bd1a4b439fa507a27c7",
     "createdAt": 1787203595307,
-    "expiresAt": 1787444977621,
-    "status": "EXPIRED",
+    "expiresAt": 1787495364878,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-08-22",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-08-23",
     "banned": false
   },
   {
