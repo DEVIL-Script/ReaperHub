@@ -14620,11 +14620,11 @@
     "key": "DEVIL-A429-E337-6044-D126",
     "validation": "6314d544939b6858b065282a6625e7b4",
     "createdAt": 1783673824879,
-    "expiresAt": 1787469764423,
-    "status": "EXPIRED",
+    "expiresAt": 1787538359263,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 30,
-    "lastExtensionDate": "2026-08-22",
+    "totalExtensionCount": 31,
+    "lastExtensionDate": "2026-08-23",
     "banned": false
   },
   {
