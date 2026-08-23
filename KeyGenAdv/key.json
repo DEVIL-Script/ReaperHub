@@ -19012,10 +19012,10 @@
     "key": "DEVIL-B273-A41D-166D-E0E5",
     "validation": "6ddb9c4092813a81b967e20ea57b2618",
     "createdAt": 1787412510441,
-    "expiresAt": 1787501666550,
+    "expiresAt": 1787544866550,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-08-23",
     "banned": false
   },
