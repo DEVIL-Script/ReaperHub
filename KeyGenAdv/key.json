@@ -19034,12 +19034,12 @@
   {
     "userId": "29470c6786fb7e096e874cc0eb03f49ec335f010ec7386eb9873a0cb78a95e51",
     "key": "DEVIL-6C62-5D28-F2B7-F444",
-    "validation": "deae3d910a6b7f8cb97c3caf38a728a8",
+    "validation": "59e44316124f0d5211e5d3aeb1485483",
     "createdAt": 1787433828541,
-    "expiresAt": 1787563428541,
+    "expiresAt": 1787606628541,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
+    "extensionCount": 3,
+    "totalExtensionCount": 3,
     "lastExtensionDate": "2026-08-23",
     "banned": false
   }
