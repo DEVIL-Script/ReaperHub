@@ -18988,11 +18988,11 @@
     "key": "DEVIL-60EF-3590-8423-5591",
     "validation": "ae4bf6c4bc944f08281e32e51e2979ce",
     "createdAt": 1787386191354,
-    "expiresAt": 1787429391354,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-22",
+    "expiresAt": 1787517723580,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-23",
     "banned": false
   },
   {
