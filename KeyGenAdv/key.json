@@ -19048,11 +19048,11 @@
     "key": "DEVIL-B907-E5CA-9AE8-EE10",
     "validation": "8011eff19b029e2d70ef2e410ec2e669",
     "createdAt": 1787482780611,
-    "expiresAt": 1787525980611,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-23",
+    "expiresAt": 1787625260443,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-24",
     "banned": false
   },
   {
