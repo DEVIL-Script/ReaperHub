@@ -18784,11 +18784,11 @@
     "key": "DEVIL-5E2C-6397-C9F2-C700",
     "validation": "a6765c3a863487957d8511b09d26d93f",
     "createdAt": 1786998358855,
-    "expiresAt": 1787041558855,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-17",
+    "expiresAt": 1787626623738,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-24",
     "banned": false
   },
   {
