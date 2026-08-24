@@ -9676,10 +9676,10 @@
     "key": "DEVIL-C504-C89A-3592-83DF",
     "validation": "db8c4f059bce77ee8cf6a17d954da485",
     "createdAt": 1782833732783,
-    "expiresAt": 1787624003222,
+    "expiresAt": 1787667203222,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 10,
+    "extensionCount": 2,
+    "totalExtensionCount": 11,
     "lastExtensionDate": "2026-08-24",
     "banned": false
   },
