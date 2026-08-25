@@ -19084,11 +19084,11 @@
     "key": "DEVIL-3BB1-5267-1626-8EF1",
     "validation": "0b0635358419ea05fda089dc4d23cfbb",
     "createdAt": 1787581579193,
-    "expiresAt": 1787624779193,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-24",
+    "expiresAt": 1787682553892,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-08-25",
     "banned": false
   }
 ]
