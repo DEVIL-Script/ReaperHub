@@ -17428,11 +17428,11 @@
     "key": "DEVIL-248F-2A13-0E68-C210",
     "validation": "71d97a1e5142815e399f0e14f7d82a34",
     "createdAt": 1785731701293,
-    "expiresAt": 1786140389906,
-    "status": "EXPIRED",
+    "expiresAt": 1787753214383,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-08-07",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-08-26",
     "banned": false
   },
   {
