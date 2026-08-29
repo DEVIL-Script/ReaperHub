@@ -17632,11 +17632,11 @@
     "key": "DEVIL-8B05-1B3F-15EE-5322",
     "validation": "3f163123feddc84b3cbe41bb66955b0f",
     "createdAt": 1785864559135,
-    "expiresAt": 1787949044264,
-    "status": "EXPIRED",
+    "expiresAt": 1788044844305,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 21,
-    "lastExtensionDate": "2026-08-28",
+    "totalExtensionCount": 22,
+    "lastExtensionDate": "2026-08-29",
     "banned": false
   },
   {
