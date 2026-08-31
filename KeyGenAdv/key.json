@@ -13576,11 +13576,11 @@
     "key": "DEVIL-D58E-ED3A-589B-D323",
     "validation": "0f51ffbefd257d7d4b1e441bdb34d07b",
     "createdAt": 1783329896048,
-    "expiresAt": 1787536289613,
-    "status": "EXPIRED",
+    "expiresAt": 1788255087917,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 14,
-    "lastExtensionDate": "2026-08-23",
+    "totalExtensionCount": 15,
+    "lastExtensionDate": "2026-08-31",
     "banned": false
   },
   {
