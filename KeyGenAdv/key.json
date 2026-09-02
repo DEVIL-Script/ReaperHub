@@ -19313,7 +19313,7 @@
     "validation": "3d33d9253f99ba227964b5a92eb46a1b",
     "createdAt": 1788278142668,
     "expiresAt": 1788321342668,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-09-01",
@@ -19329,6 +19329,18 @@
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-09-01",
+    "banned": false
+  },
+  {
+    "userId": "38048a28bcac70747d73771f21cb0d761389e6fe08e179946c5a336a05d49e5f",
+    "key": "DEVIL-BE22-22F5-9B5D-C799",
+    "validation": "fc177d70f71dd8cc3abe03a2d89d5522",
+    "createdAt": 1788325101027,
+    "expiresAt": 1788368301027,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-09-02",
     "banned": false
   }
 ]
