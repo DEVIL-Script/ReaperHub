@@ -2104,11 +2104,11 @@
     "key": "DEVIL-EE56-E5C4-985C-B431",
     "validation": "ec2a69b1cfceb020776e701b564c063f",
     "createdAt": 1777503510852,
-    "expiresAt": 1788393633461,
-    "status": "EXPIRED",
+    "expiresAt": 1788463435146,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 84,
-    "lastExtensionDate": "2026-09-02",
+    "totalExtensionCount": 85,
+    "lastExtensionDate": "2026-09-03",
     "banned": false
   },
   {
