@@ -19120,10 +19120,10 @@
     "key": "DEVIL-81B5-6741-86A4-AABB",
     "validation": "b4af505cc2619a4e018536c3abb483a5",
     "createdAt": 1787850005218,
-    "expiresAt": 1788552546949,
+    "expiresAt": 1788595746949,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 8,
+    "extensionCount": 2,
+    "totalExtensionCount": 9,
     "lastExtensionDate": "2026-09-04",
     "banned": false
   },
