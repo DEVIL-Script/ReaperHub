@@ -18748,11 +18748,11 @@
     "key": "DEVIL-A395-4FB7-222E-63EC",
     "validation": "e4fc7127ddd62d60ee53e067e079a379",
     "createdAt": 1786886700283,
-    "expiresAt": 1788182923867,
-    "status": "EXPIRED",
+    "expiresAt": 1788610808203,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 3,
-    "lastExtensionDate": "2026-08-31",
+    "totalExtensionCount": 4,
+    "lastExtensionDate": "2026-09-05",
     "banned": false
   },
   {
