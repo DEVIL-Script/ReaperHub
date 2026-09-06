@@ -19384,11 +19384,11 @@
     "key": "DEVIL-28AD-BBAA-4A80-108C",
     "validation": "c75295b09ad4d4f52eb10b4228fb11e0",
     "createdAt": 1788506575494,
-    "expiresAt": 1788665928129,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-09-05",
+    "expiresAt": 1788739814663,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-09-06",
     "banned": false
   },
   {
