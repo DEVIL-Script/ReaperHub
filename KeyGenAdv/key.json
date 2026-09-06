@@ -19156,11 +19156,11 @@
     "key": "DEVIL-6B42-E6F2-2044-A87C",
     "validation": "689ebcb1aed2ef8cef06ad107e605193",
     "createdAt": 1787963701867,
-    "expiresAt": 1788006901867,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-08-29",
+    "expiresAt": 1788697471913,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-09-06",
     "banned": false
   },
   {
