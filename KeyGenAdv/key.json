@@ -19096,11 +19096,11 @@
     "key": "DEVIL-ED90-D190-D3D2-7115",
     "validation": "d36506fb523f5796f39effb964970c9d",
     "createdAt": 1787640106652,
-    "expiresAt": 1788757335939,
-    "status": "EXPIRED",
+    "expiresAt": 1788826590881,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-09-06",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-09-07",
     "banned": false
   },
   {
