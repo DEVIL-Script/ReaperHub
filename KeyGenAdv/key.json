@@ -19094,12 +19094,12 @@
   {
     "userId": "486e4fb4e5c482b20aab34087e5d0a66c5acd56d8ca5de4c861b7d5c6976b04c",
     "key": "DEVIL-ED90-D190-D3D2-7115",
-    "validation": "4df4745aad3d32571882e280306ae9b9",
+    "validation": "d51cf49d9c878229d1d08c34caf8093a",
     "createdAt": 1787640106652,
-    "expiresAt": 1789066289063,
+    "expiresAt": 1789109489063,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 6,
+    "extensionCount": 2,
+    "totalExtensionCount": 7,
     "lastExtensionDate": "2026-09-10",
     "banned": false
   },
