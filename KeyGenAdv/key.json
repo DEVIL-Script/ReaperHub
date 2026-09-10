@@ -19526,12 +19526,12 @@
   {
     "userId": "39f219518c9a72b7b98803c80149dadc770aed54b5c99345c81e14208f2b9e74",
     "key": "DEVIL-9C4A-617D-7CD0-B0E5",
-    "validation": "1f6051127fabc1b5123abfdd91df6454",
+    "validation": "cb3c17e4eefa7369f1f8eaaad2032366",
     "createdAt": 1789056146831,
-    "expiresAt": 1789099346831,
+    "expiresAt": 1789142546831,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-09-10",
     "banned": false
   }
