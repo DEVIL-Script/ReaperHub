@@ -19552,11 +19552,11 @@
     "key": "DEVIL-8DC1-F410-88C6-AD34",
     "validation": "754b97282ec965bce3d6497068ef4be4",
     "createdAt": 1789066278944,
-    "expiresAt": 1789176093768,
-    "status": "EXPIRED",
+    "expiresAt": 1789283920821,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-09-11",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-09-12",
     "banned": false
   },
   {
