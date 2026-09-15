@@ -674,7 +674,8 @@ local DiscordWhitelist = {
     ["d939f365199724b452342f9483b2673b"] = {discordId = "24d92310e300aedb2d4b9c3bcc1d13ddaad3ccc189003f87bd4ec39b9ea013a9", active = false},
     ["dd04030e23914acf6edf3634bc791a2b"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
     ["e678e5d160a0b64475dd3175530a7c7e"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
-    ["d64872d5bc018ed93593d66ddde3d158"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true}
+    ["d64872d5bc018ed93593d66ddde3d158"] = {discordId = "6f7532beaf4bc744ceb89b2816d345ca9abe60af1edae23998c3c67cae8c3605", active = true},
+    ["63fecb3490795d3c769b8e4eb2b292df"] = {discordId = "8dc397cd515d82416c13840976fb9909d8cda26d8ddee27feb006217fa448f97", active = true}
 }
 
 return DiscordWhitelist
