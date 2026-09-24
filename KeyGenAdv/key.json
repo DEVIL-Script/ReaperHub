@@ -4828,10 +4828,10 @@
     "key": "DEVIL-3F34-C2E2-59FD-D400",
     "validation": "034a82366accac150ec85474b5788955",
     "createdAt": 1782665156241,
-    "expiresAt": 1790303457221,
+    "expiresAt": 1790346657221,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 7,
+    "extensionCount": 2,
+    "totalExtensionCount": 8,
     "lastExtensionDate": "2026-09-24",
     "banned": false
   },
