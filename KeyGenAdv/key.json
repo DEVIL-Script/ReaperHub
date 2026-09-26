@@ -18722,12 +18722,12 @@
   {
     "userId": "b506d650f8c335d7ca876fea43c00b377f198413df2a0609929915277d8a3bf2",
     "key": "DEVIL-87EE-ACB1-1F52-379B",
-    "validation": "8ccef0d5aa64987b142c46d289b91cde",
+    "validation": "90a79e9295c3b511a7f7c3c382a3283b",
     "createdAt": 1790422044566,
-    "expiresAt": 1790465244566,
+    "expiresAt": 1790508444566,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
     "lastExtensionDate": "2026-09-26",
     "banned": false
   },
