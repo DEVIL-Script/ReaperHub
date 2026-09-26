@@ -18706,5 +18706,17 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-09-26",
     "banned": false
+  },
+  {
+    "userId": "69c6865545d74b7e1705c582f89d27ccfa2ffa825d65ba9a6431e9efdb941fa9",
+    "key": "DEVIL-35EE-186E-307B-BCAA",
+    "validation": "0a852b7cd9d249040a0ae3ef71e9c2dc",
+    "createdAt": 1790411856591,
+    "expiresAt": 1790455056591,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-09-26",
+    "banned": false
   }
 ]
