@@ -18796,11 +18796,11 @@
     "key": "DEVIL-5779-AAF6-8240-F709",
     "validation": "683506eb3079cf332e7ff2f5a541eb71",
     "createdAt": 1790481304608,
-    "expiresAt": 1790524504608,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-09-27",
+    "expiresAt": 1790640282099,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-09-28",
     "banned": false
   },
   {
