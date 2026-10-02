@@ -18664,11 +18664,11 @@
     "key": "DEVIL-0A70-EC7A-C632-0113",
     "validation": "082254976f91fe16b1e54baa4cd9967a",
     "createdAt": 1790253428697,
-    "expiresAt": 1790801334628,
-    "status": "EXPIRED",
+    "expiresAt": 1791018017174,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-09-30",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-10-02",
     "banned": false
   },
   {
