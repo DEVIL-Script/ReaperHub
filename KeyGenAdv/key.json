@@ -18652,11 +18652,11 @@
     "key": "DEVIL-E5C2-6CC3-94EE-3CFE",
     "validation": "ed91f423cbdd41ca8201e307d8f02406",
     "createdAt": 1790249807203,
-    "expiresAt": 1790533192560,
-    "status": "EXPIRED",
+    "expiresAt": 1791085018755,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-09-27",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-10-03",
     "banned": false
   },
   {
