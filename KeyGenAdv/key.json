@@ -16936,11 +16936,11 @@
     "key": "DEVIL-DEED-35D1-D126-892D",
     "validation": "2d873ef52d2ce3d112548297cce2f83e",
     "createdAt": 1785430568014,
-    "expiresAt": 1791060748405,
-    "status": "EXPIRED",
+    "expiresAt": 1791195961751,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 10,
-    "lastExtensionDate": "2026-10-03",
+    "totalExtensionCount": 11,
+    "lastExtensionDate": "2026-10-04",
     "banned": false
   },
   {
