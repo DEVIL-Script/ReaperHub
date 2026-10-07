@@ -974,12 +974,12 @@
   {
     "userId": "85a771e725250faf0454c149327d803fa93fd08303695b173c4ae63d9f375604",
     "key": "DEVIL-7D3B-2A7A-3070-FCD3",
-    "validation": "2390c8a29e6f1dc2d4d9b4557e5af1ad",
+    "validation": "9ebcc9a328c4835382d2fa6e226a2495",
     "createdAt": 1775428907426,
-    "expiresAt": 1791396136723,
+    "expiresAt": 1791439336723,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 30,
+    "extensionCount": 2,
+    "totalExtensionCount": 31,
     "lastExtensionDate": "2026-10-07",
     "banned": false
   },
