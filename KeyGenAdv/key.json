@@ -18830,13 +18830,13 @@
   {
     "userId": "9d1e6d068e5e2ce6f4b6f917be07fe5aa35c63a7205d2d89196800d026038c14",
     "key": "DEVIL-5DAB-3538-B29A-822C",
-    "validation": "830d72311a1e8bdf75bd3f4862e74521",
+    "validation": "3d54c7234b2b9a999ce09e8d9e1274a5",
     "createdAt": 1790531023190,
-    "expiresAt": 1791372028806,
+    "expiresAt": 1791415228806,
     "status": "ACTIVE",
-    "extensionCount": 2,
-    "totalExtensionCount": 16,
-    "lastExtensionDate": "2026-10-06",
+    "extensionCount": 1,
+    "totalExtensionCount": 17,
+    "lastExtensionDate": "2026-10-07",
     "banned": false
   },
   {
