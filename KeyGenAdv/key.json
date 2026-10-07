@@ -14525,7 +14525,7 @@
     "validation": null,
     "createdAt": 1783616036474,
     "expiresAt": 1791392122050,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-07-09",
@@ -18964,11 +18964,11 @@
     "key": "DEVIL-FD67-E620-E538-65EF",
     "validation": "82a9259cbee41f4816c7bb1b19d0bce3",
     "createdAt": 1791324146319,
-    "expiresAt": 1791367346319,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-10-06",
+    "expiresAt": 1791439639729,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-10-07",
     "banned": false
   }
 ]
