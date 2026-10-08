@@ -18977,6 +18977,18 @@
     "validation": "f15627fe82e56f9d3f2e05adb7389fee",
     "createdAt": 1791429845133,
     "expiresAt": 1791473045133,
+    "status": "EXPIRED",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-10-08",
+    "banned": false
+  },
+  {
+    "userId": "9d1e59ef4d3b3e0dfdb564f16e9beb19d54234bdea77c76b5a957a543632bbdc",
+    "key": "DEVIL-F5F7-990F-52C7-583E",
+    "validation": "7dece054d174fbdb124096df46ca6a4d",
+    "createdAt": 1791477343099,
+    "expiresAt": 1791520543099,
     "status": "ACTIVE",
     "extensionCount": 0,
     "totalExtensionCount": 0,
