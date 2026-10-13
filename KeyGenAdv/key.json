@@ -19096,11 +19096,11 @@
     "key": "DEVIL-BE18-3539-9741-F1A5",
     "validation": "2f903ee8c6b965886846806d586b59ec",
     "createdAt": 1791798348211,
-    "expiresAt": 1791841548211,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-10-12",
+    "expiresAt": 1791927970241,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-10-13",
     "banned": false
   },
   {
