@@ -19168,11 +19168,11 @@
     "key": "DEVIL-E32A-8935-28FF-2B58",
     "validation": "1597d15e66b9269e033fb3f15a31cb5d",
     "createdAt": 1791927335465,
-    "expiresAt": 1791970535465,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-10-13",
+    "expiresAt": 1792065036233,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-10-14",
     "banned": false
   },
   {
