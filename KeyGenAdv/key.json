@@ -19144,11 +19144,11 @@
     "key": "DEVIL-E88A-3B12-BE90-489D",
     "validation": "c2a64fd8c77c3bffc3edd834ad18c27a",
     "createdAt": 1791910489348,
-    "expiresAt": 1792048108219,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-10-14",
+    "expiresAt": 1792097527617,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-10-15",
     "banned": false
   },
   {
