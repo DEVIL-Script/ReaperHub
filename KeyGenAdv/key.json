@@ -19330,5 +19330,17 @@
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-10-17",
     "banned": false
+  },
+  {
+    "userId": "29470c6786fb7e096e874cc0eb03f49ec335f010ec7386eb9873a0cb78a95e51",
+    "key": "DEVIL-C700-1D2E-C2C6-0147",
+    "validation": "57acc3ed97d0dd6ab41fcb3356422f6c",
+    "createdAt": 1792259667944,
+    "expiresAt": 1792302867944,
+    "status": "ACTIVE",
+    "extensionCount": 0,
+    "totalExtensionCount": 0,
+    "lastExtensionDate": "2026-10-17",
+    "banned": false
   }
 ]
