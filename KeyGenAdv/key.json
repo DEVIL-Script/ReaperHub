@@ -18304,11 +18304,11 @@
     "key": "DEVIL-796C-1BE0-915A-010F",
     "validation": "da661d7ef164a09926e185c66661a6a7",
     "createdAt": 1786296209835,
-    "expiresAt": 1786503499960,
-    "status": "EXPIRED",
+    "expiresAt": 1792298821446,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-08-11",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-10-17",
     "banned": false
   },
   {
