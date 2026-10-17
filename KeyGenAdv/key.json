@@ -13238,7 +13238,7 @@
   {
     "userId": "290bfddcc376929cb192f0010b9098b75bbf6d7c16ca6a91fa881f8a13e15c6f",
     "key": "DEVIL-D20A-A1D8-E218-FCD3",
-    "validation": "bb820162ae462f727edcdd561ad87485",
+    "validation": "261dfc8be54b71e32619aa2222072380",
     "createdAt": 1783251007643,
     "expiresAt": 1792276697411,
     "status": "ACTIVE",
@@ -19277,7 +19277,7 @@
     "validation": "a55e51c55bcc83589c60b59e42fa133d",
     "createdAt": 1792199515780,
     "expiresAt": 1792242715780,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-10-17",
