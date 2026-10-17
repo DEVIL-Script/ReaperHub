@@ -2750,13 +2750,13 @@
   {
     "userId": "37e438b89a491acc62cb2738b1bbef26f7acf162567aab1b5f684e0043f04064",
     "key": "DEVIL-6338-7427-CAFF-271A",
-    "validation": "dcb58c4acd9105bef5720e2d73706b95",
+    "validation": "4777865efb5856c5c98afa4e5cd7b023",
     "createdAt": 1779026632336,
-    "expiresAt": 1784960795959,
-    "status": "EXPIRED",
+    "expiresAt": 1792281970285,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 14,
-    "lastExtensionDate": "2026-07-24",
+    "totalExtensionCount": 15,
+    "lastExtensionDate": "2026-10-17",
     "banned": false
   },
   {
@@ -7289,7 +7289,7 @@
     "validation": "df3f145f86f4149bc1ead87f68ea785d",
     "createdAt": 1782726058396,
     "expiresAt": 1792234857782,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 1,
     "totalExtensionCount": 13,
     "lastExtensionDate": "2026-10-16",
