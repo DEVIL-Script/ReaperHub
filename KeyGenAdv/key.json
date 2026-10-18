@@ -5356,11 +5356,11 @@
     "key": "DEVIL-80B7-A72F-B176-9485",
     "validation": "7a983d5c451bb6609a76551e115be63f",
     "createdAt": 1782669285626,
-    "expiresAt": 1792275923737,
-    "status": "EXPIRED",
+    "expiresAt": 1792360681228,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 14,
-    "lastExtensionDate": "2026-10-17",
+    "totalExtensionCount": 15,
+    "lastExtensionDate": "2026-10-18",
     "banned": false
   },
   {
