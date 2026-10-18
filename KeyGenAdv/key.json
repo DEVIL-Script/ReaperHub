@@ -13240,10 +13240,10 @@
     "key": "DEVIL-D20A-A1D8-E218-FCD3",
     "validation": "261dfc8be54b71e32619aa2222072380",
     "createdAt": 1783251007643,
-    "expiresAt": 1792331007572,
+    "expiresAt": 1792376762339,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 16,
+    "extensionCount": 2,
+    "totalExtensionCount": 17,
     "lastExtensionDate": "2026-10-18",
     "banned": false
   },
