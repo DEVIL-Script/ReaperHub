@@ -19334,13 +19334,13 @@
   {
     "userId": "29470c6786fb7e096e874cc0eb03f49ec335f010ec7386eb9873a0cb78a95e51",
     "key": "DEVIL-C700-1D2E-C2C6-0147",
-    "validation": "57acc3ed97d0dd6ab41fcb3356422f6c",
+    "validation": "7de23b909cc624d4f3660db94cfa8c3e",
     "createdAt": 1792259667944,
-    "expiresAt": 1792302867944,
+    "expiresAt": 1792350416965,
     "status": "ACTIVE",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-10-17",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-10-18",
     "banned": false
   },
   {
@@ -19349,7 +19349,7 @@
     "validation": "fce67fc3d45720c3ce9cbe2b0b8aea79",
     "createdAt": 1792261651296,
     "expiresAt": 1792304851296,
-    "status": "ACTIVE",
+    "status": "EXPIRED",
     "extensionCount": 0,
     "totalExtensionCount": 0,
     "lastExtensionDate": "2026-10-17",
