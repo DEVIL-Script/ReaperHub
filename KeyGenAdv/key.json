@@ -964,11 +964,11 @@
     "key": "DEVIL-8506-7017-B3B3-3FB6",
     "validation": "e530f3537960763de85ae2fb22938a5a",
     "createdAt": 1775418893436,
-    "expiresAt": 1792319993901,
-    "status": "EXPIRED",
+    "expiresAt": 1792391097340,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-10-17",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-10-18",
     "banned": false
   },
   {
