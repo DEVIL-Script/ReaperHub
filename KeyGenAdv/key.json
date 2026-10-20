@@ -19312,11 +19312,11 @@
     "key": "DEVIL-2917-BCF0-1045-9EC6",
     "validation": "79bd2ed3c1d1b56b08b1823b06e9d0f9",
     "createdAt": 1792231312194,
-    "expiresAt": 1792475372527,
-    "status": "EXPIRED",
+    "expiresAt": 1792569246149,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-10-19",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-10-20",
     "banned": false
   },
   {
