@@ -19298,13 +19298,13 @@
   {
     "userId": "84b6585631b19989c0550afeaa9532a9428dc7dda84f782186e003e643a047be",
     "key": "DEVIL-B32A-47BD-01ED-CA60",
-    "validation": "a40303e8fda3a64043e8a7c29460d88a",
+    "validation": "ff5209dc7e78c9c4c8e1f782b99b4f5e",
     "createdAt": 1792221818048,
-    "expiresAt": 1792310856463,
-    "status": "EXPIRED",
+    "expiresAt": 1792565653381,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-10-17",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-10-20",
     "banned": false
   },
   {
