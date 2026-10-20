@@ -19120,11 +19120,11 @@
     "key": "DEVIL-D096-C41E-0904-7FA6",
     "validation": "1119525877581eab72a3b3108a3877e7",
     "createdAt": 1791880172626,
-    "expiresAt": 1792082588577,
-    "status": "EXPIRED",
+    "expiresAt": 1792537162092,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 2,
-    "lastExtensionDate": "2026-10-15",
+    "totalExtensionCount": 3,
+    "lastExtensionDate": "2026-10-20",
     "banned": false
   },
   {
