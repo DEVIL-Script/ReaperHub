@@ -15880,11 +15880,11 @@
     "key": "DEVIL-884B-B2EB-3D9F-41DF",
     "validation": "8b11ed178c966604296322747b1038b5",
     "createdAt": 1784654915216,
-    "expiresAt": 1792368637450,
-    "status": "EXPIRED",
+    "expiresAt": 1792507536867,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 7,
-    "lastExtensionDate": "2026-10-18",
+    "totalExtensionCount": 8,
+    "lastExtensionDate": "2026-10-20",
     "banned": false
   },
   {
