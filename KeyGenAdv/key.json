@@ -6568,11 +6568,11 @@
     "key": "DEVIL-13A7-E46E-C878-AA11",
     "validation": "6b22a122781d4d8b3c6ccac882d46057",
     "createdAt": 1782696289668,
-    "expiresAt": 1792668497055,
-    "status": "EXPIRED",
+    "expiresAt": 1792735202854,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 17,
-    "lastExtensionDate": "2026-10-21",
+    "totalExtensionCount": 18,
+    "lastExtensionDate": "2026-10-22",
     "banned": false
   },
   {
