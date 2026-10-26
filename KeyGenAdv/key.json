@@ -19540,10 +19540,10 @@
     "key": "DEVIL-6C74-FC20-021A-7C5A",
     "validation": "8b108f014a960757c364c91a0bec0639",
     "createdAt": 1792854102913,
-    "expiresAt": 1793149376737,
+    "expiresAt": 1793192576737,
     "status": "ACTIVE",
-    "extensionCount": 3,
-    "totalExtensionCount": 4,
+    "extensionCount": 4,
+    "totalExtensionCount": 5,
     "lastExtensionDate": "2026-10-26",
     "banned": false
   },
