@@ -19180,11 +19180,11 @@
     "key": "DEVIL-26BD-A850-EA7C-E94F",
     "validation": "ffc8cb12fcbf91ddec2acb5b1e449d4c",
     "createdAt": 1791954577366,
-    "expiresAt": 1793094545292,
-    "status": "EXPIRED",
+    "expiresAt": 1793174775371,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 12,
-    "lastExtensionDate": "2026-10-26",
+    "totalExtensionCount": 13,
+    "lastExtensionDate": "2026-10-27",
     "banned": false
   },
   {
