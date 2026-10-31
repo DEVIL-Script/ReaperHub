@@ -19334,13 +19334,13 @@
   {
     "userId": "29470c6786fb7e096e874cc0eb03f49ec335f010ec7386eb9873a0cb78a95e51",
     "key": "DEVIL-C700-1D2E-C2C6-0147",
-    "validation": "ee05b62b6083bb80014b3d172e019e56",
+    "validation": "3c3142303e9a2c998a1607c40cf2b9e4",
     "createdAt": 1792259667944,
-    "expiresAt": 1793405494541,
-    "status": "EXPIRED",
+    "expiresAt": 1793482055970,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 12,
-    "lastExtensionDate": "2026-10-30",
+    "totalExtensionCount": 13,
+    "lastExtensionDate": "2026-10-31",
     "banned": false
   },
   {
