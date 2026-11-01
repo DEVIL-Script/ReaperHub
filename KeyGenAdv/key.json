@@ -18832,11 +18832,11 @@
     "key": "DEVIL-5DAB-3538-B29A-822C",
     "validation": "3d54c7234b2b9a999ce09e8d9e1274a5",
     "createdAt": 1790531023190,
-    "expiresAt": 1793506598841,
-    "status": "EXPIRED",
+    "expiresAt": 1793562344581,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 42,
-    "lastExtensionDate": "2026-10-31",
+    "totalExtensionCount": 43,
+    "lastExtensionDate": "2026-11-01",
     "banned": false
   },
   {
