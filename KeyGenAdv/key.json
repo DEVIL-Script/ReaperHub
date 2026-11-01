@@ -14272,11 +14272,11 @@
     "key": "DEVIL-EE60-9CFC-A194-170D",
     "validation": "d7ec894551ee9301ec49b15011c8f2ee",
     "createdAt": 1783514076720,
-    "expiresAt": 1793451667474,
-    "status": "EXPIRED",
+    "expiresAt": 1793574111316,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-10-31",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-11-01",
     "banned": false
   },
   {
