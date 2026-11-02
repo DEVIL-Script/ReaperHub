@@ -19816,11 +19816,11 @@
     "key": "DEVIL-18C9-E3DF-87DB-6018",
     "validation": "7842674633228854b39c2529af18cba9",
     "createdAt": 1793471201268,
-    "expiresAt": 1793561765090,
-    "status": "EXPIRED",
+    "expiresAt": 1793635472683,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-11-01",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-11-02",
     "banned": false
   },
   {
