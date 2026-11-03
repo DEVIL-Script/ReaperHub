@@ -8978,13 +8978,13 @@
   {
     "userId": "6897fefc57e03df889370a901f062734e6a3b796c02496fac4acc7a5456c976c",
     "key": "DEVIL-F803-70D1-D939-01A7",
-    "validation": "fdcbcd54b3b091714fd19bc9e537f08a",
+    "validation": "6ce32b19524b6a830eac5df8fad5aa61",
     "createdAt": 1782795219982,
-    "expiresAt": 1783239499466,
-    "status": "EXPIRED",
-    "extensionCount": 2,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-07-04",
+    "expiresAt": 1793721745404,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-11-03",
     "banned": false
   },
   {
