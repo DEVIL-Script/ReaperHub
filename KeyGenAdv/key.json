@@ -8104,10 +8104,10 @@
     "key": "DEVIL-A00B-7DE4-10F1-1F8F",
     "validation": "e0dd78dece5dfc27d526b7927414d2dd",
     "createdAt": 1782754092703,
-    "expiresAt": 1793855871126,
+    "expiresAt": 1793899071126,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 1,
+    "extensionCount": 2,
+    "totalExtensionCount": 2,
     "lastExtensionDate": "2026-11-04",
     "banned": false
   },
