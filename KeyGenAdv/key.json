@@ -19924,11 +19924,11 @@
     "key": "DEVIL-122C-8898-8B08-BA0E",
     "validation": "7fa03d3faf758ef4f8c6ad83b6b93da5",
     "createdAt": 1793823717322,
-    "expiresAt": 1793866917322,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-11-04",
+    "expiresAt": 1793932456488,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-11-05",
     "banned": false
   },
   {
