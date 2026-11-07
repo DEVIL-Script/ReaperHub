@@ -18700,11 +18700,11 @@
     "key": "DEVIL-A03D-0C5C-3F46-AF9E",
     "validation": "6fb4dc4bfabb04e4744638652e6e8dd6",
     "createdAt": 1790406850847,
-    "expiresAt": 1794003102333,
-    "status": "EXPIRED",
+    "expiresAt": 1794056314495,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 4,
-    "lastExtensionDate": "2026-11-06",
+    "totalExtensionCount": 5,
+    "lastExtensionDate": "2026-11-07",
     "banned": false
   },
   {
