@@ -19948,11 +19948,11 @@
     "key": "DEVIL-CC1D-1DD3-FE7D-DF74",
     "validation": "41b7ee6c6ac1d32f195c24ef2a279904",
     "createdAt": 1793932543035,
-    "expiresAt": 1794032317292,
-    "status": "EXPIRED",
+    "expiresAt": 1794221636028,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-11-06",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-11-08",
     "banned": false
   },
   {
