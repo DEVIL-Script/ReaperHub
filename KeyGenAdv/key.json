@@ -19348,11 +19348,11 @@
     "key": "DEVIL-509F-CA93-C1A3-0490",
     "validation": "8ba1f3a4fa49efccf834dc04fe6fc937",
     "createdAt": 1792261651296,
-    "expiresAt": 1794065896043,
-    "status": "EXPIRED",
+    "expiresAt": 1794199010844,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 13,
-    "lastExtensionDate": "2026-11-07",
+    "totalExtensionCount": 14,
+    "lastExtensionDate": "2026-11-08",
     "banned": false
   },
   {
