@@ -20066,13 +20066,13 @@
   {
     "userId": "5db7879f6d10d117e8136031148c64d083cacad47868c5adbf55644579025278",
     "key": "DEVIL-4DFD-09AE-0E2D-40B5",
-    "validation": null,
+    "validation": "2212faf765ffa07ec6b448acd51f1da0",
     "createdAt": 1794399057870,
-    "expiresAt": 1794485457870,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-11-11",
+    "expiresAt": 1794639642136,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-11-13",
     "banned": false
   }
 ]
