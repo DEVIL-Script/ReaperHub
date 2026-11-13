@@ -496,11 +496,11 @@
     "key": "DEVIL-E885-58BB-FF77-FB73",
     "validation": "03db0916c30e04dbbd5e5c02bd21213b",
     "createdAt": 1775008485048,
-    "expiresAt": 1794531800173,
-    "status": "EXPIRED",
+    "expiresAt": 1794640117211,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 12,
-    "lastExtensionDate": "2026-11-12",
+    "totalExtensionCount": 13,
+    "lastExtensionDate": "2026-11-13",
     "banned": false
   },
   {
