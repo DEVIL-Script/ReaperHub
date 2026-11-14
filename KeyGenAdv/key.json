@@ -20068,11 +20068,11 @@
     "key": "DEVIL-4DFD-09AE-0E2D-40B5",
     "validation": "2212faf765ffa07ec6b448acd51f1da0",
     "createdAt": 1794399057870,
-    "expiresAt": 1794639642136,
-    "status": "EXPIRED",
+    "expiresAt": 1794706592861,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-11-13",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-11-14",
     "banned": false
   }
 ]
