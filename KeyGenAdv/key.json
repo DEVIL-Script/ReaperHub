@@ -20092,11 +20092,11 @@
     "key": "DEVIL-54A0-76FA-68A5-517E",
     "validation": "17566d1e274eb8fde43edb742acf9cd7",
     "createdAt": 1794696302996,
-    "expiresAt": 1794739502996,
-    "status": "EXPIRED",
-    "extensionCount": 0,
-    "totalExtensionCount": 0,
-    "lastExtensionDate": "2026-11-14",
+    "expiresAt": 1794816974578,
+    "status": "ACTIVE",
+    "extensionCount": 1,
+    "totalExtensionCount": 1,
+    "lastExtensionDate": "2026-11-15",
     "banned": false
   }
 ]
