@@ -19960,10 +19960,10 @@
     "key": "DEVIL-5966-6FEB-266F-DED1",
     "validation": "ef5bafc984c069701ae6682c8d2394bf",
     "createdAt": 1793997447083,
-    "expiresAt": 1794890179446,
+    "expiresAt": 1794933379446,
     "status": "ACTIVE",
-    "extensionCount": 1,
-    "totalExtensionCount": 11,
+    "extensionCount": 2,
+    "totalExtensionCount": 12,
     "lastExtensionDate": "2026-11-16",
     "banned": false
   },
