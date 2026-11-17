@@ -20008,11 +20008,11 @@
     "key": "DEVIL-B3F2-CCE3-FC5C-841B",
     "validation": "4f2f16f5862773c19a56c447c32c2f92",
     "createdAt": 1794098837272,
-    "expiresAt": 1794828965893,
-    "status": "EXPIRED",
+    "expiresAt": 1794922010713,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 5,
-    "lastExtensionDate": "2026-11-15",
+    "totalExtensionCount": 6,
+    "lastExtensionDate": "2026-11-17",
     "banned": false
   },
   {
