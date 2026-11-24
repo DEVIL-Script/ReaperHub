@@ -3818,13 +3818,13 @@
   {
     "userId": "92e718269f7b731ffd881286c68536ba0d399d0ad9427fcde7ce49701d613e92",
     "key": "DEVIL-D153-AA96-7618-2BEA",
-    "validation": "2faba6b00d87ef58941fc4e831db90e7",
+    "validation": "96e4a6c553c4f03a357844416765e2c2",
     "createdAt": 1781648076525,
-    "expiresAt": 1781743052356,
-    "status": "EXPIRED",
+    "expiresAt": 1795596605501,
+    "status": "ACTIVE",
     "extensionCount": 1,
-    "totalExtensionCount": 1,
-    "lastExtensionDate": "2026-06-17",
+    "totalExtensionCount": 2,
+    "lastExtensionDate": "2026-11-24",
     "banned": false
   },
   {
